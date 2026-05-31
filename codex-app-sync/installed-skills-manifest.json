@@ -212,9 +212,9 @@
       "kind": "user",
       "name": "frames-cli",
       "plugin": null,
-      "skill_md_sha256": "e7935483dfc22d759c30999e8efd657ea8e21fb110d6072d53bb30e6b0d0e309",
-      "source": "~/Development/frames-cli/skill",
-      "tree_sha256": "f4ba5cc653d1d8aa50db2a67912fca1f1004ea91457e3dac207da06c21760e9a",
+      "skill_md_sha256": "6f8a2438175568cdc9ede9ce410a6bc415c8e7a3525c5a1331a65bfc0068eab3",
+      "source": "~/.codex/skills/frames-cli",
+      "tree_sha256": "0de64bc6191449809389e760199508ddcf24e2f76785e10fd2388475b41cddc5",
       "version": null
     },
     {
@@ -453,6 +453,24 @@
     },
     {
       "kind": "user",
+      "name": "skill-creator",
+      "plugin": null,
+      "skill_md_sha256": "31b0010a4e1f30d8bfe06486996bbaf28973053cdc405a4ff29cebe5ddbaf77e",
+      "source": "~/.codex/skills/skill-creator",
+      "tree_sha256": "4298f8903bd4548691614dc190cb2bf8c423e5399bb2294062cae135d89d41dd",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "skill-installer",
+      "plugin": null,
+      "skill_md_sha256": "ea0be3fdc00e7113071837d33fd0045d1074a2927cdb44569d372e91528e8d9d",
+      "source": "~/.codex/skills/skill-installer",
+      "tree_sha256": "3bea6f689e282d26c6ee0a0f4688f03699aada09eae97f551f15382581f26bb9",
+      "version": null
+    },
+    {
+      "kind": "user",
       "name": "skill-share",
       "plugin": null,
       "skill_md_sha256": "490d49b6be9169c3e992b2ddbce7c8e4f88c95a5c574a9007cef7d1b2d7937a2",
@@ -542,7 +560,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-05-31T16:15:43+00:00",
+  "generated_at": "2026-05-31T16:36:57+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -840,24 +858,6 @@
       "source": "~/.codex/plugins/cache/openai-curated/canva/fef63ecf/skills/canva-translate-design",
       "tree_sha256": "98657efcf505c51e5c5fcafd58e134ab62bc8ab61476b88ad120ef67a28cf561",
       "version": "fef63ecf"
-    },
-    {
-      "kind": "plugin",
-      "name": "build-chatgpt-app",
-      "plugin": "chatgpt-apps",
-      "skill_md_sha256": "b4ba5e0847e9b56b327da4e7546f5f0bf3325f54d6d21fc119b320bc2c898a53",
-      "source": "~/.codex/plugins/cache/openai-curated/chatgpt-apps/f812c146/skills/build-chatgpt-app",
-      "tree_sha256": "40ff286e846dde564afd50a375b3f17c7a265d8570c4ae81542d601bb2eae4b8",
-      "version": "f812c146"
-    },
-    {
-      "kind": "plugin",
-      "name": "chatgpt-app-submission",
-      "plugin": "chatgpt-apps",
-      "skill_md_sha256": "a92342d65537b7d4116e5cac3e562f2ba180c735f1d8b719099823ba32829c21",
-      "source": "~/.codex/plugins/cache/openai-curated/chatgpt-apps/f812c146/skills/chatgpt-app-submission",
-      "tree_sha256": "85fd7154b61cfdbde0ed7504eb16e8f3b3331c7ac257d0078d376f314863f200",
-      "version": "f812c146"
     },
     {
       "kind": "plugin",
