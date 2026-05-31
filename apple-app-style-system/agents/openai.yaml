@@ -1,0 +1,8 @@
+interface:
+  display_name: "Apple App Style System"
+  short_description: "Default SwiftUI app style foundation"
+  brand_color: "#0A84FF"
+  default_prompt: "Use $apple-app-style-system to scaffold a new native SwiftUI app with my default design standard."
+
+policy:
+  allow_implicit_invocation: true

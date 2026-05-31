@@ -1,0 +1,1250 @@
+{
+  "codex_home": "~/.codex",
+  "copied_user_skills": [
+    {
+      "kind": "user",
+      "name": "agent-deep-links",
+      "plugin": null,
+      "skill_md_sha256": "3a6bc3d4b9dd6fcf74ab85a31abfab222ada8f31df5bafe6334f5d2a1be283a2",
+      "source": "~/.codex/skills/agent-deep-links",
+      "tree_sha256": "37806b3c75da386577d98749a56dc45007d500919796cd816f02d1fc6e9b8ca0",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "apple-app-style-system",
+      "plugin": null,
+      "skill_md_sha256": "04918512133f8f5b8920c5c5b2c5fe49100f97996b5a1d823280335ced90671e",
+      "source": "~/.codex/skills/apple-app-style-system",
+      "tree_sha256": "522b91a97e6dd8b488cc74d6428837e0c97a5a4778c8fe0c56b02a27f283b39a",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "apple-platform-design",
+      "plugin": null,
+      "skill_md_sha256": "63129cdf1cd0a1e06d7220241010c59ba70480499fa2cc28a12d43354040a60b",
+      "source": "~/.codex/skills/apple-platform-design",
+      "tree_sha256": "d0efe953f15cef768dca6d331f88c33540ff48a0c3401b3ad83351498e77ed75",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "brand-guidelines",
+      "plugin": null,
+      "skill_md_sha256": "27ff6934874ee2b8832bba2909a1e96074bcf7e182ac554723e034429593dde3",
+      "source": "~/.codex/skills/brand-guidelines",
+      "tree_sha256": "f6c34d2746a95e15ecfe3547281441a6254c88fddca4a8b472241eb67bd0649d",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "budgeting-personal-finance-cpa",
+      "plugin": null,
+      "skill_md_sha256": "72a9f92e5547d9b54df790f4590c557802cb8cb0e8c126a9252423f2c190e4dd",
+      "source": "~/.codex/skills/budgeting-personal-finance-cpa",
+      "tree_sha256": "7c9dd1526054c1a71b5ce198f01574559bf206859e7bf9f71f6792660a987930",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "canvas-design",
+      "plugin": null,
+      "skill_md_sha256": "a1f288079624402f30682753c1d43920b6664785698d21d3e7aa197450a6448b",
+      "source": "~/.codex/skills/canvas-design",
+      "tree_sha256": "7b45eda96adc9c0351843350c46880dc59ff7a2054834830647082bbc42c896d",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "changelog-generator",
+      "plugin": null,
+      "skill_md_sha256": "0fdde1fc7ed062a82fd7ba98057f5d471c5d1905bfe2ddc4eeb213450cb00c18",
+      "source": "~/.codex/skills/changelog-generator",
+      "tree_sha256": "bdb94135eca5e558a25661be03e7d48c3488f2261d627a2bd0e2aaa1994a866e",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "chatgpt-apps",
+      "plugin": null,
+      "skill_md_sha256": "c3a13a659ce26e9d067b5a97c321e8abec6d8e878afce31b7e841dfcf2635c3a",
+      "source": "~/.codex/skills/chatgpt-apps",
+      "tree_sha256": "6125da21d2d28730d09fe98cc9e550970e433ed365646787916820d7c82c108d",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "cloudflare-deploy",
+      "plugin": null,
+      "skill_md_sha256": "d7632537cf19be17cf33d2c696b9d9c2ea3ee51026030e9b203d5b9255e75b15",
+      "source": "~/.codex/skills/cloudflare-deploy",
+      "tree_sha256": "024c7db3f4de5dfd350f7f205fb2c0379afbefd4f81eb510bcaa1b3a54825ea7",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "codebase-migrate",
+      "plugin": null,
+      "skill_md_sha256": "30f03cd88236d911fdd0090e00f4479edf620d2a35f830c13262caa265ab9aeb",
+      "source": "~/.codex/skills/codebase-migrate",
+      "tree_sha256": "d4dcc2bff7103febb28ee8160ff4005f41aa531d1ae7f9d75eddd92476abd117",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "competitive-ads-extractor",
+      "plugin": null,
+      "skill_md_sha256": "c9bc0f711936ee058858c938c14ac2b52fc0241cde766eff7aca020e9874f157",
+      "source": "~/.codex/skills/competitive-ads-extractor",
+      "tree_sha256": "7b6902c6f10919e65ae89e5823d104e5edcba1bbd8ff2ee2c0d51a7c4cf5ef93",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "connect",
+      "plugin": null,
+      "skill_md_sha256": "60b7287fe8527d83b5dbf19bd3cbf71bf43da848b503433cc139a8f4b60342bf",
+      "source": "~/.codex/skills/connect",
+      "tree_sha256": "39a569b7fbd2838930cc44a9bcb14808f52ecd711de0e4ffd19f072fbb7f7e2e",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "connect-apps",
+      "plugin": null,
+      "skill_md_sha256": "dadc78f0fca0ff3f565f07dfe0757797145298774dcbf3071e07861f3916725a",
+      "source": "~/.codex/skills/connect-apps",
+      "tree_sha256": "7d5376b576f380954e84b4b435bd181a2907f3a4006bd4b058a8fbf9613838be",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "content-research-writer",
+      "plugin": null,
+      "skill_md_sha256": "27eb5c1a0a88a9c1c64f6fcd9c28782e6a6e70d5da43233c4e99ade946f74825",
+      "source": "~/.codex/skills/content-research-writer",
+      "tree_sha256": "4bd7e58b8256cd2a8ad37bb3ce0a0acb525cb9956db35ce23495bcde190ca9b8",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "create-plan",
+      "plugin": null,
+      "skill_md_sha256": "e3c1af59fe8fc6a040f50504babb5003c4489eee4fcfd987794227758f7291a3",
+      "source": "~/.codex/skills/create-plan",
+      "tree_sha256": "e34f28d2a61286bf7efdb49d9438b56aa38671b73f25fb23b7c4ad63c1185fe3",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "datadog-logs",
+      "plugin": null,
+      "skill_md_sha256": "0ed73423e1476707ec700c28454797eec0a5c120814b688adb6bae7a38d9b911",
+      "source": "~/.codex/skills/datadog-logs",
+      "tree_sha256": "2ac2ec0fd4bfbe0d3298339ad2ae8c3fb469ea2552d2574349ab767c7f2012e8",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "deploy-pipeline",
+      "plugin": null,
+      "skill_md_sha256": "7029d955980758d4b0dd94b27d8af253a8cbb4643125f3210ae2bfd951fd756e",
+      "source": "~/.codex/skills/deploy-pipeline",
+      "tree_sha256": "6fadeeaf2ffc68078ecc6729782282c0026085bb100d2629a957c801fe6b2f13",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "developer-growth-analysis",
+      "plugin": null,
+      "skill_md_sha256": "92efa49f5a09fa4e2dfef575341110ce023f87de19aed40bda1f31355e62145d",
+      "source": "~/.codex/skills/developer-growth-analysis",
+      "tree_sha256": "475b6794ed7f338d60a9b9f09d7bddfaee164f8b459c89e7077939b42cea3561",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "development-project-documentation",
+      "plugin": null,
+      "skill_md_sha256": "eba9aeec534e27711c8d16dcc3634bba8846c2ae3b660e8fd881472983cae743",
+      "source": "~/.codex/skills/development-project-documentation",
+      "tree_sha256": "40f4e83c709ddcc3f26025d7a8e11fdc5c925d5cca421a667acc9181aa79d4e5",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "doc",
+      "plugin": null,
+      "skill_md_sha256": "0a635585817d1ac96e8e512114d08258b70f9e54ce0052078a258291ac13a8ed",
+      "source": "~/.codex/skills/doc",
+      "tree_sha256": "4f9b74c2a509e5fb98fd7f9599352c306309a3afa0066ceb0c290e2cc2b8748f",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "domain-name-brainstormer",
+      "plugin": null,
+      "skill_md_sha256": "495707739b354f81d1e28c6188dd55b97fdf5c64ae3e3c182ba6f092b2ab782b",
+      "source": "~/.codex/skills/domain-name-brainstormer",
+      "tree_sha256": "41d975bcf555a9a2c31399bfee73c18f1132a655c3e8100a7c161520f872be4b",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "email-draft-polish",
+      "plugin": null,
+      "skill_md_sha256": "6d3d14e9fea78dea2068441788660a67f4d7fd2b3df7f2034a562d56af2945b5",
+      "source": "~/.codex/skills/email-draft-polish",
+      "tree_sha256": "7759d2a58cff4d5b45aa21e914aa46932015676c36fb2e83a570e31afd5263f2",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "file-organizer",
+      "plugin": null,
+      "skill_md_sha256": "a8b91952bab7f73511db68149c4a54672b40699903a8e35ed5044c3e3039ded5",
+      "source": "~/.codex/skills/file-organizer",
+      "tree_sha256": "5909e7d326be2ac7db1561acc1c022b9ece408ba514283f52b93519d4ff8e967",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "frames-cli",
+      "plugin": null,
+      "skill_md_sha256": "e7935483dfc22d759c30999e8efd657ea8e21fb110d6072d53bb30e6b0d0e309",
+      "source": "~/Development/frames-cli/skill",
+      "tree_sha256": "f4ba5cc653d1d8aa50db2a67912fca1f1004ea91457e3dac207da06c21760e9a",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "frontend-skill",
+      "plugin": null,
+      "skill_md_sha256": "d367b2d22825d74c169475507e7ff109b81c1e9c20b2de3421fb19fcfbe3329b",
+      "source": "~/.codex/skills/frontend-skill",
+      "tree_sha256": "277e74b71272175645a4cf4a66d5aa1d150a7ed6d19424ffb91cd9b5b6e63fb9",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "gh-address-comments",
+      "plugin": null,
+      "skill_md_sha256": "77389eefd3fb6584210668ca8e43f4b8de87e7722ddd953474bc9e24cdfaaedd",
+      "source": "~/.codex/skills/gh-address-comments",
+      "tree_sha256": "55318b210f75fbe619796f347316bf8fe9536ca727362e0919c243704aa7808b",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "gh-fix-ci",
+      "plugin": null,
+      "skill_md_sha256": "4cd263f7c587626cb5f746a4850792a09cbc337c4b3d8fda5c32fb2b0a5771f4",
+      "source": "~/.codex/skills/gh-fix-ci",
+      "tree_sha256": "955505cd88723a29a822e36fc3ae9272b98e27a6f6bdb140f988b29d3314b22f",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "helium-mcp",
+      "plugin": null,
+      "skill_md_sha256": "2baad214f1ce4a80e1a4c59480b736192eede38fad025b1824573b6448bad784",
+      "source": "~/.codex/skills/helium-mcp",
+      "tree_sha256": "2c80e8185ccb04866bbc6f8ac95a0d005e374a0568a6882e1a398fadf0ce296d",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "image-enhancer",
+      "plugin": null,
+      "skill_md_sha256": "57b003b9cd0c3e42861194c37e2df061061f3e1e4b03e776fa33bf27b045e40c",
+      "source": "~/.codex/skills/image-enhancer",
+      "tree_sha256": "987f605112ff5434284406d7f2fff7f178d7c82ea22276c1a3050af87a41f1e5",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "internal-comms",
+      "plugin": null,
+      "skill_md_sha256": "067b7587a344a928fc6534ef66b1bcd591fc7c26d207ea7ca3334aeb678d6475",
+      "source": "~/.codex/skills/internal-comms",
+      "tree_sha256": "51ce3ab24a399c08795464915312958dc81d60c25209efbd4629fb9817fcc17b",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "invoice-organizer",
+      "plugin": null,
+      "skill_md_sha256": "62198235231376cb09bc28bd601fb120d3ef24b3ddb55c4b71965f9044352fda",
+      "source": "~/.codex/skills/invoice-organizer",
+      "tree_sha256": "358e8e2cc5823dd31df86395017146ebf252c16645d8c4b09058a866c5f6ec1f",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "issue-triage",
+      "plugin": null,
+      "skill_md_sha256": "865114bf512950f3508f075d54e30545d19eb0f9706ba3d65e3d3ebc185724d0",
+      "source": "~/.codex/skills/issue-triage",
+      "tree_sha256": "b15834a98c730d846734d0ce7be5dba954d2b60e0fdab7d6a02064a5442b8944",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "langsmith-fetch",
+      "plugin": null,
+      "skill_md_sha256": "bf6a7ab27abb3b6eb0afdc5cd682175fba465183b5df35c061f1d45472d3fe97",
+      "source": "~/.codex/skills/langsmith-fetch",
+      "tree_sha256": "1fc094e3ad14009cfab75a46c06a1383a8fde37913bdfd8fb7a3fbd34384ffd5",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "lead-research-assistant",
+      "plugin": null,
+      "skill_md_sha256": "5b6a21b21d4a4bfd3ae0a07746261e0675212c12781e4846a8bb1b1f5386c73f",
+      "source": "~/.codex/skills/lead-research-assistant",
+      "tree_sha256": "7a5c85261995ad880837663c3dbd5daddf2ef1cc3b17e0bf63815df5cfe8b633",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "linear",
+      "plugin": null,
+      "skill_md_sha256": "ce0f39c95b6c9190f8ea33614393cdb556b2684dd8388ded394e9cb915f42601",
+      "source": "~/.codex/skills/linear",
+      "tree_sha256": "6b8ea490183b5e51b01d5eb2141162f23bdbb99899c9c6624bee3bd5e2509e39",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "mcp-builder",
+      "plugin": null,
+      "skill_md_sha256": "b1010e90adcb8fd6bf57640df34ab6454fbf7e4216e150a4620f7caccadc4e63",
+      "source": "~/.codex/skills/mcp-builder",
+      "tree_sha256": "9274332deead3b15625f6b7a1e9ecae92b5f058291d7488dd9b98e79dae65596",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "meeting-insights-analyzer",
+      "plugin": null,
+      "skill_md_sha256": "2ee7403e6d32b40f312a508d7f95bf497e57d610cfdaf7d4167c9f18c01b7c9e",
+      "source": "~/.codex/skills/meeting-insights-analyzer",
+      "tree_sha256": "723c45b9c48c72e4d1c01ffa579025ef21cdc1ef8be6115cec5c2d16dc3db33c",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "meeting-notes-and-actions",
+      "plugin": null,
+      "skill_md_sha256": "932eaf79198aba4322dca81bafe5fa0f1d00668b9b8b3f06918397b4a2d03f69",
+      "source": "~/.codex/skills/meeting-notes-and-actions",
+      "tree_sha256": "16001e244e85cd35162031f34f2674a7306393c6a40983cf8983394bf7d43434",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "notion-knowledge-capture",
+      "plugin": null,
+      "skill_md_sha256": "b49383b229bc766190ea22bb58502cfcf7e08449f5fce55a104eef1e54e27f00",
+      "source": "~/.codex/skills/notion-knowledge-capture",
+      "tree_sha256": "81180f7dc5d611f60ec50b058ca52f96eabda8cb6b4ac3415d826819682d7820",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "notion-meeting-intelligence",
+      "plugin": null,
+      "skill_md_sha256": "bad61faccbbe0f2cab53bcfbc4cb22f847ba8593ef14c2e37fea5b9b03346332",
+      "source": "~/.codex/skills/notion-meeting-intelligence",
+      "tree_sha256": "d0031b7b1f1407b8392d59346be825bc7faa5253984587519aa338a2083b684d",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "notion-research-documentation",
+      "plugin": null,
+      "skill_md_sha256": "e88a46da978cf6f088a788fa92ee736df699a355a72f41f14bdc258bf3ef57e7",
+      "source": "~/.codex/skills/notion-research-documentation",
+      "tree_sha256": "5174f05192571760fea2be08925eee7bdd271d9125ee6e8b6eb9b112bb7e07c3",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "notion-spec-to-implementation",
+      "plugin": null,
+      "skill_md_sha256": "6e22c4c6df441e849fa6b4b825371b579c9bb4896f97bedca5f8536020427a81",
+      "source": "~/.codex/skills/notion-spec-to-implementation",
+      "tree_sha256": "ccee3bc91d0d9485709273eefe1d7d2cda6b64af52eef37d3c865f8d245fd6ce",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "paperjsx",
+      "plugin": null,
+      "skill_md_sha256": "80fb44c66726a16a2bd9dc2d34c41b6751623f67e56678abae003d9391aa17c0",
+      "source": "~/.codex/skills/paperjsx",
+      "tree_sha256": "6a6ca5c302fd827fc80f719637b508cf69a02ecff68d2ecb5b57329ec1623d01",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "pdf",
+      "plugin": null,
+      "skill_md_sha256": "d108cf2b36355ab37eb5962933f4d09785ec002f3105c506129320209306b9d2",
+      "source": "~/.codex/skills/pdf",
+      "tree_sha256": "35438bda9bf204ed28bba40770448b62e18e5c07535ca267232c2de50581007f",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "playwright",
+      "plugin": null,
+      "skill_md_sha256": "0ffaabcc8e0990627c4725f18bf1c7955534a796c1c199e872909de2013ce6a8",
+      "source": "~/.codex/skills/playwright",
+      "tree_sha256": "a07e84fb070086479ba28d10537692f730c798b5b19242b440ff5c17ef2584da",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "playwright-interactive",
+      "plugin": null,
+      "skill_md_sha256": "f6c1155d923e6ae3ccc12abfef2266f119f8e9546df2ddeee1f5eb369845a0a1",
+      "source": "~/.codex/skills/playwright-interactive",
+      "tree_sha256": "c212cf4070f97d674167854fb9eacb2e141ba1138301262bdab8c8262908a870",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "pr-review-ci-fix",
+      "plugin": null,
+      "skill_md_sha256": "8dba012bf5a62e574c090587d18774ccd0883300ac8f4c06b91297c39020a00a",
+      "source": "~/.codex/skills/pr-review-ci-fix",
+      "tree_sha256": "450e366d0a40ce44982ec269cf6a0e3e4a55754151452e9c9476841044f2df8e",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "raffle-winner-picker",
+      "plugin": null,
+      "skill_md_sha256": "3ca742a080f4b257cfec431fa641006d270f7c53422a20d48465a38ccf75c5db",
+      "source": "~/.codex/skills/raffle-winner-picker",
+      "tree_sha256": "8d79d4a1210af36783149c0b4c3797352c4cb82d7b4cd2f0f62ecdb4e569e30e",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "screenshot",
+      "plugin": null,
+      "skill_md_sha256": "081935a6a163277537d46365f49d6b4a3cb40b4748347e7e88759c5927fa8cf5",
+      "source": "~/.codex/skills/screenshot",
+      "tree_sha256": "17a9750b05adbf9b9195f8954d84821bd0a7b4ae75f5108d74c95cf4a64a9a67",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "sentry-triage",
+      "plugin": null,
+      "skill_md_sha256": "55327b7f3282fad5881aed73f3190debdcbe8d8cb1dbc03db1220bb3d5512c0e",
+      "source": "~/.codex/skills/sentry-triage",
+      "tree_sha256": "1b0e551282a2a97b8c31d841eae8ee4ea525f17a11b508879a90d2371a899382",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "skill-share",
+      "plugin": null,
+      "skill_md_sha256": "490d49b6be9169c3e992b2ddbce7c8e4f88c95a5c574a9007cef7d1b2d7937a2",
+      "source": "~/.codex/skills/skill-share",
+      "tree_sha256": "fc5f56f44205e38d08b068d8e68d731e58b545d31a3587e045e5ae0a03e05e72",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "slack-gif-creator",
+      "plugin": null,
+      "skill_md_sha256": "e5ce81d3dc40e7780b0fa2a0a36b5ada888beb3931d2badd2909b57c50002aed",
+      "source": "~/.codex/skills/slack-gif-creator",
+      "tree_sha256": "90e8af0deda491c9faff43052cadc358671c81d5f24627b12d66e8ea30d3cd97",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "speech",
+      "plugin": null,
+      "skill_md_sha256": "d6120efc03ea0e80204f687801cfaec8efc4519a3430b68e13e4ebd8e1c69b52",
+      "source": "~/.codex/skills/speech",
+      "tree_sha256": "7e0017b1949ceb5e721249ac9afe3b29912936fe9f5c887a78c819f3a097368a",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "spreadsheet-formula-helper",
+      "plugin": null,
+      "skill_md_sha256": "6d9d4b579e112e83c1ac657e60ef99b83a878a3c300f02bf267e84c8e3676cec",
+      "source": "~/.codex/skills/spreadsheet-formula-helper",
+      "tree_sha256": "32b262b84183ba957dc913fea567c833dc9f01db383d96aea9cffaac670a6aa8",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "support-ticket-triage",
+      "plugin": null,
+      "skill_md_sha256": "eb3f565004c6ccd7ed6dd8b980314af352430d85c5b7886f085adf987739a2f3",
+      "source": "~/.codex/skills/support-ticket-triage",
+      "tree_sha256": "5a7145b48120ea2d3389f12b860b0cba43a17223d7abfeb9b27ab249931e30ff",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "tailored-resume-generator",
+      "plugin": null,
+      "skill_md_sha256": "7a64d9aa79a21a24f50c90a10d1a30f3c8a686d4869648e976ef69a784ba16e6",
+      "source": "~/.codex/skills/tailored-resume-generator",
+      "tree_sha256": "f88a2f9e1c72506f4b9591222cc0c991a5eaafea5fc57e7d1e79627d088e3e62",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "template-skill",
+      "plugin": null,
+      "skill_md_sha256": "eb685d91de039ed864fbd790cddf31684b017fd4a34ee1a55760d8d7cdbadefa",
+      "source": "~/.codex/skills/template-skill",
+      "tree_sha256": "45eb3478e5c3a9bd60bc70eeef5d9caddc5b686d09f39d92b36a4f6c9d2c08ea",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "theme-factory",
+      "plugin": null,
+      "skill_md_sha256": "c35893e221e28895c52143cc11bf30e41a44817796b39d4b15727dadc9796552",
+      "source": "~/.codex/skills/theme-factory",
+      "tree_sha256": "e7c922e6cfe63d37c2de2871f2da888a152a78699cc875d65ce3640c5e77b338",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "video-downloader",
+      "plugin": null,
+      "skill_md_sha256": "093c29459a2e05eb076f64d069817d24f98e327b3dab24d9b72085b8ac2909c6",
+      "source": "~/.codex/skills/video-downloader",
+      "tree_sha256": "51aad4ef1f3eaad5d1412f6288e96a87a4556f411860b0c8d70eb62beb6144c9",
+      "version": null
+    },
+    {
+      "kind": "user",
+      "name": "webapp-testing",
+      "plugin": null,
+      "skill_md_sha256": "51b7349e77ec63b7744a6f63647e7566a0b4d2e301121cc10e8c2113af6556a2",
+      "source": "~/.codex/skills/webapp-testing",
+      "tree_sha256": "4c5beb113b93ebb86efadcbdbeb50d8ec8ff57fc4c761a1c15acb0fc1639e11f",
+      "version": null
+    }
+  ],
+  "generated_at": "2026-05-31T16:15:43+00:00",
+  "monitored_plugin_skills": [
+    {
+      "kind": "plugin",
+      "name": "documents",
+      "plugin": "plugins",
+      "skill_md_sha256": "bbd8bfc8460e0510ee322f52a7cd12f4d6be074c28f224a8c1ea394cb979d4c9",
+      "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/documents/skills/documents",
+      "tree_sha256": "5365e170bc4447d5805c1590c3ece21798c8fdb8e1e523d35cbccb5e9d0c7ccf",
+      "version": "documents"
+    },
+    {
+      "kind": "plugin",
+      "name": "presentations",
+      "plugin": "plugins",
+      "skill_md_sha256": "73e207fdc997b09be7c177c8cec21cabf7189db58abe1139f6bfeb982f6c0c28",
+      "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/presentations/skills/presentations",
+      "tree_sha256": "dbbcb0312f65abdf409b92c4faf9e5bbd705eca6e7337ba0a8076e8f08b657eb",
+      "version": "presentations"
+    },
+    {
+      "kind": "plugin",
+      "name": "spreadsheets",
+      "plugin": "plugins",
+      "skill_md_sha256": "acae99095739bb929f7028218bfc818826f78c839eaadf63fdec692e2133bf41",
+      "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/spreadsheets/skills/spreadsheets",
+      "tree_sha256": "ad75facb4e78cce507e1f6feea66d7f1e960f9c5d74eb51f7c6f14f65939e53e",
+      "version": "spreadsheets"
+    },
+    {
+      "kind": "plugin",
+      "name": "control-in-app-browser",
+      "plugin": "browser",
+      "skill_md_sha256": "2be865daebb84ffbaadaaeedf679e5a73b684befda77337b97b63ff3400ef99c",
+      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.527.31326/skills/control-in-app-browser",
+      "tree_sha256": "6f330c738f296718306cfdc325770070506050fcdece29857a1e401feca4ac85",
+      "version": "26.527.31326"
+    },
+    {
+      "kind": "plugin",
+      "name": "computer-use",
+      "plugin": "computer-use",
+      "skill_md_sha256": "e8c34dc8f9fb03d1af09b71547d607e717b04dac70d6ddc6b4ac941356604045",
+      "source": "~/.codex/plugins/cache/openai-bundled/computer-use/1.0.799/skills/computer-use",
+      "tree_sha256": "aec6db45e69e6dc598475127555bb3c4e096bbaab75319d3de27912c82922a48",
+      "version": "1.0.799"
+    },
+    {
+      "kind": "plugin",
+      "name": "ios-app-intents",
+      "plugin": "build-ios-apps",
+      "skill_md_sha256": "ecfa87ec1070bccfdfa0d21ee997bbfbfd78edfb1f22da5da9c05ff006e9fa52",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/fef63ecf/skills/ios-app-intents",
+      "tree_sha256": "f41d4dbb28a543998b67924124b2b81a07b58a2c706ac78ab77b2664e941eb1e",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "ios-debugger-agent",
+      "plugin": "build-ios-apps",
+      "skill_md_sha256": "bb8ad932ec473cee097c9c8d106051134e9ab6cf9dc85d6a8e62ce80ad24c385",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/fef63ecf/skills/ios-debugger-agent",
+      "tree_sha256": "c05ab0a334d7f8a5f6e2f62868d43853bcce7558b92fc0d80ce43a3a40e7e9f1",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "ios-ettrace-performance",
+      "plugin": "build-ios-apps",
+      "skill_md_sha256": "1888c0b2fc6b7d9f3d54d06333e9628a2c4660b9d9b5ddf3edc37f126c773935",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/fef63ecf/skills/ios-ettrace-performance",
+      "tree_sha256": "13cebe6b6d7a51fe0e3163e9f057713b42949e939152c095980ed36c6f8648f0",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "ios-memgraph-leaks",
+      "plugin": "build-ios-apps",
+      "skill_md_sha256": "f09a1e78c00b342196035f6570723f16e40e34a800d353c7c885d1dab4dc8781",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/fef63ecf/skills/ios-memgraph-leaks",
+      "tree_sha256": "5eca23272cf7cbdb8f98b080bcdf280601dd99c9bc34497239896e197cfdc061",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "swiftui-liquid-glass",
+      "plugin": "build-ios-apps",
+      "skill_md_sha256": "8e9ec37d9b6ed146672faf12c88be61d367c280ab6159bfbc7726a122030b78b",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/fef63ecf/skills/swiftui-liquid-glass",
+      "tree_sha256": "142012dc712140cb18214231433a738ad844613731ee48e5b82488a227a82b04",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "swiftui-performance-audit",
+      "plugin": "build-ios-apps",
+      "skill_md_sha256": "6fc6bd4d49b49ccb2089be706c449f195daa7db2c36d8097d883426488eb4b1a",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/fef63ecf/skills/swiftui-performance-audit",
+      "tree_sha256": "58dd737ad7598c30376d9888c3afed173c380f3807a4efc4888e592d4eba58d4",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "swiftui-ui-patterns",
+      "plugin": "build-ios-apps",
+      "skill_md_sha256": "a96f078512c6c679a3504ec20e0eedff4a9be3a06eb9a95107f3556c081bb708",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/fef63ecf/skills/swiftui-ui-patterns",
+      "tree_sha256": "697ba81f0e911e88be878637a0897af4e675fde991f9e29bb1bef4b9759b761e",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "swiftui-view-refactor",
+      "plugin": "build-ios-apps",
+      "skill_md_sha256": "129cbb511987985ed7bf9e3f20443632a7becdf0c2824ded6b52241cc339243a",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/fef63ecf/skills/swiftui-view-refactor",
+      "tree_sha256": "d04ba69fb7db2004f29d786dddd6e4acf062e61c0fa3dca457f0a82a84ca3ff8",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "appkit-interop",
+      "plugin": "build-macos-apps",
+      "skill_md_sha256": "7c91be82e30340ed9c929270f102965da3d67bcf509eecf8bf207c8a679fd3b6",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/fef63ecf/skills/appkit-interop",
+      "tree_sha256": "16bf99e134b41e8d125ca20dfe572af05792a6802cee1fd8dd0284982d8f087c",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "build-run-debug",
+      "plugin": "build-macos-apps",
+      "skill_md_sha256": "bd32f3fa611fd731d01113450929aaeab8b40bfdda669b6cad76d877a096b722",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/fef63ecf/skills/build-run-debug",
+      "tree_sha256": "38d22f9dcbb278b94bad641f1b93423170f64985e3fdbe57f3277f49050c476c",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "liquid-glass",
+      "plugin": "build-macos-apps",
+      "skill_md_sha256": "b2bbb5ea8a62523931d89d9db47cfecf6745406f17722cbe7a6f1c06026472c3",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/fef63ecf/skills/liquid-glass",
+      "tree_sha256": "a4dc37012608382f96855d91d09dc73264bc9a74409a5c328458ea713e70825b",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "packaging-notarization",
+      "plugin": "build-macos-apps",
+      "skill_md_sha256": "adc0d5e0c48e74ac6c5078b5846d00cbb798a8fd08bd775590f23793c8e69b2b",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/fef63ecf/skills/packaging-notarization",
+      "tree_sha256": "5a36c62ba0ed58e62de9dc8eb14aa30df8dde2e5b015245a47255db1d4977b75",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "signing-entitlements",
+      "plugin": "build-macos-apps",
+      "skill_md_sha256": "79326e5096325b53c4350db9e1586c9a2ef56976705f01c24d3643a592dc3030",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/fef63ecf/skills/signing-entitlements",
+      "tree_sha256": "70d149d722ce1c6aea4d74b7a99c48b898fc7e23ef050e5329e4ed91f6e5292f",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "swiftpm-macos",
+      "plugin": "build-macos-apps",
+      "skill_md_sha256": "4bd2a889a2f96569773b8d408710326df715f5cfa7c4b3e942be4f895e2b382a",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/fef63ecf/skills/swiftpm-macos",
+      "tree_sha256": "2b1898913e99550f28dfba118f65ffd1baf82a476fedb83de00e3611d8eb29fe",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "swiftui-patterns",
+      "plugin": "build-macos-apps",
+      "skill_md_sha256": "ebfc06b1c1e11cadec83e5c204b20f33f01db1c36cb5796639567bd8eac0fe07",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/fef63ecf/skills/swiftui-patterns",
+      "tree_sha256": "0e84482f863643a5e5461706c9f4544e106b329109b25303697fa8f3e6e293b1",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "telemetry",
+      "plugin": "build-macos-apps",
+      "skill_md_sha256": "64fae6fd88c411d108b321462f90b74deb42fb043b815baae04b199a07dfbd25",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/fef63ecf/skills/telemetry",
+      "tree_sha256": "ba6680665db572f40116cc40487f2c48dfcb29d116c00736c1483c182487defc",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "test-triage",
+      "plugin": "build-macos-apps",
+      "skill_md_sha256": "e6ed34d34d2b4f62a262f3ab9076ab02bfb75d7661491383493bee78545b7851",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/fef63ecf/skills/test-triage",
+      "tree_sha256": "0f725a834223cd4e03c436fa4fd38f998e6c6a3519d505228c8426fbe2188d39",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "view-refactor",
+      "plugin": "build-macos-apps",
+      "skill_md_sha256": "924b1a3a6f894443d26987346bc21fa8bf0815d463d2f741cb58a3e4321dc854",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/fef63ecf/skills/view-refactor",
+      "tree_sha256": "f04d3b3662e4aeb097abe99364c3581ecdd7208328502aacfb157fea74b9835e",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "window-management",
+      "plugin": "build-macos-apps",
+      "skill_md_sha256": "9fea3f84f6cd96c629bbb45cfe2715e9669a737f088a3453a20bd6083067e64d",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/fef63ecf/skills/window-management",
+      "tree_sha256": "679bf72f2b43c8d21855ab27b80734131728a369f7a8d8e654de35e2e32b1b9c",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "frontend-app-builder",
+      "plugin": "build-web-apps",
+      "skill_md_sha256": "9273de02827b29534be28fb2b37154c1571ac38b4e20d3ef5482b7e22af67394",
+      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/fef63ecf/skills/frontend-app-builder",
+      "tree_sha256": "69496b66fcea5daeaa987fdccb3811aba150994a266cf9c5a28e51e1b2f335fc",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "frontend-testing-debugging",
+      "plugin": "build-web-apps",
+      "skill_md_sha256": "03724620cf7e7de425b607a5492f572d867b1cf5d9c92c74bf50d057d7415e0b",
+      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/fef63ecf/skills/frontend-testing-debugging",
+      "tree_sha256": "adb125a6f87b717848211149031d1aa3f3f5e5c2cae223b6167f513d8d60a5f8",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "react-best-practices",
+      "plugin": "build-web-apps",
+      "skill_md_sha256": "cc7d03309817f392c419a203e1bc1f1759ef94831f7dbedf39d91a35ac5bc86a",
+      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/fef63ecf/skills/react-best-practices",
+      "tree_sha256": "a2c4d0ad432e01bb572052617c2b2cbf2a58abc87e5d53c0ac908476c05e53f4",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "shadcn-best-practices",
+      "plugin": "build-web-apps",
+      "skill_md_sha256": "7678f5168d4ee6f3ae3ce4d3d41c654f0aebc7b88cbc392a9504822dec0dff28",
+      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/fef63ecf/skills/shadcn-best-practices",
+      "tree_sha256": "99ddc0ddb67af95d098f84455446c71ee9d9f3eab7849762b9d0a06fd1cf401f",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "stripe-best-practices",
+      "plugin": "build-web-apps",
+      "skill_md_sha256": "5062f0c980030af377a0ac33b77c9d233676e2ecbb57b3d3cd8734fc0da464b2",
+      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/fef63ecf/skills/stripe-best-practices",
+      "tree_sha256": "2fdbf14f80dd9dc449b766f8a853eee3822092ebc8f7b8b34faed0f4085d9d48",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "supabase-best-practices",
+      "plugin": "build-web-apps",
+      "skill_md_sha256": "cfc4da3ed47c14f4fb24c5b4db4be443fa200e12e71d674fb1270eecce87a302",
+      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/fef63ecf/skills/supabase-best-practices",
+      "tree_sha256": "9967f3789e20b9eac91ea31b3daddba5d87678c04735bf3ba8c02b736a2f7090",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "canva-branded-presentation",
+      "plugin": "canva",
+      "skill_md_sha256": "110b3ba5a50c22e804067363881c2384f07a32bd704af79b894e04138c915713",
+      "source": "~/.codex/plugins/cache/openai-curated/canva/fef63ecf/skills/canva-branded-presentation",
+      "tree_sha256": "8e920befc5b880666d7bb13bc7284fc2c2e391a5cd93473563dda2ad5e417fac",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "canva-resize-for-all-social-media",
+      "plugin": "canva",
+      "skill_md_sha256": "ca36f9b6cc9e1913b762663d1f68f6caf20cb98923783b3dfcea4aebe6d09ce8",
+      "source": "~/.codex/plugins/cache/openai-curated/canva/fef63ecf/skills/canva-resize-for-all-social-media",
+      "tree_sha256": "3257e2f7703f499a03ecaf19943f2539c59cdd99a6431645e1b5a51a4b293a70",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "canva-translate-design",
+      "plugin": "canva",
+      "skill_md_sha256": "950145361d04b50807954931549a4f40f8de945286cf304322c4d80a15493aac",
+      "source": "~/.codex/plugins/cache/openai-curated/canva/fef63ecf/skills/canva-translate-design",
+      "tree_sha256": "98657efcf505c51e5c5fcafd58e134ab62bc8ab61476b88ad120ef67a28cf561",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "build-chatgpt-app",
+      "plugin": "chatgpt-apps",
+      "skill_md_sha256": "b4ba5e0847e9b56b327da4e7546f5f0bf3325f54d6d21fc119b320bc2c898a53",
+      "source": "~/.codex/plugins/cache/openai-curated/chatgpt-apps/f812c146/skills/build-chatgpt-app",
+      "tree_sha256": "40ff286e846dde564afd50a375b3f17c7a265d8570c4ae81542d601bb2eae4b8",
+      "version": "f812c146"
+    },
+    {
+      "kind": "plugin",
+      "name": "chatgpt-app-submission",
+      "plugin": "chatgpt-apps",
+      "skill_md_sha256": "a92342d65537b7d4116e5cac3e562f2ba180c735f1d8b719099823ba32829c21",
+      "source": "~/.codex/plugins/cache/openai-curated/chatgpt-apps/f812c146/skills/chatgpt-app-submission",
+      "tree_sha256": "85fd7154b61cfdbde0ed7504eb16e8f3b3331c7ac257d0078d376f314863f200",
+      "version": "f812c146"
+    },
+    {
+      "kind": "plugin",
+      "name": "agents-sdk",
+      "plugin": "cloudflare",
+      "skill_md_sha256": "007d6ccf85808a6c779f5b058b1be970d77785000071cb27a55a5f580fbc845b",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/fef63ecf/skills/agents-sdk",
+      "tree_sha256": "0f90d7c1cf1e329fc76c02d0a28b0c15175e5513ec2733fad4b10dfc1c508b7d",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "building-ai-agent-on-cloudflare",
+      "plugin": "cloudflare",
+      "skill_md_sha256": "31554ff30e2edb8c2dc9bd5fba15438691fb07f3541f0a0cc843b6a13cdaa573",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/fef63ecf/skills/building-ai-agent-on-cloudflare",
+      "tree_sha256": "e0fdc02b4125a3e53efb3ea2116b5f896d3a7ff4c9e9c8d353df4a9019d2291a",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "building-mcp-server-on-cloudflare",
+      "plugin": "cloudflare",
+      "skill_md_sha256": "d76ee46c043d3876d542245e0c26e9d084f4ca8241d811593e93d8d2594118e8",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/fef63ecf/skills/building-mcp-server-on-cloudflare",
+      "tree_sha256": "1fea7bb7010eaf6a253a6019a4e7201a76e4312e05fb12c71f35a62f2d823e0b",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "cloudflare",
+      "plugin": "cloudflare",
+      "skill_md_sha256": "613c4c57c19bd6385a870b4d441e00a0d88cc6c348c447f8a88889d34b17b2d0",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/fef63ecf/skills/cloudflare",
+      "tree_sha256": "087253d5695ed573bfd0eed98c6bba2cd79f9906057b3f061a90dbf0274f6856",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "durable-objects",
+      "plugin": "cloudflare",
+      "skill_md_sha256": "cd6797cb18f3ae8f721dfd2e5cb27b73a0aa8636683f1a38163dab2fd51a8dfb",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/fef63ecf/skills/durable-objects",
+      "tree_sha256": "aacb87a57ddbaa8a6ae7fde71829f8277476aac5013fa39fd62c39d1f5cce6d9",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "sandbox-sdk",
+      "plugin": "cloudflare",
+      "skill_md_sha256": "0f3501e6510921401be3f54bcb24d2a432a1b5c63af8f719eded3a087ad88ea9",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/fef63ecf/skills/sandbox-sdk",
+      "tree_sha256": "27c754adf4a0367339e1ff45fa41f65a60dbf84ca9c8cbaf4d7021d11c46265f",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "web-perf",
+      "plugin": "cloudflare",
+      "skill_md_sha256": "746b3490d401c8020900f0a62ece846c22d3df15782ee843c082acfa89f26703",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/fef63ecf/skills/web-perf",
+      "tree_sha256": "1846f13c0ef49d9a1789a1b2994934120635942613549acdb03cca1f87634d94",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "workers-best-practices",
+      "plugin": "cloudflare",
+      "skill_md_sha256": "099432ff265ff6080327ef0b392c118b835d2a5bda98a7de07e1afd115ed6458",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/fef63ecf/skills/workers-best-practices",
+      "tree_sha256": "ad189c5d143d66699fdea10daad9352080f5e98cc99ed3e1247765dbe5d7395b",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "wrangler",
+      "plugin": "cloudflare",
+      "skill_md_sha256": "0aa6fbe6932df4392779bfda67b1a0165697369668cb2dbef66d018a34f44c11",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/fef63ecf/skills/wrangler",
+      "tree_sha256": "54361ef50502eb40e062e8e6f67ea6b5ad958fa181128b5ade863db9bb067144",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "attack-path-analysis",
+      "plugin": "codex-security",
+      "skill_md_sha256": "e11a98febd0dc8850ea2f409292aa4ee100660f7b414909ab8621df3ab2ce21d",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/fef63ecf/skills/attack-path-analysis",
+      "tree_sha256": "3979f3993f269995ead83d6e6d65b6a00ff04c2dd218fafdc27254a56701c8aa",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "deep-security-scan",
+      "plugin": "codex-security",
+      "skill_md_sha256": "cd55b36361e44796343737be3b54b8099e4236b91267e44f17c6e2da0be3fcc2",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/fef63ecf/skills/deep-security-scan",
+      "tree_sha256": "c55d864ae6c515059c318281147311cc169466d9c923ae848261432fd4dd60af",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "finding-discovery",
+      "plugin": "codex-security",
+      "skill_md_sha256": "71a50f7e27e01fb52cecfa5b33ac024bb234e9e75f71f6cbf3ea1da5e60b1eda",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/fef63ecf/skills/finding-discovery",
+      "tree_sha256": "480f647a8749346089dc7d7c960abc4d818a1b80c2061f36d0a09b66fe30b8ab",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "fix-finding",
+      "plugin": "codex-security",
+      "skill_md_sha256": "41b9a5b26839b98d95f71ee10a7097fc5d27d309abbcabdd1371af824552e093",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/fef63ecf/skills/fix-finding",
+      "tree_sha256": "7b61bd826d7010cf4773e4d9e9d1dddcf986779eb59717315770f8cecdb6639b",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "security-diff-scan",
+      "plugin": "codex-security",
+      "skill_md_sha256": "3d9811c39246986e92d3001a198e5d5572cac07ad2ef9bbb18cfc374bae46feb",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/fef63ecf/skills/security-diff-scan",
+      "tree_sha256": "1634e2c850302c4e4e8f31e69e7a5978e7b364e89d4fb3ef43646d01ae727bed",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "security-scan",
+      "plugin": "codex-security",
+      "skill_md_sha256": "c87478cf213cd0ba26f0ae9598330ebf8004e4e16963c75553c4d72c56c1ec3b",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/fef63ecf/skills/security-scan",
+      "tree_sha256": "5bae1b4de7c2da27a8e935259fbcff645ce40694461366e732ba4af84d20e25a",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "threat-model",
+      "plugin": "codex-security",
+      "skill_md_sha256": "9a73305a379a6e777a2c1476174c429fdc3450c89fc1c00a66fa7eac997004fc",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/fef63ecf/skills/threat-model",
+      "tree_sha256": "023938fd55bbe6d7fe6bb6b17ebc1c033eaa3fe60c06e33b7ad1321e536cab29",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "validation",
+      "plugin": "codex-security",
+      "skill_md_sha256": "1defe029fdec20610dcbb9d898963f903ea3ebf10a287628c9ddc9ca7789f335",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/fef63ecf/skills/validation",
+      "tree_sha256": "2cc88694362ac7a6d7b6e8e5b2dc332ae0fec3a2dec44dd62d26ba8080dca30c",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "gh-address-comments",
+      "plugin": "github",
+      "skill_md_sha256": "c1ebc337357402f7faabafe712e0c463981a65f736453efe52abd305bcb74769",
+      "source": "~/.codex/plugins/cache/openai-curated/github/fef63ecf/skills/gh-address-comments",
+      "tree_sha256": "e43fcf5ced7188693ac624c55d144621be0d2dd56776031eaa382ca03c359f17",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "gh-fix-ci",
+      "plugin": "github",
+      "skill_md_sha256": "7621a3560d788fb221d25f9753233fe0c393c5cfe63167c88b11f027c277b1f8",
+      "source": "~/.codex/plugins/cache/openai-curated/github/fef63ecf/skills/gh-fix-ci",
+      "tree_sha256": "f374d7888cccf4cba172ceee0ac11a2c341c02cdc858516a41fd84b9ad1bd791",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "github",
+      "plugin": "github",
+      "skill_md_sha256": "81dbdd90934fe86a79ddc4790fd211e5fca866302a74090ad153395f56f2bd42",
+      "source": "~/.codex/plugins/cache/openai-curated/github/fef63ecf/skills/github",
+      "tree_sha256": "b570687738e1e655a49e803ffaab56c0bcf859f82414571f3df2c3fcc7749f6f",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "yeet",
+      "plugin": "github",
+      "skill_md_sha256": "93a0bcbc834c9b3ad6a8965c1a273b237b6d226e870cd0c16e08e87bc8769814",
+      "source": "~/.codex/plugins/cache/openai-curated/github/fef63ecf/skills/yeet",
+      "tree_sha256": "884331a0c0dd16156a5d9b53391b918de06c5970c62a9d864e750b0a26765b7d",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "cli",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "ee85209886c4ec3d3d850489368be193d11a8a3fa589012b39a4a5bbf7c7da2e",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/fef63ecf/skills/cli",
+      "tree_sha256": "cb2c73c3843d631c2f137bbb3fefccbc8b0f8de26ccd588960eab5c024f3754d",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "community-evals",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "a97f1c703f55b72427453a76af858237e6392a447fcafa9eeb85f7ac67f0155d",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/fef63ecf/skills/community-evals",
+      "tree_sha256": "4ffe4cb046745d80410149070db28baa6d0a3d5d9e00274fc569d2e825a5b0b8",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "datasets",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "5af74f3e042313efadf02e85c316a2576bdc0b0ff92c43c3ba5dcb6e2dae1ded",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/fef63ecf/skills/datasets",
+      "tree_sha256": "e1e3cf3e5ccda37fc2067a95960df4c33d79cf907dab41057cac353190baee92",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "gradio",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "e2f4c232c38682bccfc73115ca7d0a5427f7d625e6fd56b32515fe4c0900f997",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/fef63ecf/skills/gradio",
+      "tree_sha256": "77aaacc0ffa216095a8983bfe9e72643fb663cc3571cac1d5b44a32bb8ec79a5",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "jobs",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "b85252f49569e97adc3d85e75ea37ed505028249fe1d9991069a6c52d0a64f35",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/fef63ecf/skills/jobs",
+      "tree_sha256": "ebae8285cdd2ace3ed91a3e7b009937e37770766098ccbe534f3ddd8f6e3cfa6",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "llm-trainer",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "6628c305a8ae8de81fea38d05c4712b54a97fed4e19e776b1edc18e392d98f48",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/fef63ecf/skills/llm-trainer",
+      "tree_sha256": "1696a8a485bbbab9feda201c5f1d57c53f8c3fc3d13146fb4a45909a967043f5",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "paper-publisher",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "04b59406cf88054ab365f5bbbc57fe2e2fcb369e942dff2841c4f4297318c353",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/fef63ecf/skills/paper-publisher",
+      "tree_sha256": "2dfa1c094280abcbb0bf5b81e469ab1ba4194c7513e9b3df9d5564188d2b1b90",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "papers",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "985c2d5c7261aba2b157811cde0c2b30134663694a4ab701280de28f941eb3b2",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/fef63ecf/skills/papers",
+      "tree_sha256": "bc6a7c7838a5ec816a1e8b919b66aa23ae8678d2266474d0eb055ee8f606e2e0",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "trackio",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "893ac9695f8677db4c4f0c15795e789346946f6142305c89d7ee57774e22ffb1",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/fef63ecf/skills/trackio",
+      "tree_sha256": "13c9ce64176d5c49ef1984929a8a6383ad0f4ff59660c42efaa2ed38faf5eccc",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "transformers.js",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "89a70a8a0604fc90cf6ae1063cb0f7d2f625bdf4d337f4f24e3f19cea4f99511",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/fef63ecf/skills/transformers.js",
+      "tree_sha256": "664bd43af37e7b1d4bb80c3a03fd6dc19cac61884cf70a3e5a52a81192a18e10",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "vision-trainer",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "c7aba4de75fa6595ffdaf5c50136786e8346aba0c9ff0261eaee656af4a3b0d9",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/fef63ecf/skills/vision-trainer",
+      "tree_sha256": "0dbee87cc99598f780dd82f48e93332c0993b132fd7dd29d898e432c1f7f6c0b",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "agents-sdk",
+      "plugin": "openai-developers",
+      "skill_md_sha256": "61830dccd552307bc714b961acae80b1c9c9c30b5d2faaa9e6043b6fb0414760",
+      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/fef63ecf/skills/agents-sdk",
+      "tree_sha256": "b04c66807e6a5a29ccc7b3469840ac7f1b2adc8f89777da6202eb8c2134c8221",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "build-chatgpt-app",
+      "plugin": "openai-developers",
+      "skill_md_sha256": "b4ba5e0847e9b56b327da4e7546f5f0bf3325f54d6d21fc119b320bc2c898a53",
+      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/fef63ecf/skills/build-chatgpt-app",
+      "tree_sha256": "40ff286e846dde564afd50a375b3f17c7a265d8570c4ae81542d601bb2eae4b8",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "chatgpt-app-submission",
+      "plugin": "openai-developers",
+      "skill_md_sha256": "a92342d65537b7d4116e5cac3e562f2ba180c735f1d8b719099823ba32829c21",
+      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/fef63ecf/skills/chatgpt-app-submission",
+      "tree_sha256": "85fd7154b61cfdbde0ed7504eb16e8f3b3331c7ac257d0078d376f314863f200",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "openai-api-troubleshooting",
+      "plugin": "openai-developers",
+      "skill_md_sha256": "9fb4e152430c2f0475d1d14ce61b413267d322af9c032f2affb64698ca562662",
+      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/fef63ecf/skills/openai-api-troubleshooting",
+      "tree_sha256": "7f7807c8b7dc0bfb23681df05223edf261e715f9b690235e33ea2b71ec59195f",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "openai-platform-api-key",
+      "plugin": "openai-developers",
+      "skill_md_sha256": "e25babfa87156270e63c5f7905eb1507e8baabc5f920fb7bd392fc213c32dec8",
+      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/fef63ecf/skills/openai-platform-api-key",
+      "tree_sha256": "c5209342145e7ae9482b36043ff84f9f78735892884cd86e2940765f44fe79c9",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "android-emulator-qa",
+      "plugin": "test-android-apps",
+      "skill_md_sha256": "0ce182ad60db73ea663f0eab6793f4fbf63b4b4e2ebba596a61b7b3b8985eeac",
+      "source": "~/.codex/plugins/cache/openai-curated/test-android-apps/fef63ecf/skills/android-emulator-qa",
+      "tree_sha256": "1f2063a8806ae0e38017bf0963a16dd4b3e3dbbfc11575c9c57d5f8b4d9dfce2",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "android-performance",
+      "plugin": "test-android-apps",
+      "skill_md_sha256": "931867cdf98318c0efaad503c87f2e29e4650d97d4f2bc80e58490e0011aa791",
+      "source": "~/.codex/plugins/cache/openai-curated/test-android-apps/fef63ecf/skills/android-performance",
+      "tree_sha256": "39ce5f4cc67f77ccdd47b48cf8e6f17fc031c7973a0839cbc32bc88febb1b6cf",
+      "version": "fef63ecf"
+    },
+    {
+      "kind": "plugin",
+      "name": "documents",
+      "plugin": "documents",
+      "skill_md_sha256": "bbd8bfc8460e0510ee322f52a7cd12f4d6be074c28f224a8c1ea394cb979d4c9",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.521.10419/skills/documents",
+      "tree_sha256": "5365e170bc4447d5805c1590c3ece21798c8fdb8e1e523d35cbccb5e9d0c7ccf",
+      "version": "26.521.10419"
+    },
+    {
+      "kind": "plugin",
+      "name": "presentations",
+      "plugin": "presentations",
+      "skill_md_sha256": "73e207fdc997b09be7c177c8cec21cabf7189db58abe1139f6bfeb982f6c0c28",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.521.10419/skills/presentations",
+      "tree_sha256": "dbbcb0312f65abdf409b92c4faf9e5bbd705eca6e7337ba0a8076e8f08b657eb",
+      "version": "26.521.10419"
+    },
+    {
+      "kind": "plugin",
+      "name": "spreadsheets",
+      "plugin": "spreadsheets",
+      "skill_md_sha256": "acae99095739bb929f7028218bfc818826f78c839eaadf63fdec692e2133bf41",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.521.10419/skills/spreadsheets",
+      "tree_sha256": "ad75facb4e78cce507e1f6feea66d7f1e960f9c5d74eb51f7c6f14f65939e53e",
+      "version": "26.521.10419"
+    },
+    {
+      "kind": "plugin",
+      "name": "shortcuts-playground",
+      "plugin": "shortcuts-playground",
+      "skill_md_sha256": "82bbecb4e93ec05e15f8bccde88c337a42ad5a393eb5561c449b003fb35e9b29",
+      "source": "~/.codex/plugins/cache/shortcuts-playground/shortcuts-playground/1.0.1/skills/shortcuts-playground",
+      "tree_sha256": "496234b77af5f63098d8bd9b3e0ce8f025678fda2192a7b96435f8735146cdc0",
+      "version": "1.0.1"
+    }
+  ]
+}
