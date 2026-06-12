@@ -542,7 +542,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-06-10T09:09:40+00:00",
+  "generated_at": "2026-06-12T18:04:50+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -576,9 +576,9 @@
       "name": "control-in-app-browser",
       "plugin": "browser",
       "skill_md_sha256": "d2c2eb9267c73d7382269318e24d9c9c6d58b58ac2810981d8a06eaa9ff8c593",
-      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.608.12217/skills/control-in-app-browser",
+      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.609.30741/skills/control-in-app-browser",
       "tree_sha256": "939f9c9d08b5de602434dd54f74dea711b8dd4b31f8deb8f7486c1e17dc9a048",
-      "version": "26.608.12217"
+      "version": "26.609.30741"
     },
     {
       "kind": "plugin",
@@ -1005,24 +1005,6 @@
     },
     {
       "kind": "plugin",
-      "name": "build-chatgpt-app",
-      "plugin": "chatgpt-apps",
-      "skill_md_sha256": "b4ba5e0847e9b56b327da4e7546f5f0bf3325f54d6d21fc119b320bc2c898a53",
-      "source": "~/.codex/plugins/cache/openai-curated/chatgpt-apps/f812c146/skills/build-chatgpt-app",
-      "tree_sha256": "40ff286e846dde564afd50a375b3f17c7a265d8570c4ae81542d601bb2eae4b8",
-      "version": "f812c146"
-    },
-    {
-      "kind": "plugin",
-      "name": "chatgpt-app-submission",
-      "plugin": "chatgpt-apps",
-      "skill_md_sha256": "a92342d65537b7d4116e5cac3e562f2ba180c735f1d8b719099823ba32829c21",
-      "source": "~/.codex/plugins/cache/openai-curated/chatgpt-apps/f812c146/skills/chatgpt-app-submission",
-      "tree_sha256": "85fd7154b61cfdbde0ed7504eb16e8f3b3331c7ac257d0078d376f314863f200",
-      "version": "f812c146"
-    },
-    {
-      "kind": "plugin",
       "name": "agents-sdk",
       "plugin": "cloudflare",
       "skill_md_sha256": "007d6ccf85808a6c779f5b058b1be970d77785000071cb27a55a5f580fbc845b",
@@ -1374,6 +1356,33 @@
     },
     {
       "kind": "plugin",
+      "name": "canva-branded-presentation",
+      "plugin": "canva",
+      "skill_md_sha256": "110b3ba5a50c22e804067363881c2384f07a32bd704af79b894e04138c915713",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/1.0.2/skills/canva-branded-presentation",
+      "tree_sha256": "8e920befc5b880666d7bb13bc7284fc2c2e391a5cd93473563dda2ad5e417fac",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "canva-resize-for-all-social-media",
+      "plugin": "canva",
+      "skill_md_sha256": "ca36f9b6cc9e1913b762663d1f68f6caf20cb98923783b3dfcea4aebe6d09ce8",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/1.0.2/skills/canva-resize-for-all-social-media",
+      "tree_sha256": "3257e2f7703f499a03ecaf19943f2539c59cdd99a6431645e1b5a51a4b293a70",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "canva-translate-design",
+      "plugin": "canva",
+      "skill_md_sha256": "950145361d04b50807954931549a4f40f8de945286cf304322c4d80a15493aac",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/1.0.2/skills/canva-translate-design",
+      "tree_sha256": "98657efcf505c51e5c5fcafd58e134ab62bc8ab61476b88ad120ef67a28cf561",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
       "name": "ads-explorer",
       "plugin": "creative-production",
       "skill_md_sha256": "3f9b631dfe71f0186704bc1c60a776cce6e0c33f922277b833fcbe87eb1fa8f2",
@@ -1581,6 +1590,141 @@
     },
     {
       "kind": "plugin",
+      "name": "gh-address-comments",
+      "plugin": "github",
+      "skill_md_sha256": "c1ebc337357402f7faabafe712e0c463981a65f736453efe52abd305bcb74769",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.2/skills/gh-address-comments",
+      "tree_sha256": "e43fcf5ced7188693ac624c55d144621be0d2dd56776031eaa382ca03c359f17",
+      "version": "0.1.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "gh-fix-ci",
+      "plugin": "github",
+      "skill_md_sha256": "7621a3560d788fb221d25f9753233fe0c393c5cfe63167c88b11f027c277b1f8",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.2/skills/gh-fix-ci",
+      "tree_sha256": "f374d7888cccf4cba172ceee0ac11a2c341c02cdc858516a41fd84b9ad1bd791",
+      "version": "0.1.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "github",
+      "plugin": "github",
+      "skill_md_sha256": "81dbdd90934fe86a79ddc4790fd211e5fca866302a74090ad153395f56f2bd42",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.2/skills/github",
+      "tree_sha256": "b570687738e1e655a49e803ffaab56c0bcf859f82414571f3df2c3fcc7749f6f",
+      "version": "0.1.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "yeet",
+      "plugin": "github",
+      "skill_md_sha256": "93a0bcbc834c9b3ad6a8965c1a273b237b6d226e870cd0c16e08e87bc8769814",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.2/skills/yeet",
+      "tree_sha256": "884331a0c0dd16156a5d9b53391b918de06c5970c62a9d864e750b0a26765b7d",
+      "version": "0.1.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "cli",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "ee85209886c4ec3d3d850489368be193d11a8a3fa589012b39a4a5bbf7c7da2e",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/hugging-face/1.0.2/skills/cli",
+      "tree_sha256": "cb2c73c3843d631c2f137bbb3fefccbc8b0f8de26ccd588960eab5c024f3754d",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "community-evals",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "a97f1c703f55b72427453a76af858237e6392a447fcafa9eeb85f7ac67f0155d",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/hugging-face/1.0.2/skills/community-evals",
+      "tree_sha256": "4ffe4cb046745d80410149070db28baa6d0a3d5d9e00274fc569d2e825a5b0b8",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "datasets",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "5af74f3e042313efadf02e85c316a2576bdc0b0ff92c43c3ba5dcb6e2dae1ded",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/hugging-face/1.0.2/skills/datasets",
+      "tree_sha256": "e1e3cf3e5ccda37fc2067a95960df4c33d79cf907dab41057cac353190baee92",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "gradio",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "e2f4c232c38682bccfc73115ca7d0a5427f7d625e6fd56b32515fe4c0900f997",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/hugging-face/1.0.2/skills/gradio",
+      "tree_sha256": "77aaacc0ffa216095a8983bfe9e72643fb663cc3571cac1d5b44a32bb8ec79a5",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "jobs",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "b85252f49569e97adc3d85e75ea37ed505028249fe1d9991069a6c52d0a64f35",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/hugging-face/1.0.2/skills/jobs",
+      "tree_sha256": "ebae8285cdd2ace3ed91a3e7b009937e37770766098ccbe534f3ddd8f6e3cfa6",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "llm-trainer",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "6628c305a8ae8de81fea38d05c4712b54a97fed4e19e776b1edc18e392d98f48",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/hugging-face/1.0.2/skills/llm-trainer",
+      "tree_sha256": "1696a8a485bbbab9feda201c5f1d57c53f8c3fc3d13146fb4a45909a967043f5",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "paper-publisher",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "04b59406cf88054ab365f5bbbc57fe2e2fcb369e942dff2841c4f4297318c353",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/hugging-face/1.0.2/skills/paper-publisher",
+      "tree_sha256": "2dfa1c094280abcbb0bf5b81e469ab1ba4194c7513e9b3df9d5564188d2b1b90",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "papers",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "985c2d5c7261aba2b157811cde0c2b30134663694a4ab701280de28f941eb3b2",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/hugging-face/1.0.2/skills/papers",
+      "tree_sha256": "bc6a7c7838a5ec816a1e8b919b66aa23ae8678d2266474d0eb055ee8f606e2e0",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "trackio",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "893ac9695f8677db4c4f0c15795e789346946f6142305c89d7ee57774e22ffb1",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/hugging-face/1.0.2/skills/trackio",
+      "tree_sha256": "13c9ce64176d5c49ef1984929a8a6383ad0f4ff59660c42efaa2ed38faf5eccc",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "transformers.js",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "89a70a8a0604fc90cf6ae1063cb0f7d2f625bdf4d337f4f24e3f19cea4f99511",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/hugging-face/1.0.2/skills/transformers.js",
+      "tree_sha256": "664bd43af37e7b1d4bb80c3a03fd6dc19cac61884cf70a3e5a52a81192a18e10",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "vision-trainer",
+      "plugin": "hugging-face",
+      "skill_md_sha256": "c7aba4de75fa6595ffdaf5c50136786e8346aba0c9ff0261eaee656af4a3b0d9",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/hugging-face/1.0.2/skills/vision-trainer",
+      "tree_sha256": "0dbee87cc99598f780dd82f48e93332c0993b132fd7dd29d898e432c1f7f6c0b",
+      "version": "1.0.2"
+    },
+    {
+      "kind": "plugin",
       "name": "buyer-investor-list",
       "plugin": "investment-banking",
       "skill_md_sha256": "b82917978f4cd25d72d26c2a2f6cc531f0c70591a2c3a3189354fe327c8b8117",
@@ -1785,6 +1929,51 @@
       "source": "~/.codex/plugins/cache/openai-curated-remote/investment-banking/0.1.26/skills/user-context",
       "tree_sha256": "4ace3a81aac252cb02b556325acccc6499ff9491127bcbeed7aa0305071d2749",
       "version": "0.1.26"
+    },
+    {
+      "kind": "plugin",
+      "name": "agents-sdk",
+      "plugin": "openai-developers",
+      "skill_md_sha256": "61830dccd552307bc714b961acae80b1c9c9c30b5d2faaa9e6043b6fb0414760",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.2.2/skills/agents-sdk",
+      "tree_sha256": "b04c66807e6a5a29ccc7b3469840ac7f1b2adc8f89777da6202eb8c2134c8221",
+      "version": "1.2.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "build-chatgpt-app",
+      "plugin": "openai-developers",
+      "skill_md_sha256": "b4ba5e0847e9b56b327da4e7546f5f0bf3325f54d6d21fc119b320bc2c898a53",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.2.2/skills/build-chatgpt-app",
+      "tree_sha256": "40ff286e846dde564afd50a375b3f17c7a265d8570c4ae81542d601bb2eae4b8",
+      "version": "1.2.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "chatgpt-app-submission",
+      "plugin": "openai-developers",
+      "skill_md_sha256": "a92342d65537b7d4116e5cac3e562f2ba180c735f1d8b719099823ba32829c21",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.2.2/skills/chatgpt-app-submission",
+      "tree_sha256": "85fd7154b61cfdbde0ed7504eb16e8f3b3331c7ac257d0078d376f314863f200",
+      "version": "1.2.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "openai-api-troubleshooting",
+      "plugin": "openai-developers",
+      "skill_md_sha256": "9fb4e152430c2f0475d1d14ce61b413267d322af9c032f2affb64698ca562662",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.2.2/skills/openai-api-troubleshooting",
+      "tree_sha256": "7f7807c8b7dc0bfb23681df05223edf261e715f9b690235e33ea2b71ec59195f",
+      "version": "1.2.2"
+    },
+    {
+      "kind": "plugin",
+      "name": "openai-platform-api-key",
+      "plugin": "openai-developers",
+      "skill_md_sha256": "780670286fb0acf32660abafc1bc34d7a25ff7a74af59e02db8fb62bbdd21ac2",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.2.2/skills/openai-platform-api-key",
+      "tree_sha256": "7ffba1f3d13eb2d111beec53afbedbbb16cc0370f22d25b018302996095ce8b9",
+      "version": "1.2.2"
     },
     {
       "kind": "plugin",
