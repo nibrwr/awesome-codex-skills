@@ -542,7 +542,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-06-12T18:04:50+00:00",
+  "generated_at": "2026-06-14T14:01:43+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -576,9 +576,9 @@
       "name": "control-in-app-browser",
       "plugin": "browser",
       "skill_md_sha256": "d2c2eb9267c73d7382269318e24d9c9c6d58b58ac2810981d8a06eaa9ff8c593",
-      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.609.30741/skills/control-in-app-browser",
+      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.609.41114/skills/control-in-app-browser",
       "tree_sha256": "939f9c9d08b5de602434dd54f74dea711b8dd4b31f8deb8f7486c1e17dc9a048",
-      "version": "26.609.30741"
+      "version": "26.609.41114"
     },
     {
       "kind": "plugin",
@@ -2501,9 +2501,9 @@
       "kind": "plugin",
       "name": "shortcuts-playground",
       "plugin": "shortcuts-playground",
-      "skill_md_sha256": "66ee90fc2061d0e2137f7c3b0cc3087c43083830d2deaccf6fe44c9ecdcb0735",
+      "skill_md_sha256": "da1d74c8f8b1fbba826751519ad1da984cc08135cee7c7569b93513aa619aa72",
       "source": "~/.codex/plugins/cache/shortcuts-playground/shortcuts-playground/1.1.0/skills/shortcuts-playground",
-      "tree_sha256": "37ffa6396e0c24ef6c4fab784542ce592c6e85c9df8a61f07024d76c2e7f5d8e",
+      "tree_sha256": "a7800bb0427ed1bbfec192228451b2d2ad7f4c51b6b1b4e8dceac0e922912eb1",
       "version": "1.1.0"
     }
   ]
