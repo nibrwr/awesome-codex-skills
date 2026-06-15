@@ -542,7 +542,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-06-14T14:01:43+00:00",
+  "generated_at": "2026-06-15T14:03:02+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -555,20 +555,29 @@
     },
     {
       "kind": "plugin",
+      "name": "pdf",
+      "plugin": "plugins",
+      "skill_md_sha256": "b09cb414c60234a15599c04a502ce36fe6e9aa178aabe007e43a3346b5aab607",
+      "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/pdf/skills/pdf",
+      "tree_sha256": "e182764789dc0d0e9625210bad45a73a4fb7863182dd932bafa43144fbf06b3b",
+      "version": "pdf"
+    },
+    {
+      "kind": "plugin",
       "name": "presentations",
       "plugin": "plugins",
-      "skill_md_sha256": "73e207fdc997b09be7c177c8cec21cabf7189db58abe1139f6bfeb982f6c0c28",
+      "skill_md_sha256": "f13f14107aadea0c00f27a0d5398ef70caa569993a0de2eb5920b63a8d2d1bb9",
       "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/presentations/skills/presentations",
-      "tree_sha256": "dbbcb0312f65abdf409b92c4faf9e5bbd705eca6e7337ba0a8076e8f08b657eb",
+      "tree_sha256": "f99f1d5b1731f1abb242d468d7a8cf83375e1a278e6d5401036f81d42761e23c",
       "version": "presentations"
     },
     {
       "kind": "plugin",
       "name": "spreadsheets",
       "plugin": "plugins",
-      "skill_md_sha256": "94ab0e96adc735f468ae504adba20ed749845349dbe58fa28bc0e958f1068e14",
+      "skill_md_sha256": "43a9d78d1af31000abfb028df0e7564bba2623848ac7893360be524cd397f658",
       "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/spreadsheets/skills/spreadsheets",
-      "tree_sha256": "96244d4e39638930ad7c71c9709d081ce387fd4c4ecccd1e549c492b23081604",
+      "tree_sha256": "895c41ef920dc384e83061785d64c5d5cdb72145d790962f99bb9bae255eab12",
       "version": "spreadsheets"
     },
     {
@@ -1467,126 +1476,126 @@
       "name": "analyze-data-quality",
       "plugin": "data-analytics",
       "skill_md_sha256": "45c0ef1efb6418ecbd6b010f58ffa32870ad8e74da3860ad150b12a05aa84693",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/analyze-data-quality",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/analyze-data-quality",
       "tree_sha256": "5e004658ebb1e84b3c1b0ebc76112dce175183f0139a200b9598d35ca92c2b95",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
       "name": "build-dashboard",
       "plugin": "data-analytics",
       "skill_md_sha256": "b9ea5c26f21deb8812a18d89b4329241c4c8db75d608fb7cc83b937a714b426a",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/build-dashboard",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/build-dashboard",
       "tree_sha256": "a610870c79f0ec676e26bc0ce8f68e3e33d2d333ed816c361abccb165eda01f4",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
       "name": "build-report",
       "plugin": "data-analytics",
       "skill_md_sha256": "e8006ddb8e1b915548b2a2f1da5515a88443d7426968f325b4875814469a2ab9",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/build-report",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/build-report",
       "tree_sha256": "64807f1efd48e1211c4fe5627a854070f7065772dcaf746c6fa1ce889e720e3d",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
       "name": "design-kpis",
       "plugin": "data-analytics",
       "skill_md_sha256": "7229df7cf3dc11facec04f32a050b76a7a7368b00c11a4772c256917159a7774",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/design-kpis",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/design-kpis",
       "tree_sha256": "8b8c2043b1eb56e5a7ff055a44de1e68af4903877e926530bca82b1ce898a7ae",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
       "name": "gather-business-context",
       "plugin": "data-analytics",
       "skill_md_sha256": "a69d2ca01efd82c67ace2df7a27d27887aff7eee94a3872425b81ae1a1bdfad7",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/gather-business-context",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/gather-business-context",
       "tree_sha256": "c7007b9974f386964fb1a1d73662c44c4f2677261d8082c8678ca1b846a1749f",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
       "name": "index",
       "plugin": "data-analytics",
       "skill_md_sha256": "ba72c36ed0176755fbdd99eab61d36d247bca61e5b0dcfae1755ea884689f629",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/index",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/index",
       "tree_sha256": "4173ee432a7c332288f8cd07ae8cd14625ac7ea4021279382ea74bd8197896d6",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
       "name": "jupyter-notebooks",
       "plugin": "data-analytics",
       "skill_md_sha256": "0907e3746115c6508793ace7635a9076fb1102e16d5048657fde78325ed8d94a",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/jupyter-notebooks",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/jupyter-notebooks",
       "tree_sha256": "5fd19297321a17800963bdbee99f85355a2fae95e5d82cedcb5d98de02453715",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
       "name": "kpi-reporting",
       "plugin": "data-analytics",
       "skill_md_sha256": "88f097dcee8562469f9217684e5d96235352b5c6e290d9c3b9163d631149158c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/kpi-reporting",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/kpi-reporting",
       "tree_sha256": "cd0711f3bad1343a8eb56c9e489a61e693c689c307ceb01ed9769dc99b27e887",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
       "name": "market-sizing",
       "plugin": "data-analytics",
       "skill_md_sha256": "ef0f6a6fd16a8924653b00b197e121e8b1871bad26a9a6978f31ef254790092f",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/market-sizing",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/market-sizing",
       "tree_sha256": "f4da9c659ffb407ce7cfe912a15e214d725e1919fb82ab86092cd86b8b54bf8a",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
       "name": "metric-diagnostics",
       "plugin": "data-analytics",
       "skill_md_sha256": "c6d9085699096b2fc5bb8c7cffd1a9f427d2d4abfb48e1100581ef339dadb2f1",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/metric-diagnostics",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/metric-diagnostics",
       "tree_sha256": "ebf2543ad928740cd2485a03ee6d27b1676716a83ada715196e3d59297dccead",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
       "name": "product-business-analysis",
       "plugin": "data-analytics",
       "skill_md_sha256": "0f5cd4eb688f35f49d9b56f2fa737fe7491a5b1f7d17bd303b2002b139a0e5f2",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/product-business-analysis",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/product-business-analysis",
       "tree_sha256": "59426fed236896e95e0dc4b5fd93649cced00a46ce8bab1b2733f92d2c32944e",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
       "name": "user-context",
       "plugin": "data-analytics",
       "skill_md_sha256": "be12b465f6db4ba9628b64e197749eddefb42c7f2a38169eb9f3af67394a61f2",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/user-context",
-      "tree_sha256": "f91d93f828dbfb1f44060c69b2b290896e79403e11bca8e27d1f1de5da404a2a",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/user-context",
+      "tree_sha256": "e71d360c8684ecf0e6dd2461476bd0059dafaecc16675597bb31824d4e4784cc",
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
       "name": "validate-data",
       "plugin": "data-analytics",
       "skill_md_sha256": "cb79bb306fed70455e6f5897948bc09d28d21072eaf45e2fc460480f96bc6009",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/validate-data",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/validate-data",
       "tree_sha256": "ebfcc0b11eca21ce87b5eb81b8fcd310fbdbceb35a8b0a752635b5525503ecb6",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
       "name": "visualize-data",
       "plugin": "data-analytics",
       "skill_md_sha256": "668ddcecef5cb0d5142a58284550a8be58b9e28b8e7b642bbaac5908f2bbb13e",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.41-cf2b8b6c00d3/skills/visualize-data",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.1.42-7f4d2c05f012/skills/visualize-data",
       "tree_sha256": "92a1ee5abfe6ed6e4b46b8911c0125e953063ee9b06e69df5f8cc660cbf8f05c",
-      "version": "0.1.41-cf2b8b6c00d3"
+      "version": "0.1.42-7f4d2c05f012"
     },
     {
       "kind": "plugin",
@@ -2475,27 +2484,36 @@
       "name": "documents",
       "plugin": "documents",
       "skill_md_sha256": "7aedfc26a9acc0f66e1a5af98c5d669e0bc4e4cc05b3a6ecef2f4724c7cd1b7a",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.601.10930/skills/documents",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.614.11602/skills/documents",
       "tree_sha256": "f2d2772870c4dae3bff56bfbf0c1378cb61401430cdd2a9bbad4b34037c34153",
-      "version": "26.601.10930"
+      "version": "26.614.11602"
+    },
+    {
+      "kind": "plugin",
+      "name": "pdf",
+      "plugin": "pdf",
+      "skill_md_sha256": "b09cb414c60234a15599c04a502ce36fe6e9aa178aabe007e43a3346b5aab607",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/pdf/26.614.11602/skills/pdf",
+      "tree_sha256": "e182764789dc0d0e9625210bad45a73a4fb7863182dd932bafa43144fbf06b3b",
+      "version": "26.614.11602"
     },
     {
       "kind": "plugin",
       "name": "presentations",
       "plugin": "presentations",
-      "skill_md_sha256": "73e207fdc997b09be7c177c8cec21cabf7189db58abe1139f6bfeb982f6c0c28",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.601.10930/skills/presentations",
-      "tree_sha256": "dbbcb0312f65abdf409b92c4faf9e5bbd705eca6e7337ba0a8076e8f08b657eb",
-      "version": "26.601.10930"
+      "skill_md_sha256": "f13f14107aadea0c00f27a0d5398ef70caa569993a0de2eb5920b63a8d2d1bb9",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.614.11602/skills/presentations",
+      "tree_sha256": "f99f1d5b1731f1abb242d468d7a8cf83375e1a278e6d5401036f81d42761e23c",
+      "version": "26.614.11602"
     },
     {
       "kind": "plugin",
       "name": "spreadsheets",
       "plugin": "spreadsheets",
-      "skill_md_sha256": "94ab0e96adc735f468ae504adba20ed749845349dbe58fa28bc0e958f1068e14",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.601.10930/skills/spreadsheets",
-      "tree_sha256": "96244d4e39638930ad7c71c9709d081ce387fd4c4ecccd1e549c492b23081604",
-      "version": "26.601.10930"
+      "skill_md_sha256": "43a9d78d1af31000abfb028df0e7564bba2623848ac7893360be524cd397f658",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.614.11602/skills/spreadsheets",
+      "tree_sha256": "895c41ef920dc384e83061785d64c5d5cdb72145d790962f99bb9bae255eab12",
+      "version": "26.614.11602"
     },
     {
       "kind": "plugin",
