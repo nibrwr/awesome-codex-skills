@@ -8048,7 +8048,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-06-18T14:02:00+00:00",
+  "generated_at": "2026-06-19T14:02:39+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8090,604 +8090,622 @@
       "kind": "plugin",
       "name": "control-in-app-browser",
       "plugin": "browser",
-      "skill_md_sha256": "d2c2eb9267c73d7382269318e24d9c9c6d58b58ac2810981d8a06eaa9ff8c593",
-      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.609.41114/skills/control-in-app-browser",
-      "tree_sha256": "939f9c9d08b5de602434dd54f74dea711b8dd4b31f8deb8f7486c1e17dc9a048",
-      "version": "26.609.41114"
+      "skill_md_sha256": "34fd3baff102af46c94aaa5f8f3b7710b05e16d26fe42e33a25ca809fd7731e4",
+      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.616.32156/skills/control-in-app-browser",
+      "tree_sha256": "c5bf08ef9a5aa618ba1055937357ac7890282d5fd36d566a7cc189238f0a2ebf",
+      "version": "26.616.32156"
     },
     {
       "kind": "plugin",
       "name": "ios-app-intents",
       "plugin": "build-ios-apps",
       "skill_md_sha256": "ecfa87ec1070bccfdfa0d21ee997bbfbfd78edfb1f22da5da9c05ff006e9fa52",
-      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/c6ea566d/skills/ios-app-intents",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/202e9242/skills/ios-app-intents",
       "tree_sha256": "f41d4dbb28a543998b67924124b2b81a07b58a2c706ac78ab77b2664e941eb1e",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "ios-debugger-agent",
       "plugin": "build-ios-apps",
       "skill_md_sha256": "bb8ad932ec473cee097c9c8d106051134e9ab6cf9dc85d6a8e62ce80ad24c385",
-      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/c6ea566d/skills/ios-debugger-agent",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/202e9242/skills/ios-debugger-agent",
       "tree_sha256": "c05ab0a334d7f8a5f6e2f62868d43853bcce7558b92fc0d80ce43a3a40e7e9f1",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "ios-ettrace-performance",
       "plugin": "build-ios-apps",
       "skill_md_sha256": "1888c0b2fc6b7d9f3d54d06333e9628a2c4660b9d9b5ddf3edc37f126c773935",
-      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/c6ea566d/skills/ios-ettrace-performance",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/202e9242/skills/ios-ettrace-performance",
       "tree_sha256": "13cebe6b6d7a51fe0e3163e9f057713b42949e939152c095980ed36c6f8648f0",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "ios-memgraph-leaks",
       "plugin": "build-ios-apps",
       "skill_md_sha256": "f09a1e78c00b342196035f6570723f16e40e34a800d353c7c885d1dab4dc8781",
-      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/c6ea566d/skills/ios-memgraph-leaks",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/202e9242/skills/ios-memgraph-leaks",
       "tree_sha256": "5eca23272cf7cbdb8f98b080bcdf280601dd99c9bc34497239896e197cfdc061",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "ios-simulator-browser",
       "plugin": "build-ios-apps",
       "skill_md_sha256": "f3f0216323cd7713a73f1bc4beee1b740a7867f20affef331760dd1932a1ec4b",
-      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/c6ea566d/skills/ios-simulator-browser",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/202e9242/skills/ios-simulator-browser",
       "tree_sha256": "506478fe65ddeeee0193a5db531de86f5cf6c76788b5051edb2a533e4e81e92c",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "swiftui-liquid-glass",
       "plugin": "build-ios-apps",
       "skill_md_sha256": "8e9ec37d9b6ed146672faf12c88be61d367c280ab6159bfbc7726a122030b78b",
-      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/c6ea566d/skills/swiftui-liquid-glass",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/202e9242/skills/swiftui-liquid-glass",
       "tree_sha256": "142012dc712140cb18214231433a738ad844613731ee48e5b82488a227a82b04",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "swiftui-performance-audit",
       "plugin": "build-ios-apps",
       "skill_md_sha256": "6fc6bd4d49b49ccb2089be706c449f195daa7db2c36d8097d883426488eb4b1a",
-      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/c6ea566d/skills/swiftui-performance-audit",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/202e9242/skills/swiftui-performance-audit",
       "tree_sha256": "58dd737ad7598c30376d9888c3afed173c380f3807a4efc4888e592d4eba58d4",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "swiftui-ui-patterns",
       "plugin": "build-ios-apps",
       "skill_md_sha256": "a96f078512c6c679a3504ec20e0eedff4a9be3a06eb9a95107f3556c081bb708",
-      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/c6ea566d/skills/swiftui-ui-patterns",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/202e9242/skills/swiftui-ui-patterns",
       "tree_sha256": "697ba81f0e911e88be878637a0897af4e675fde991f9e29bb1bef4b9759b761e",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "swiftui-view-refactor",
       "plugin": "build-ios-apps",
       "skill_md_sha256": "129cbb511987985ed7bf9e3f20443632a7becdf0c2824ded6b52241cc339243a",
-      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/c6ea566d/skills/swiftui-view-refactor",
+      "source": "~/.codex/plugins/cache/openai-curated/build-ios-apps/202e9242/skills/swiftui-view-refactor",
       "tree_sha256": "d04ba69fb7db2004f29d786dddd6e4acf062e61c0fa3dca457f0a82a84ca3ff8",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "appkit-interop",
       "plugin": "build-macos-apps",
       "skill_md_sha256": "7c91be82e30340ed9c929270f102965da3d67bcf509eecf8bf207c8a679fd3b6",
-      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/c6ea566d/skills/appkit-interop",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/202e9242/skills/appkit-interop",
       "tree_sha256": "16bf99e134b41e8d125ca20dfe572af05792a6802cee1fd8dd0284982d8f087c",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "build-run-debug",
       "plugin": "build-macos-apps",
       "skill_md_sha256": "bd32f3fa611fd731d01113450929aaeab8b40bfdda669b6cad76d877a096b722",
-      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/c6ea566d/skills/build-run-debug",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/202e9242/skills/build-run-debug",
       "tree_sha256": "38d22f9dcbb278b94bad641f1b93423170f64985e3fdbe57f3277f49050c476c",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "liquid-glass",
       "plugin": "build-macos-apps",
       "skill_md_sha256": "b2bbb5ea8a62523931d89d9db47cfecf6745406f17722cbe7a6f1c06026472c3",
-      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/c6ea566d/skills/liquid-glass",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/202e9242/skills/liquid-glass",
       "tree_sha256": "a4dc37012608382f96855d91d09dc73264bc9a74409a5c328458ea713e70825b",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "packaging-notarization",
       "plugin": "build-macos-apps",
       "skill_md_sha256": "adc0d5e0c48e74ac6c5078b5846d00cbb798a8fd08bd775590f23793c8e69b2b",
-      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/c6ea566d/skills/packaging-notarization",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/202e9242/skills/packaging-notarization",
       "tree_sha256": "5a36c62ba0ed58e62de9dc8eb14aa30df8dde2e5b015245a47255db1d4977b75",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "signing-entitlements",
       "plugin": "build-macos-apps",
       "skill_md_sha256": "79326e5096325b53c4350db9e1586c9a2ef56976705f01c24d3643a592dc3030",
-      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/c6ea566d/skills/signing-entitlements",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/202e9242/skills/signing-entitlements",
       "tree_sha256": "70d149d722ce1c6aea4d74b7a99c48b898fc7e23ef050e5329e4ed91f6e5292f",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "swiftpm-macos",
       "plugin": "build-macos-apps",
       "skill_md_sha256": "4bd2a889a2f96569773b8d408710326df715f5cfa7c4b3e942be4f895e2b382a",
-      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/c6ea566d/skills/swiftpm-macos",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/202e9242/skills/swiftpm-macos",
       "tree_sha256": "2b1898913e99550f28dfba118f65ffd1baf82a476fedb83de00e3611d8eb29fe",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "swiftui-patterns",
       "plugin": "build-macos-apps",
       "skill_md_sha256": "ebfc06b1c1e11cadec83e5c204b20f33f01db1c36cb5796639567bd8eac0fe07",
-      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/c6ea566d/skills/swiftui-patterns",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/202e9242/skills/swiftui-patterns",
       "tree_sha256": "0e84482f863643a5e5461706c9f4544e106b329109b25303697fa8f3e6e293b1",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "telemetry",
       "plugin": "build-macos-apps",
       "skill_md_sha256": "64fae6fd88c411d108b321462f90b74deb42fb043b815baae04b199a07dfbd25",
-      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/c6ea566d/skills/telemetry",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/202e9242/skills/telemetry",
       "tree_sha256": "ba6680665db572f40116cc40487f2c48dfcb29d116c00736c1483c182487defc",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "test-triage",
       "plugin": "build-macos-apps",
       "skill_md_sha256": "e6ed34d34d2b4f62a262f3ab9076ab02bfb75d7661491383493bee78545b7851",
-      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/c6ea566d/skills/test-triage",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/202e9242/skills/test-triage",
       "tree_sha256": "0f725a834223cd4e03c436fa4fd38f998e6c6a3519d505228c8426fbe2188d39",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "view-refactor",
       "plugin": "build-macos-apps",
       "skill_md_sha256": "924b1a3a6f894443d26987346bc21fa8bf0815d463d2f741cb58a3e4321dc854",
-      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/c6ea566d/skills/view-refactor",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/202e9242/skills/view-refactor",
       "tree_sha256": "f04d3b3662e4aeb097abe99364c3581ecdd7208328502aacfb157fea74b9835e",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "window-management",
       "plugin": "build-macos-apps",
       "skill_md_sha256": "9fea3f84f6cd96c629bbb45cfe2715e9669a737f088a3453a20bd6083067e64d",
-      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/c6ea566d/skills/window-management",
+      "source": "~/.codex/plugins/cache/openai-curated/build-macos-apps/202e9242/skills/window-management",
       "tree_sha256": "679bf72f2b43c8d21855ab27b80734131728a369f7a8d8e654de35e2e32b1b9c",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "frontend-app-builder",
       "plugin": "build-web-apps",
       "skill_md_sha256": "9273de02827b29534be28fb2b37154c1571ac38b4e20d3ef5482b7e22af67394",
-      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/c6ea566d/skills/frontend-app-builder",
+      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/202e9242/skills/frontend-app-builder",
       "tree_sha256": "69496b66fcea5daeaa987fdccb3811aba150994a266cf9c5a28e51e1b2f335fc",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "frontend-testing-debugging",
       "plugin": "build-web-apps",
       "skill_md_sha256": "03724620cf7e7de425b607a5492f572d867b1cf5d9c92c74bf50d057d7415e0b",
-      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/c6ea566d/skills/frontend-testing-debugging",
+      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/202e9242/skills/frontend-testing-debugging",
       "tree_sha256": "adb125a6f87b717848211149031d1aa3f3f5e5c2cae223b6167f513d8d60a5f8",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "react-best-practices",
       "plugin": "build-web-apps",
       "skill_md_sha256": "cc7d03309817f392c419a203e1bc1f1759ef94831f7dbedf39d91a35ac5bc86a",
-      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/c6ea566d/skills/react-best-practices",
+      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/202e9242/skills/react-best-practices",
       "tree_sha256": "a2c4d0ad432e01bb572052617c2b2cbf2a58abc87e5d53c0ac908476c05e53f4",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "shadcn-best-practices",
       "plugin": "build-web-apps",
       "skill_md_sha256": "7678f5168d4ee6f3ae3ce4d3d41c654f0aebc7b88cbc392a9504822dec0dff28",
-      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/c6ea566d/skills/shadcn-best-practices",
+      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/202e9242/skills/shadcn-best-practices",
       "tree_sha256": "99ddc0ddb67af95d098f84455446c71ee9d9f3eab7849762b9d0a06fd1cf401f",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "stripe-best-practices",
       "plugin": "build-web-apps",
       "skill_md_sha256": "5062f0c980030af377a0ac33b77c9d233676e2ecbb57b3d3cd8734fc0da464b2",
-      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/c6ea566d/skills/stripe-best-practices",
+      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/202e9242/skills/stripe-best-practices",
       "tree_sha256": "2fdbf14f80dd9dc449b766f8a853eee3822092ebc8f7b8b34faed0f4085d9d48",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "supabase-best-practices",
       "plugin": "build-web-apps",
       "skill_md_sha256": "cfc4da3ed47c14f4fb24c5b4db4be443fa200e12e71d674fb1270eecce87a302",
-      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/c6ea566d/skills/supabase-best-practices",
+      "source": "~/.codex/plugins/cache/openai-curated/build-web-apps/202e9242/skills/supabase-best-practices",
       "tree_sha256": "9967f3789e20b9eac91ea31b3daddba5d87678c04735bf3ba8c02b736a2f7090",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "canva-branded-presentation",
       "plugin": "canva",
       "skill_md_sha256": "110b3ba5a50c22e804067363881c2384f07a32bd704af79b894e04138c915713",
-      "source": "~/.codex/plugins/cache/openai-curated/canva/c6ea566d/skills/canva-branded-presentation",
+      "source": "~/.codex/plugins/cache/openai-curated/canva/202e9242/skills/canva-branded-presentation",
       "tree_sha256": "8e920befc5b880666d7bb13bc7284fc2c2e391a5cd93473563dda2ad5e417fac",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "canva-resize-for-all-social-media",
       "plugin": "canva",
       "skill_md_sha256": "ca36f9b6cc9e1913b762663d1f68f6caf20cb98923783b3dfcea4aebe6d09ce8",
-      "source": "~/.codex/plugins/cache/openai-curated/canva/c6ea566d/skills/canva-resize-for-all-social-media",
+      "source": "~/.codex/plugins/cache/openai-curated/canva/202e9242/skills/canva-resize-for-all-social-media",
       "tree_sha256": "3257e2f7703f499a03ecaf19943f2539c59cdd99a6431645e1b5a51a4b293a70",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "canva-translate-design",
       "plugin": "canva",
       "skill_md_sha256": "950145361d04b50807954931549a4f40f8de945286cf304322c4d80a15493aac",
-      "source": "~/.codex/plugins/cache/openai-curated/canva/c6ea566d/skills/canva-translate-design",
+      "source": "~/.codex/plugins/cache/openai-curated/canva/202e9242/skills/canva-translate-design",
       "tree_sha256": "98657efcf505c51e5c5fcafd58e134ab62bc8ab61476b88ad120ef67a28cf561",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "agents-sdk",
       "plugin": "cloudflare",
       "skill_md_sha256": "007d6ccf85808a6c779f5b058b1be970d77785000071cb27a55a5f580fbc845b",
-      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/c6ea566d/skills/agents-sdk",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/202e9242/skills/agents-sdk",
       "tree_sha256": "0f90d7c1cf1e329fc76c02d0a28b0c15175e5513ec2733fad4b10dfc1c508b7d",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "building-ai-agent-on-cloudflare",
       "plugin": "cloudflare",
       "skill_md_sha256": "31554ff30e2edb8c2dc9bd5fba15438691fb07f3541f0a0cc843b6a13cdaa573",
-      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/c6ea566d/skills/building-ai-agent-on-cloudflare",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/202e9242/skills/building-ai-agent-on-cloudflare",
       "tree_sha256": "e0fdc02b4125a3e53efb3ea2116b5f896d3a7ff4c9e9c8d353df4a9019d2291a",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "building-mcp-server-on-cloudflare",
       "plugin": "cloudflare",
       "skill_md_sha256": "d76ee46c043d3876d542245e0c26e9d084f4ca8241d811593e93d8d2594118e8",
-      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/c6ea566d/skills/building-mcp-server-on-cloudflare",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/202e9242/skills/building-mcp-server-on-cloudflare",
       "tree_sha256": "1fea7bb7010eaf6a253a6019a4e7201a76e4312e05fb12c71f35a62f2d823e0b",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "cloudflare",
       "plugin": "cloudflare",
       "skill_md_sha256": "613c4c57c19bd6385a870b4d441e00a0d88cc6c348c447f8a88889d34b17b2d0",
-      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/c6ea566d/skills/cloudflare",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/202e9242/skills/cloudflare",
       "tree_sha256": "087253d5695ed573bfd0eed98c6bba2cd79f9906057b3f061a90dbf0274f6856",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "durable-objects",
       "plugin": "cloudflare",
       "skill_md_sha256": "cd6797cb18f3ae8f721dfd2e5cb27b73a0aa8636683f1a38163dab2fd51a8dfb",
-      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/c6ea566d/skills/durable-objects",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/202e9242/skills/durable-objects",
       "tree_sha256": "aacb87a57ddbaa8a6ae7fde71829f8277476aac5013fa39fd62c39d1f5cce6d9",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "sandbox-sdk",
       "plugin": "cloudflare",
       "skill_md_sha256": "0f3501e6510921401be3f54bcb24d2a432a1b5c63af8f719eded3a087ad88ea9",
-      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/c6ea566d/skills/sandbox-sdk",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/202e9242/skills/sandbox-sdk",
       "tree_sha256": "27c754adf4a0367339e1ff45fa41f65a60dbf84ca9c8cbaf4d7021d11c46265f",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "web-perf",
       "plugin": "cloudflare",
       "skill_md_sha256": "746b3490d401c8020900f0a62ece846c22d3df15782ee843c082acfa89f26703",
-      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/c6ea566d/skills/web-perf",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/202e9242/skills/web-perf",
       "tree_sha256": "1846f13c0ef49d9a1789a1b2994934120635942613549acdb03cca1f87634d94",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "workers-best-practices",
       "plugin": "cloudflare",
       "skill_md_sha256": "099432ff265ff6080327ef0b392c118b835d2a5bda98a7de07e1afd115ed6458",
-      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/c6ea566d/skills/workers-best-practices",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/202e9242/skills/workers-best-practices",
       "tree_sha256": "ad189c5d143d66699fdea10daad9352080f5e98cc99ed3e1247765dbe5d7395b",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "wrangler",
       "plugin": "cloudflare",
       "skill_md_sha256": "0aa6fbe6932df4392779bfda67b1a0165697369668cb2dbef66d018a34f44c11",
-      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/c6ea566d/skills/wrangler",
+      "source": "~/.codex/plugins/cache/openai-curated/cloudflare/202e9242/skills/wrangler",
       "tree_sha256": "54361ef50502eb40e062e8e6f67ea6b5ad958fa181128b5ade863db9bb067144",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "attack-path-analysis",
       "plugin": "codex-security",
       "skill_md_sha256": "e11a98febd0dc8850ea2f409292aa4ee100660f7b414909ab8621df3ab2ce21d",
-      "source": "~/.codex/plugins/cache/openai-curated/codex-security/c6ea566d/skills/attack-path-analysis",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/202e9242/skills/attack-path-analysis",
       "tree_sha256": "3979f3993f269995ead83d6e6d65b6a00ff04c2dd218fafdc27254a56701c8aa",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "deep-security-scan",
       "plugin": "codex-security",
-      "skill_md_sha256": "cd55b36361e44796343737be3b54b8099e4236b91267e44f17c6e2da0be3fcc2",
-      "source": "~/.codex/plugins/cache/openai-curated/codex-security/c6ea566d/skills/deep-security-scan",
-      "tree_sha256": "c55d864ae6c515059c318281147311cc169466d9c923ae848261432fd4dd60af",
-      "version": "c6ea566d"
+      "skill_md_sha256": "dbbf378ca2124b7e4ed6ad4ac435cb1c59636c8ef25b154efa1032590f690c34",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/202e9242/skills/deep-security-scan",
+      "tree_sha256": "d4aab2bd9afd71301a4f6e4b050a850e36f979c2e933d3039dc644577edc10cc",
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "finding-discovery",
       "plugin": "codex-security",
-      "skill_md_sha256": "71a50f7e27e01fb52cecfa5b33ac024bb234e9e75f71f6cbf3ea1da5e60b1eda",
-      "source": "~/.codex/plugins/cache/openai-curated/codex-security/c6ea566d/skills/finding-discovery",
-      "tree_sha256": "480f647a8749346089dc7d7c960abc4d818a1b80c2061f36d0a09b66fe30b8ab",
-      "version": "c6ea566d"
+      "skill_md_sha256": "9f956c880d25f49ba28d245cb62eee09493c20f28ce04128abfe4d6fe362038c",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/202e9242/skills/finding-discovery",
+      "tree_sha256": "ea116d7c6e68168674109124006a386a18c6736f3dbd8239ec4c0fa9ebbb8b98",
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "fix-finding",
       "plugin": "codex-security",
-      "skill_md_sha256": "41b9a5b26839b98d95f71ee10a7097fc5d27d309abbcabdd1371af824552e093",
-      "source": "~/.codex/plugins/cache/openai-curated/codex-security/c6ea566d/skills/fix-finding",
-      "tree_sha256": "7b61bd826d7010cf4773e4d9e9d1dddcf986779eb59717315770f8cecdb6639b",
-      "version": "c6ea566d"
+      "skill_md_sha256": "a820e48f2e119d9131cd81407f0d9bee0120792eb63d0f4c42ff2da50f92cf07",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/202e9242/skills/fix-finding",
+      "tree_sha256": "0a200d04a83ceca8ed6f5c913e3f921cb9baee8ecc4ee3571e6be1ca7c76d0c7",
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "security-diff-scan",
       "plugin": "codex-security",
-      "skill_md_sha256": "3d9811c39246986e92d3001a198e5d5572cac07ad2ef9bbb18cfc374bae46feb",
-      "source": "~/.codex/plugins/cache/openai-curated/codex-security/c6ea566d/skills/security-diff-scan",
-      "tree_sha256": "1634e2c850302c4e4e8f31e69e7a5978e7b364e89d4fb3ef43646d01ae727bed",
-      "version": "c6ea566d"
+      "skill_md_sha256": "c6eadc9f38dd92d0d1e318adca2b26633c98ab51361624511ba9555d193677b7",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/202e9242/skills/security-diff-scan",
+      "tree_sha256": "6ae6f7854612c95d630858abd0cc0dcd0dab7c349ca8e3b0ea98a9c86d0f5207",
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "security-scan",
       "plugin": "codex-security",
-      "skill_md_sha256": "c87478cf213cd0ba26f0ae9598330ebf8004e4e16963c75553c4d72c56c1ec3b",
-      "source": "~/.codex/plugins/cache/openai-curated/codex-security/c6ea566d/skills/security-scan",
-      "tree_sha256": "5bae1b4de7c2da27a8e935259fbcff645ce40694461366e732ba4af84d20e25a",
-      "version": "c6ea566d"
+      "skill_md_sha256": "e45e6aecbccf3d8ea69f055f730dc671bd889c4d70f817c164404d8054f484ee",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/202e9242/skills/security-scan",
+      "tree_sha256": "fc6772ff82883d439ed6d4d99b54aebab1ded5457172be5353ebc811580261ed",
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "threat-model",
       "plugin": "codex-security",
       "skill_md_sha256": "9a73305a379a6e777a2c1476174c429fdc3450c89fc1c00a66fa7eac997004fc",
-      "source": "~/.codex/plugins/cache/openai-curated/codex-security/c6ea566d/skills/threat-model",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/202e9242/skills/threat-model",
       "tree_sha256": "023938fd55bbe6d7fe6bb6b17ebc1c033eaa3fe60c06e33b7ad1321e536cab29",
-      "version": "c6ea566d"
+      "version": "202e9242"
+    },
+    {
+      "kind": "plugin",
+      "name": "track-findings",
+      "plugin": "codex-security",
+      "skill_md_sha256": "ffa0559c83521ffca09552f28c16e3a4ceb83c82507222ed728b9ec8e6950a43",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/202e9242/skills/track-findings",
+      "tree_sha256": "f905c9633ea91ee826ab3623e3272c05535821af4ad2548d55524a208e06f07d",
+      "version": "202e9242"
+    },
+    {
+      "kind": "plugin",
+      "name": "triage-finding",
+      "plugin": "codex-security",
+      "skill_md_sha256": "59245cfe10f2034d2c7e572c229fafb9860b7df273ba840991aabc1656094808",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/202e9242/skills/triage-finding",
+      "tree_sha256": "e649d5a29e7d1853d6744a168c473432e337c3ab15ddd169de5d66faa9403448",
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "validation",
       "plugin": "codex-security",
-      "skill_md_sha256": "1defe029fdec20610dcbb9d898963f903ea3ebf10a287628c9ddc9ca7789f335",
-      "source": "~/.codex/plugins/cache/openai-curated/codex-security/c6ea566d/skills/validation",
-      "tree_sha256": "2cc88694362ac7a6d7b6e8e5b2dc332ae0fec3a2dec44dd62d26ba8080dca30c",
-      "version": "c6ea566d"
+      "skill_md_sha256": "7fe764c9ff7154573b90836362579c1557c024e2efefc0247daa1b20639bbf6d",
+      "source": "~/.codex/plugins/cache/openai-curated/codex-security/202e9242/skills/validation",
+      "tree_sha256": "9b89b1eb4d51408b8a2fecfcfc091a75ab7955ece27b22c6c0946116f374d4c2",
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "gh-address-comments",
       "plugin": "github",
       "skill_md_sha256": "c1ebc337357402f7faabafe712e0c463981a65f736453efe52abd305bcb74769",
-      "source": "~/.codex/plugins/cache/openai-curated/github/c6ea566d/skills/gh-address-comments",
+      "source": "~/.codex/plugins/cache/openai-curated/github/202e9242/skills/gh-address-comments",
       "tree_sha256": "e43fcf5ced7188693ac624c55d144621be0d2dd56776031eaa382ca03c359f17",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "gh-fix-ci",
       "plugin": "github",
       "skill_md_sha256": "7621a3560d788fb221d25f9753233fe0c393c5cfe63167c88b11f027c277b1f8",
-      "source": "~/.codex/plugins/cache/openai-curated/github/c6ea566d/skills/gh-fix-ci",
+      "source": "~/.codex/plugins/cache/openai-curated/github/202e9242/skills/gh-fix-ci",
       "tree_sha256": "f374d7888cccf4cba172ceee0ac11a2c341c02cdc858516a41fd84b9ad1bd791",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "github",
       "plugin": "github",
       "skill_md_sha256": "81dbdd90934fe86a79ddc4790fd211e5fca866302a74090ad153395f56f2bd42",
-      "source": "~/.codex/plugins/cache/openai-curated/github/c6ea566d/skills/github",
+      "source": "~/.codex/plugins/cache/openai-curated/github/202e9242/skills/github",
       "tree_sha256": "b570687738e1e655a49e803ffaab56c0bcf859f82414571f3df2c3fcc7749f6f",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "yeet",
       "plugin": "github",
       "skill_md_sha256": "93a0bcbc834c9b3ad6a8965c1a273b237b6d226e870cd0c16e08e87bc8769814",
-      "source": "~/.codex/plugins/cache/openai-curated/github/c6ea566d/skills/yeet",
+      "source": "~/.codex/plugins/cache/openai-curated/github/202e9242/skills/yeet",
       "tree_sha256": "884331a0c0dd16156a5d9b53391b918de06c5970c62a9d864e750b0a26765b7d",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "cli",
       "plugin": "hugging-face",
       "skill_md_sha256": "ee85209886c4ec3d3d850489368be193d11a8a3fa589012b39a4a5bbf7c7da2e",
-      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/c6ea566d/skills/cli",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/202e9242/skills/cli",
       "tree_sha256": "cb2c73c3843d631c2f137bbb3fefccbc8b0f8de26ccd588960eab5c024f3754d",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "community-evals",
       "plugin": "hugging-face",
       "skill_md_sha256": "a97f1c703f55b72427453a76af858237e6392a447fcafa9eeb85f7ac67f0155d",
-      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/c6ea566d/skills/community-evals",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/202e9242/skills/community-evals",
       "tree_sha256": "4ffe4cb046745d80410149070db28baa6d0a3d5d9e00274fc569d2e825a5b0b8",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "datasets",
       "plugin": "hugging-face",
       "skill_md_sha256": "5af74f3e042313efadf02e85c316a2576bdc0b0ff92c43c3ba5dcb6e2dae1ded",
-      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/c6ea566d/skills/datasets",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/202e9242/skills/datasets",
       "tree_sha256": "e1e3cf3e5ccda37fc2067a95960df4c33d79cf907dab41057cac353190baee92",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "gradio",
       "plugin": "hugging-face",
       "skill_md_sha256": "e2f4c232c38682bccfc73115ca7d0a5427f7d625e6fd56b32515fe4c0900f997",
-      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/c6ea566d/skills/gradio",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/202e9242/skills/gradio",
       "tree_sha256": "77aaacc0ffa216095a8983bfe9e72643fb663cc3571cac1d5b44a32bb8ec79a5",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "jobs",
       "plugin": "hugging-face",
       "skill_md_sha256": "b85252f49569e97adc3d85e75ea37ed505028249fe1d9991069a6c52d0a64f35",
-      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/c6ea566d/skills/jobs",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/202e9242/skills/jobs",
       "tree_sha256": "ebae8285cdd2ace3ed91a3e7b009937e37770766098ccbe534f3ddd8f6e3cfa6",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "llm-trainer",
       "plugin": "hugging-face",
       "skill_md_sha256": "6628c305a8ae8de81fea38d05c4712b54a97fed4e19e776b1edc18e392d98f48",
-      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/c6ea566d/skills/llm-trainer",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/202e9242/skills/llm-trainer",
       "tree_sha256": "1696a8a485bbbab9feda201c5f1d57c53f8c3fc3d13146fb4a45909a967043f5",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "paper-publisher",
       "plugin": "hugging-face",
       "skill_md_sha256": "04b59406cf88054ab365f5bbbc57fe2e2fcb369e942dff2841c4f4297318c353",
-      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/c6ea566d/skills/paper-publisher",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/202e9242/skills/paper-publisher",
       "tree_sha256": "2dfa1c094280abcbb0bf5b81e469ab1ba4194c7513e9b3df9d5564188d2b1b90",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "papers",
       "plugin": "hugging-face",
       "skill_md_sha256": "985c2d5c7261aba2b157811cde0c2b30134663694a4ab701280de28f941eb3b2",
-      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/c6ea566d/skills/papers",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/202e9242/skills/papers",
       "tree_sha256": "bc6a7c7838a5ec816a1e8b919b66aa23ae8678d2266474d0eb055ee8f606e2e0",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "trackio",
       "plugin": "hugging-face",
       "skill_md_sha256": "893ac9695f8677db4c4f0c15795e789346946f6142305c89d7ee57774e22ffb1",
-      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/c6ea566d/skills/trackio",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/202e9242/skills/trackio",
       "tree_sha256": "13c9ce64176d5c49ef1984929a8a6383ad0f4ff59660c42efaa2ed38faf5eccc",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "transformers.js",
       "plugin": "hugging-face",
       "skill_md_sha256": "89a70a8a0604fc90cf6ae1063cb0f7d2f625bdf4d337f4f24e3f19cea4f99511",
-      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/c6ea566d/skills/transformers.js",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/202e9242/skills/transformers.js",
       "tree_sha256": "664bd43af37e7b1d4bb80c3a03fd6dc19cac61884cf70a3e5a52a81192a18e10",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "vision-trainer",
       "plugin": "hugging-face",
       "skill_md_sha256": "c7aba4de75fa6595ffdaf5c50136786e8346aba0c9ff0261eaee656af4a3b0d9",
-      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/c6ea566d/skills/vision-trainer",
+      "source": "~/.codex/plugins/cache/openai-curated/hugging-face/202e9242/skills/vision-trainer",
       "tree_sha256": "0dbee87cc99598f780dd82f48e93332c0993b132fd7dd29d898e432c1f7f6c0b",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "agents-sdk",
       "plugin": "openai-developers",
       "skill_md_sha256": "61830dccd552307bc714b961acae80b1c9c9c30b5d2faaa9e6043b6fb0414760",
-      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/c6ea566d/skills/agents-sdk",
+      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/202e9242/skills/agents-sdk",
       "tree_sha256": "b04c66807e6a5a29ccc7b3469840ac7f1b2adc8f89777da6202eb8c2134c8221",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "build-chatgpt-app",
       "plugin": "openai-developers",
       "skill_md_sha256": "b4ba5e0847e9b56b327da4e7546f5f0bf3325f54d6d21fc119b320bc2c898a53",
-      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/c6ea566d/skills/build-chatgpt-app",
+      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/202e9242/skills/build-chatgpt-app",
       "tree_sha256": "40ff286e846dde564afd50a375b3f17c7a265d8570c4ae81542d601bb2eae4b8",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "chatgpt-app-submission",
       "plugin": "openai-developers",
-      "skill_md_sha256": "a92342d65537b7d4116e5cac3e562f2ba180c735f1d8b719099823ba32829c21",
-      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/c6ea566d/skills/chatgpt-app-submission",
-      "tree_sha256": "85fd7154b61cfdbde0ed7504eb16e8f3b3331c7ac257d0078d376f314863f200",
-      "version": "c6ea566d"
+      "skill_md_sha256": "c9b43ca8fe60189e541afa30ea32a86f1bd7ab58a353faac777192a282b796cf",
+      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/202e9242/skills/chatgpt-app-submission",
+      "tree_sha256": "573b9bffbbb8d23e93ba19e2b98a37d21a2c91a9ee79cbdf307ccc33cb56f274",
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "openai-api-troubleshooting",
       "plugin": "openai-developers",
       "skill_md_sha256": "9fb4e152430c2f0475d1d14ce61b413267d322af9c032f2affb64698ca562662",
-      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/c6ea566d/skills/openai-api-troubleshooting",
+      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/202e9242/skills/openai-api-troubleshooting",
       "tree_sha256": "7f7807c8b7dc0bfb23681df05223edf261e715f9b690235e33ea2b71ec59195f",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "openai-platform-api-key",
       "plugin": "openai-developers",
       "skill_md_sha256": "780670286fb0acf32660abafc1bc34d7a25ff7a74af59e02db8fb62bbdd21ac2",
-      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/c6ea566d/skills/openai-platform-api-key",
+      "source": "~/.codex/plugins/cache/openai-curated/openai-developers/202e9242/skills/openai-platform-api-key",
       "tree_sha256": "7ffba1f3d13eb2d111beec53afbedbbb16cc0370f22d25b018302996095ce8b9",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
@@ -8712,18 +8730,18 @@
       "name": "android-emulator-qa",
       "plugin": "test-android-apps",
       "skill_md_sha256": "0ce182ad60db73ea663f0eab6793f4fbf63b4b4e2ebba596a61b7b3b8985eeac",
-      "source": "~/.codex/plugins/cache/openai-curated/test-android-apps/c6ea566d/skills/android-emulator-qa",
+      "source": "~/.codex/plugins/cache/openai-curated/test-android-apps/202e9242/skills/android-emulator-qa",
       "tree_sha256": "1f2063a8806ae0e38017bf0963a16dd4b3e3dbbfc11575c9c57d5f8b4d9dfce2",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
       "name": "android-performance",
       "plugin": "test-android-apps",
       "skill_md_sha256": "931867cdf98318c0efaad503c87f2e29e4650d97d4f2bc80e58490e0011aa791",
-      "source": "~/.codex/plugins/cache/openai-curated/test-android-apps/c6ea566d/skills/android-performance",
+      "source": "~/.codex/plugins/cache/openai-curated/test-android-apps/202e9242/skills/android-performance",
       "tree_sha256": "39ce5f4cc67f77ccdd47b48cf8e6f17fc031c7973a0839cbc32bc88febb1b6cf",
-      "version": "c6ea566d"
+      "version": "202e9242"
     },
     {
       "kind": "plugin",
@@ -8964,36 +8982,36 @@
       "name": "gh-address-comments",
       "plugin": "github",
       "skill_md_sha256": "c1ebc337357402f7faabafe712e0c463981a65f736453efe52abd305bcb74769",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.3/skills/gh-address-comments",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.5/skills/gh-address-comments",
       "tree_sha256": "e43fcf5ced7188693ac624c55d144621be0d2dd56776031eaa382ca03c359f17",
-      "version": "0.1.3"
+      "version": "0.1.5"
     },
     {
       "kind": "plugin",
       "name": "gh-fix-ci",
       "plugin": "github",
       "skill_md_sha256": "7621a3560d788fb221d25f9753233fe0c393c5cfe63167c88b11f027c277b1f8",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.3/skills/gh-fix-ci",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.5/skills/gh-fix-ci",
       "tree_sha256": "f374d7888cccf4cba172ceee0ac11a2c341c02cdc858516a41fd84b9ad1bd791",
-      "version": "0.1.3"
+      "version": "0.1.5"
     },
     {
       "kind": "plugin",
       "name": "github",
       "plugin": "github",
       "skill_md_sha256": "81dbdd90934fe86a79ddc4790fd211e5fca866302a74090ad153395f56f2bd42",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.3/skills/github",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.5/skills/github",
       "tree_sha256": "b570687738e1e655a49e803ffaab56c0bcf859f82414571f3df2c3fcc7749f6f",
-      "version": "0.1.3"
+      "version": "0.1.5"
     },
     {
       "kind": "plugin",
       "name": "yeet",
       "plugin": "github",
       "skill_md_sha256": "93a0bcbc834c9b3ad6a8965c1a273b237b6d226e870cd0c16e08e87bc8769814",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.3/skills/yeet",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.5/skills/yeet",
       "tree_sha256": "884331a0c0dd16156a5d9b53391b918de06c5970c62a9d864e750b0a26765b7d",
-      "version": "0.1.3"
+      "version": "0.1.5"
     },
     {
       "kind": "plugin",
