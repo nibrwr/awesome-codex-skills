@@ -561,6 +561,15 @@
     },
     {
       "kind": "user",
+      "name": "apple-platform-quality-loop",
+      "plugin": null,
+      "skill_md_sha256": "04025f22675d72feb3fbb9dfd5554934a78db7a6f5ab43cc32ddd469578665ac",
+      "source": "~/.codex/skills/apple-platform-quality-loop",
+      "tree_sha256": "5492f535c3ffc1d261568e739545f4ce770d2e760325d31e475bfe5925ca811e",
+      "version": null
+    },
+    {
+      "kind": "user",
       "name": "appointo-automation",
       "plugin": null,
       "skill_md_sha256": "fc2ba9e5c4364b5f9557be24233be511a6bb4173ca79ab49973d987b4eca0a6d",
@@ -8048,7 +8057,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-06-29T14:01:19+00:00",
+  "generated_at": "2026-06-30T14:02:12+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Platform Quality Loop"
+  short_description: "Audit Apple app quality loops"
+  default_prompt: "Run an Apple platform quality loop for this app and report gaps in functionality, code efficiency, and security."
