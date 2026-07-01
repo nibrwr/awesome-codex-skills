@@ -8057,7 +8057,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-06-30T14:02:12+00:00",
+  "generated_at": "2026-07-01T14:02:12+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8081,9 +8081,9 @@
       "kind": "plugin",
       "name": "presentations",
       "plugin": "plugins",
-      "skill_md_sha256": "1b3867438940df2322e53690107935bda1b36807630e50610dee2906358cedb5",
+      "skill_md_sha256": "1c6d64a49dcaef02799a493f6679a1a7a530e80f01f8b14f566313e4f3d358f9",
       "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/presentations/skills/presentations",
-      "tree_sha256": "3e312cda4151a2c121114472e338c28f3092dadfbb0ce0976bff1a86442b3384",
+      "tree_sha256": "3f372617b3da9df21f5e4cbd14ca28df0b8cfefc512f0cbf8a164eabea9f811b",
       "version": "presentations"
     },
     {
@@ -8109,9 +8109,9 @@
       "name": "control-in-app-browser",
       "plugin": "browser",
       "skill_md_sha256": "6f4ff86203116bd2337b7cb7d8657d043f46fd5ea6eb00d9d594a1f5e243a244",
-      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.623.42026/skills/control-in-app-browser",
+      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.623.70822/skills/control-in-app-browser",
       "tree_sha256": "810be0c7d897815e1b03bbb61a39381f3dec9840cb32619e1eb2afb11752b37a",
-      "version": "26.623.42026"
+      "version": "26.623.70822"
     },
     {
       "kind": "plugin",
@@ -10809,45 +10809,45 @@
       "name": "documents",
       "plugin": "documents",
       "skill_md_sha256": "1e7aad4a77d92c36309429043b63c59f510c413623b9ab4af036da82fc3dd5b0",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.623.12021/skills/documents",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.630.12135/skills/documents",
       "tree_sha256": "c3eb52a18d15f5079cf57ceedbb693adbc2cbcb9249cd2c33648c6c784432e5a",
-      "version": "26.623.12021"
+      "version": "26.630.12135"
     },
     {
       "kind": "plugin",
       "name": "pdf",
       "plugin": "pdf",
       "skill_md_sha256": "b09cb414c60234a15599c04a502ce36fe6e9aa178aabe007e43a3346b5aab607",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/pdf/26.623.12021/skills/pdf",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/pdf/26.630.12135/skills/pdf",
       "tree_sha256": "e182764789dc0d0e9625210bad45a73a4fb7863182dd932bafa43144fbf06b3b",
-      "version": "26.623.12021"
+      "version": "26.630.12135"
     },
     {
       "kind": "plugin",
       "name": "presentations",
       "plugin": "presentations",
-      "skill_md_sha256": "1b3867438940df2322e53690107935bda1b36807630e50610dee2906358cedb5",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.623.12021/skills/presentations",
-      "tree_sha256": "3e312cda4151a2c121114472e338c28f3092dadfbb0ce0976bff1a86442b3384",
-      "version": "26.623.12021"
+      "skill_md_sha256": "1c6d64a49dcaef02799a493f6679a1a7a530e80f01f8b14f566313e4f3d358f9",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.630.12135/skills/presentations",
+      "tree_sha256": "3f372617b3da9df21f5e4cbd14ca28df0b8cfefc512f0cbf8a164eabea9f811b",
+      "version": "26.630.12135"
     },
     {
       "kind": "plugin",
       "name": "spreadsheets",
       "plugin": "spreadsheets",
       "skill_md_sha256": "1ec84be8e108181a0f761f6e8c7398b2c9e41daa3db78e18475f095b22fd0ed4",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.623.12021/skills/spreadsheets",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.630.12135/skills/spreadsheets",
       "tree_sha256": "2b2c55a84b0b8fd1461940e10f219465280e3c716604a5a5f60d09b468060a3f",
-      "version": "26.623.12021"
+      "version": "26.630.12135"
     },
     {
       "kind": "plugin",
       "name": "template-creator",
       "plugin": "template-creator",
       "skill_md_sha256": "36c4b07109d27f7f57024a67f7682f6e7c3727c73feef01401d6c6aef7a9a57c",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/template-creator/26.623.12021/skills/template-creator",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/template-creator/26.630.12135/skills/template-creator",
       "tree_sha256": "d9a48845a0d9db220c8ba6eadc0df57ce604c8df03483723e746dc98fe929cb9",
-      "version": "26.623.12021"
+      "version": "26.630.12135"
     },
     {
       "kind": "plugin",
