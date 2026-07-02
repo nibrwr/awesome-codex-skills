@@ -552,11 +552,20 @@
     },
     {
       "kind": "user",
+      "name": "apple-developer-docs",
+      "plugin": null,
+      "skill_md_sha256": "f17fa6ff07a8daded5f5b0c8d24d0f4471d250dbabdf0d1df68af007e89e1478",
+      "source": "~/.codex/skills/apple-developer-docs",
+      "tree_sha256": "4213b70a2c749c39a4f4514a883a97a54bd51f950f39b02ac9ecd1f367f3713b",
+      "version": null
+    },
+    {
+      "kind": "user",
       "name": "apple-platform-design",
       "plugin": null,
-      "skill_md_sha256": "63129cdf1cd0a1e06d7220241010c59ba70480499fa2cc28a12d43354040a60b",
+      "skill_md_sha256": "6c0241032a363b59711639b7209a9a1988773cf45c8ce64cfa50d9198b0ea03b",
       "source": "~/.codex/skills/apple-platform-design",
-      "tree_sha256": "d0efe953f15cef768dca6d331f88c33540ff48a0c3401b3ad83351498e77ed75",
+      "tree_sha256": "5dffb2e35025fda41264a57c678c38ee2fbd4238aa094ca4052152df769f46fa",
       "version": null
     },
     {
@@ -8057,7 +8066,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-07-01T14:02:12+00:00",
+  "generated_at": "2026-07-02T14:02:53+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8109,9 +8118,9 @@
       "name": "control-in-app-browser",
       "plugin": "browser",
       "skill_md_sha256": "6f4ff86203116bd2337b7cb7d8657d043f46fd5ea6eb00d9d594a1f5e243a244",
-      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.623.70822/skills/control-in-app-browser",
+      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.623.81905/skills/control-in-app-browser",
       "tree_sha256": "810be0c7d897815e1b03bbb61a39381f3dec9840cb32619e1eb2afb11752b37a",
-      "version": "26.623.70822"
+      "version": "26.623.81905"
     },
     {
       "kind": "plugin",

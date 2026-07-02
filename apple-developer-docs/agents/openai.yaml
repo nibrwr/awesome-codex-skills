@@ -1,0 +1,11 @@
+interface:
+  display_name: "Apple Developer Docs"
+  short_description: "Search Apple docs with Cupertino"
+  default_prompt: "Use $apple-developer-docs to verify Apple API, Swift, HIG, sample-code, or package guidance with Cupertino before implementing."
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "cupertino"
+      description: "Local Cupertino MCP server for Apple documentation, HIG, Swift, packages, and sample code"
+      transport: "stdio"

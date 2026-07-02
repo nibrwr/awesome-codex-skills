@@ -115,6 +115,10 @@ Unless the user says otherwise, produce or maintain visuals such as:
 
 Use diagrams when they reduce ambiguity around architecture, user flow, platform divergence, or component relationships. Prefer concise visuals over long prose when a picture makes the decision easier to review.
 
+## Apple Documentation Verification
+
+When Human Interface Guidelines, API availability, Swift language details, or Apple sample-code patterns affect a design or implementation decision, use `$apple-developer-docs` to verify the relevant local Cupertino documentation before finalizing guidance or code.
+
 ## Platform Adaptation Rules
 
 Do not force identical layouts.
