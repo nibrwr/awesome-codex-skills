@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple App Quality Loop"
+  short_description: "Test Apple apps like a new user"
+  default_prompt: "Use $apple-app-quality-test-loop to run a full iOS, iPadOS, or macOS app quality loop before handoff."

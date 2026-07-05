@@ -7,6 +7,8 @@ description: Use when creating, scaffolding, styling, or reviewing new iOS, iPad
 
 Use this skill whenever the user starts or restyles an iOS, iPadOS, macOS, or shared SwiftUI app.
 
+Before final handoff for Apple app implementation or review work, also use `$apple-app-quality-test-loop` to run the required new-user, UX/UI, functionality, accessibility, and performance/resource quality loop.
+
 ## Default Aesthetic
 
 Build native Apple utility apps with a calm, professional, workflow-first feel.
@@ -83,6 +85,7 @@ For every new screen or component:
 4. Copy `MacAppShell.swift` or `IOSAppShell.swift` only when useful for the app's initial root layout.
 5. Build the first screen using tokens/components, then verify compile errors before expanding.
 6. Include an explicit accessibility review in the final handoff.
+7. Run `$apple-app-quality-test-loop` before final handoff for any app build, feature implementation, substantial UI change, or review.
 
 ## OS Availability
 
@@ -103,3 +106,4 @@ Before final handoff, verify:
 - Empty/loading/error/success states exist for async workflows.
 - Keyboard, pointer, touch, and assistive-technology behavior are covered for the platform.
 - The app builds, or the exact blocker is reported.
+- `$apple-app-quality-test-loop` has been run, or the exact tool/platform blocker is reported.
