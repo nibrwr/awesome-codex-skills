@@ -8057,7 +8057,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-07-18T14:03:43+00:00",
+  "generated_at": "2026-07-19T14:44:38+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8117,10 +8117,10 @@
       "kind": "plugin",
       "name": "control-in-app-browser",
       "plugin": "browser",
-      "skill_md_sha256": "83a5db57c3a5e7a2dcebc1dd0992b0c5ed393e3f36495af95881d8dd448491c8",
-      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.715.21425/skills/control-in-app-browser",
-      "tree_sha256": "1e80c1b267471f47d67034df2a3649cc14f884d7f53f6709c0b2a1278c796f88",
-      "version": "26.715.21425"
+      "skill_md_sha256": "80c5a591bb761f7242f480fc4fc6883860f303f3d5a91e5714230c7897ad8a8d",
+      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.715.31925/skills/control-in-app-browser",
+      "tree_sha256": "21d12637cd3ca8a39397e0f572734c89520568384640dda0099d43badf57ca31",
+      "version": "26.715.31925"
     },
     {
       "kind": "plugin",
@@ -9558,99 +9558,108 @@
       "name": "figma-code-connect",
       "plugin": "figma",
       "skill_md_sha256": "206d6db8304704019ee64e23128428af8f8815e2a114a99087ec2a300c194e9f",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.15/skills/figma-code-connect",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.16/skills/figma-code-connect",
       "tree_sha256": "daf4a3c3a0789e78f2063aa92e43d406d0b258e108341577f3fbe4857660a199",
-      "version": "2.0.15"
+      "version": "2.0.16"
     },
     {
       "kind": "plugin",
       "name": "figma-create-new-file",
       "plugin": "figma",
       "skill_md_sha256": "82e0a018692d3d009b5d2c83ecce9203a4ce7dfbdb98b7b13a4f7e5b11832bc2",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.15/skills/figma-create-new-file",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.16/skills/figma-create-new-file",
       "tree_sha256": "638a1ac15cd1c4da5ec596c7045f82b947d1632d4432878786dce613c00a7e68",
-      "version": "2.0.15"
+      "version": "2.0.16"
+    },
+    {
+      "kind": "plugin",
+      "name": "figma-design-to-code",
+      "plugin": "figma",
+      "skill_md_sha256": "6e726b7bda09ffebd29b8b66c27d43b4d38212f146dfb69231dfb486888899b0",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.16/skills/figma-design-to-code",
+      "tree_sha256": "6db63cd20a1b4d176912445d8e4b8f451b3b3a98ba08adc312b4c094c3c8076e",
+      "version": "2.0.16"
     },
     {
       "kind": "plugin",
       "name": "figma-generate-design",
       "plugin": "figma",
       "skill_md_sha256": "2915993a955d4684ea3ae3ce98af4e673134870f2b412e661d9114387980fa42",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.15/skills/figma-generate-design",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.16/skills/figma-generate-design",
       "tree_sha256": "8067f24d93025785cf89996414ef11b350c6660513288126ff198eabd881a676",
-      "version": "2.0.15"
+      "version": "2.0.16"
     },
     {
       "kind": "plugin",
       "name": "figma-generate-diagram",
       "plugin": "figma",
       "skill_md_sha256": "7297638dbf2130d1b37bfd85df65d290a4dd0b11a11b54abafcf7d07565922b5",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.15/skills/figma-generate-diagram",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.16/skills/figma-generate-diagram",
       "tree_sha256": "097795be1c8af95bcad8d20be037a893c00781afa7068c36b8dd4c409830ae84",
-      "version": "2.0.15"
+      "version": "2.0.16"
     },
     {
       "kind": "plugin",
       "name": "figma-generate-library",
       "plugin": "figma",
       "skill_md_sha256": "38d9381d4fb089233eec0a9af829a6444fbe7c8413cfcfbb89d1992a5f08b7fc",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.15/skills/figma-generate-library",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.16/skills/figma-generate-library",
       "tree_sha256": "8d08b98c27c64b3bdce222aa380e8c7b952558688054749ed7797100748337dd",
-      "version": "2.0.15"
+      "version": "2.0.16"
     },
     {
       "kind": "plugin",
       "name": "figma-implement-motion",
       "plugin": "figma",
       "skill_md_sha256": "115e37a86d0528cc7674b9f94efa9e87f7d61d2a8b4569d3cab1c8459efd84a6",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.15/skills/figma-implement-motion",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.16/skills/figma-implement-motion",
       "tree_sha256": "58c38e1002d51bb9e5b481a5315e2ed3d0ce3b2ae8288be4443e7288b76ef5b4",
-      "version": "2.0.15"
+      "version": "2.0.16"
     },
     {
       "kind": "plugin",
       "name": "figma-swiftui",
       "plugin": "figma",
       "skill_md_sha256": "868c4defe2c0854f5a3e27594d3fa0f20347c86a9b15d103483b7488bfa8affe",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.15/skills/figma-swiftui",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.16/skills/figma-swiftui",
       "tree_sha256": "0a6c9be47193e36c022611a2ba1496492e49beeaf29b818c17d14a6899110445",
-      "version": "2.0.15"
+      "version": "2.0.16"
     },
     {
       "kind": "plugin",
       "name": "figma-use",
       "plugin": "figma",
-      "skill_md_sha256": "6845635c0c79717feae41f1cd372cafbe9596a982d2aade18f2a7dac4c127a96",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.15/skills/figma-use",
-      "tree_sha256": "5c6ebc4aaec23f88418be6de300c726e5fd08b167e3ec41742dc8b775dc39e04",
-      "version": "2.0.15"
+      "skill_md_sha256": "d052bb8e5616a38c480cde7215a3d596b69955c68aa0866f2c2b10cf6c20f0ec",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.16/skills/figma-use",
+      "tree_sha256": "ad6e51b8ecd31462d8acecabb26ac9e9af93765178035cb6352710507b9dbc1e",
+      "version": "2.0.16"
     },
     {
       "kind": "plugin",
       "name": "figma-use-figjam",
       "plugin": "figma",
       "skill_md_sha256": "16b15da304f777e6bdc79bf425da73fa1ce0ea41af726cab8ddd6f40180acd74",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.15/skills/figma-use-figjam",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.16/skills/figma-use-figjam",
       "tree_sha256": "13c4ad19b1ad8585c4325fc44443ac0c45f5f4b3a28e24f3cec9977236c2e934",
-      "version": "2.0.15"
+      "version": "2.0.16"
     },
     {
       "kind": "plugin",
       "name": "figma-use-motion",
       "plugin": "figma",
       "skill_md_sha256": "d1aeb004f2fccd74b368a5ce6d30775ef3d9c17a28a4d68ff8a36a47b71ac2ec",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.15/skills/figma-use-motion",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.16/skills/figma-use-motion",
       "tree_sha256": "6dad919b2e73a051b4bb88c224b481f7fffa1fa3b8eeb89acd57a0e8124f0abb",
-      "version": "2.0.15"
+      "version": "2.0.16"
     },
     {
       "kind": "plugin",
       "name": "figma-use-slides",
       "plugin": "figma",
       "skill_md_sha256": "f317b2f08ba1015f7255eca631ebddfe209c70e3046967f4ac6ce6102ad56f79",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.15/skills/figma-use-slides",
-      "tree_sha256": "b37289d8741eb45a0992090f642a98da763781f6dfe9b2be378db7a3e2fb8133",
-      "version": "2.0.15"
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.16/skills/figma-use-slides",
+      "tree_sha256": "5edd3fb7deb1d2f7db0f8f6973b72a8fac66e84dfff95b0fae4a038b21b13293",
+      "version": "2.0.16"
     },
     {
       "kind": "plugin",
