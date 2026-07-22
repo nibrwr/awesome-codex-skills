@@ -8057,7 +8057,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-07-19T14:44:38+00:00",
+  "generated_at": "2026-07-22T14:24:48+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8118,9 +8118,9 @@
       "name": "control-in-app-browser",
       "plugin": "browser",
       "skill_md_sha256": "80c5a591bb761f7242f480fc4fc6883860f303f3d5a91e5714230c7897ad8a8d",
-      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.715.31925/skills/control-in-app-browser",
+      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.715.70719/skills/control-in-app-browser",
       "tree_sha256": "21d12637cd3ca8a39397e0f572734c89520568384640dda0099d43badf57ca31",
-      "version": "26.715.31925"
+      "version": "26.715.70719"
     },
     {
       "kind": "plugin",
@@ -8153,10 +8153,10 @@
       "kind": "plugin",
       "name": "visualize",
       "plugin": "visualize",
-      "skill_md_sha256": "6b96bc46f40d6f0d0264f01bf268fa6648dc5b12121e4bceaa8803d1415afbde",
-      "source": "~/.codex/plugins/cache/openai-bundled/visualize/1.0.12/skills/visualize",
-      "tree_sha256": "3ae29c159a47e0abaf808f1f56de9a6d17d5fee329555d032da1127255aecd52",
-      "version": "1.0.12"
+      "skill_md_sha256": "9ba56c003b4549402d924c820b6dc8d02febef7b0778b9b4d52d1e28f3549048",
+      "source": "~/.codex/plugins/cache/openai-bundled/visualize/1.0.14/skills/visualize",
+      "tree_sha256": "593e596c4f31c01792863bad7dd5dd5d3f2b11a7bef021d81856238c76f52e4a",
+      "version": "1.0.14"
     },
     {
       "kind": "plugin",
