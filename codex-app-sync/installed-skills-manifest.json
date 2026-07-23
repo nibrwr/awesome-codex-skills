@@ -8057,7 +8057,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-07-22T14:24:48+00:00",
+  "generated_at": "2026-07-23T14:03:03+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -10647,90 +10647,90 @@
       "name": "audit",
       "plugin": "product-design",
       "skill_md_sha256": "616e74f59da25ae72f5c853b7c9cfc4317400d224ff162abd67293b6f3ee1c82",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.50/skills/audit",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.52/skills/audit",
       "tree_sha256": "16d79cf11a615d3be06ac2ad936c5becc7d0b5a904645683b920b7fe6ef82837",
-      "version": "0.1.50"
+      "version": "0.1.52"
     },
     {
       "kind": "plugin",
       "name": "design-qa",
       "plugin": "product-design",
-      "skill_md_sha256": "a761ed96e1e91905e7e6f32ab95e8dc6d0cca2036556d4d63945b25efd3eaa5c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.50/skills/design-qa",
-      "tree_sha256": "0db02f3692c39570a6c556c0f97d71d201461fa16d1b056d119bb77dc3042959",
-      "version": "0.1.50"
+      "skill_md_sha256": "19303684c7c84e279f3582d784493a6f09d207d92a29e9b15b7056020bcf306e",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.52/skills/design-qa",
+      "tree_sha256": "d5f1713e35ee6e36932a62ffb161b6a321a5cfc79dd28968821e179364f8c630",
+      "version": "0.1.52"
     },
     {
       "kind": "plugin",
       "name": "get-context",
       "plugin": "product-design",
-      "skill_md_sha256": "19a38a3ac4443cb477a01c2303e77c891c304234a195dd2da248e3e736b22679",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.50/skills/get-context",
-      "tree_sha256": "941b94ff098bb12248e3923ed4fb9611cc01793daeb01ea2ea21abbb8838605a",
-      "version": "0.1.50"
+      "skill_md_sha256": "151267c873003b7b03715c0842ef798369420464844218492f732edd2f6f7fd1",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.52/skills/get-context",
+      "tree_sha256": "2e4095bb456d0e27592ab30d713e251d873179417c01056db7793413d34c4074",
+      "version": "0.1.52"
     },
     {
       "kind": "plugin",
       "name": "ideate",
       "plugin": "product-design",
-      "skill_md_sha256": "595f83f18e22b19f32fe858530f17572d3ec25d7c7f3b2dc305eca41e5435d33",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.50/skills/ideate",
-      "tree_sha256": "56972f534f0c72f217169d59466ae3a4ab1c6aa70e4571f561c1acc3ef957981",
-      "version": "0.1.50"
+      "skill_md_sha256": "649e8782ca93d5aece712964fae5be2b111cc3143577e1507b98df7f9d8e6bde",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.52/skills/ideate",
+      "tree_sha256": "9e4550e80574a6de8fb53743ab7be304d2ed178e371dfea396e77dee14013c6b",
+      "version": "0.1.52"
     },
     {
       "kind": "plugin",
       "name": "image-to-code",
       "plugin": "product-design",
-      "skill_md_sha256": "e0acaa600fda4b87b58774cf60a5fda8b98e18990d4d51920ec40773dd97971c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.50/skills/image-to-code",
-      "tree_sha256": "4f043295b323ce9dd3eba3091101c6fc52d87e66eec843e9cf51ef469c28740e",
-      "version": "0.1.50"
+      "skill_md_sha256": "694b4102bc339e3038173f8063d83a19e08d2a2cfab1f2e478d6412870a61ff0",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.52/skills/image-to-code",
+      "tree_sha256": "549518e240060dbb91cc9233223febed98fe413a4969fe22879e148bae178bac",
+      "version": "0.1.52"
     },
     {
       "kind": "plugin",
       "name": "index",
       "plugin": "product-design",
       "skill_md_sha256": "8f9f19273ee34a06298ed93f8d70a9c17b3d4ce66f061b024f6d1038b138e5f7",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.50/skills/index",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.52/skills/index",
       "tree_sha256": "f21e20a1d949b7c74f134149f367361b0d9cffb8ac16ea374a37caa59725070a",
-      "version": "0.1.50"
+      "version": "0.1.52"
     },
     {
       "kind": "plugin",
       "name": "research",
       "plugin": "product-design",
       "skill_md_sha256": "bf824e72dd93941c8d591e4af13bb7e3a09380cd6ed7dd8c1f61a295648fa023",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.50/skills/research",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.52/skills/research",
       "tree_sha256": "6fc95df5b6b12afe728f670cb6bea9b9d4cdb6f2fd85ec96b02f1c818e5fe64a",
-      "version": "0.1.50"
+      "version": "0.1.52"
     },
     {
       "kind": "plugin",
       "name": "share",
       "plugin": "product-design",
-      "skill_md_sha256": "5976cfbc9d865230db085af37f0c25a2d8beed3ff58e0e2edb9d0a4f7ca987b5",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.50/skills/share",
-      "tree_sha256": "c9a4572a2fe883787eb427a9fbf374afd737151e1dca34cf4e56e114ead3a3c6",
-      "version": "0.1.50"
+      "skill_md_sha256": "19327c50a52f3b9e2ebfcef47d394d988bd6f4c64524c98f665d43bdf5f02c45",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.52/skills/share",
+      "tree_sha256": "3a551b054b2598032259556888a8acc46db916b08c447028cc46c0070e8daded",
+      "version": "0.1.52"
     },
     {
       "kind": "plugin",
       "name": "url-to-code",
       "plugin": "product-design",
-      "skill_md_sha256": "8708f622b4c86866370b8c1cef5f404b71679d09e6678953b2ca7125c3c1098d",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.50/skills/url-to-code",
-      "tree_sha256": "c351f287c85f34f2ed288c99b0e3f5e5dab0b8e7f0848516f38d639d9e28a625",
-      "version": "0.1.50"
+      "skill_md_sha256": "2624d0e2ec5f14ba2a4bf74fe05aaa23520b4fb76ca57973c9dadd54fd4b09d2",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.52/skills/url-to-code",
+      "tree_sha256": "245429e207aa9de262cc75447015b84675ea305c8a730e4753d03cb740ffb4cc",
+      "version": "0.1.52"
     },
     {
       "kind": "plugin",
       "name": "user-context",
       "plugin": "product-design",
       "skill_md_sha256": "5690a7f99cf896970493f5d0bd7f35f62ab9cbe21744352acf84dc0ceea4194c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.50/skills/user-context",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/product-design/0.1.52/skills/user-context",
       "tree_sha256": "093c55957559fe8fd5fa4bd7cfb37832aa0e3b37f0f1d03f0205e5c4fd36f7aa",
-      "version": "0.1.50"
+      "version": "0.1.52"
     },
     {
       "kind": "plugin",
