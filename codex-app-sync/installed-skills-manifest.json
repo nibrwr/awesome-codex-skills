@@ -8057,7 +8057,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-07-27T14:02:18+00:00",
+  "generated_at": "2026-07-28T14:30:35+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -9183,87 +9183,6 @@
       "source": "~/.codex/plugins/cache/openai-curated-remote/build-web-apps/0.1.2/skills/supabase-best-practices",
       "tree_sha256": "9967f3789e20b9eac91ea31b3daddba5d87678c04735bf3ba8c02b736a2f7090",
       "version": "0.1.2"
-    },
-    {
-      "kind": "plugin",
-      "name": "canva-brand-check",
-      "plugin": "canva",
-      "skill_md_sha256": "b292189744392db22b9e72481056a0db94781bd64892480abe2ce50c76efbb73",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/11.0.1/skills/canva-brand-check",
-      "tree_sha256": "a136e84dfd3397cd3b471cee7bbb9f5f109e692f6fd84df4c1d72d1f8d5ec953",
-      "version": "11.0.1"
-    },
-    {
-      "kind": "plugin",
-      "name": "canva-branded-presentation",
-      "plugin": "canva",
-      "skill_md_sha256": "110b3ba5a50c22e804067363881c2384f07a32bd704af79b894e04138c915713",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/11.0.1/skills/canva-branded-presentation",
-      "tree_sha256": "8e920befc5b880666d7bb13bc7284fc2c2e391a5cd93473563dda2ad5e417fac",
-      "version": "11.0.1"
-    },
-    {
-      "kind": "plugin",
-      "name": "canva-bulk-create",
-      "plugin": "canva",
-      "skill_md_sha256": "65deda62b60ce9e748c7a90b3e41e91dadc38f6deee3ba4aca799fd7502eb8b4",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/11.0.1/skills/canva-bulk-create",
-      "tree_sha256": "c24f5c2823b085babd0729f8867f598ac3340769eb5b141421f2ea29e574b1ed",
-      "version": "11.0.1"
-    },
-    {
-      "kind": "plugin",
-      "name": "canva-design-feedback",
-      "plugin": "canva",
-      "skill_md_sha256": "e18303be61308ad6dc8e05c4735b7254873f42ab9c6bc6c37b9cec339119be7b",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/11.0.1/skills/canva-design-feedback",
-      "tree_sha256": "504b616c4108c7daf65cc75bb7fa92175bf59d056af1b761b39a71c621802efb",
-      "version": "11.0.1"
-    },
-    {
-      "kind": "plugin",
-      "name": "canva-edit-design",
-      "plugin": "canva",
-      "skill_md_sha256": "842eeec8f89bfcfb3490ca92092f4ef441577ff7f9b7bae979aad99cc92ceaa8",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/11.0.1/skills/canva-edit-design",
-      "tree_sha256": "071a3686f34972070340015c9761fcfa860df293f2776ef0dec7d18c0a35c75b",
-      "version": "11.0.1"
-    },
-    {
-      "kind": "plugin",
-      "name": "canva-implement-feedback",
-      "plugin": "canva",
-      "skill_md_sha256": "cb0d8a7434e7abd7a129ef74aa526ea7f5c0c7ea89db17e3a0ebf27d6108aa36",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/11.0.1/skills/canva-implement-feedback",
-      "tree_sha256": "21137ceddfe410a8d3bf9b944689ec88948c0a974fafbd2d2dc803a9a2211190",
-      "version": "11.0.1"
-    },
-    {
-      "kind": "plugin",
-      "name": "canva-resize-for-all-social-media",
-      "plugin": "canva",
-      "skill_md_sha256": "ca36f9b6cc9e1913b762663d1f68f6caf20cb98923783b3dfcea4aebe6d09ce8",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/11.0.1/skills/canva-resize-for-all-social-media",
-      "tree_sha256": "3257e2f7703f499a03ecaf19943f2539c59cdd99a6431645e1b5a51a4b293a70",
-      "version": "11.0.1"
-    },
-    {
-      "kind": "plugin",
-      "name": "canva-resize-for-social-media",
-      "plugin": "canva",
-      "skill_md_sha256": "bb36807630daf3ba7c2a27e83de64b329e03ce68457da874c36c5022ceff7094",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/11.0.1/skills/canva-resize-for-social-media",
-      "tree_sha256": "45b66dbb4fb3080f716dcafb178e89c9596ad5e70a95a903ac872cdcf0fa54a1",
-      "version": "11.0.1"
-    },
-    {
-      "kind": "plugin",
-      "name": "canva-translate-design",
-      "plugin": "canva",
-      "skill_md_sha256": "950145361d04b50807954931549a4f40f8de945286cf304322c4d80a15493aac",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/11.0.1/skills/canva-translate-design",
-      "tree_sha256": "98657efcf505c51e5c5fcafd58e134ab62bc8ab61476b88ad120ef67a28cf561",
-      "version": "11.0.1"
     },
     {
       "kind": "plugin",
@@ -11178,54 +11097,54 @@
       "name": "documents",
       "plugin": "documents",
       "skill_md_sha256": "83969bb5d2b4f8571565e9981240c61708dfcf5d6f489243b7e29f5a04b07f16",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.723.12215/skills/documents",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.727.11326/skills/documents",
       "tree_sha256": "a5ac95fb8130f6922220235da747c37e39e92d8e4e1dde66d0236bd1f34b192a",
-      "version": "26.723.12215"
+      "version": "26.727.11326"
     },
     {
       "kind": "plugin",
       "name": "pdf",
       "plugin": "pdf",
       "skill_md_sha256": "f22e8cf2b8164a5fb99a65109a9aa84c7fed5c56f44db2b6fb59e9766ce5c65a",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/pdf/26.723.12215/skills/pdf",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/pdf/26.727.11326/skills/pdf",
       "tree_sha256": "168134b65f0c091addf126bd92c09ed0ac6b94c9cd176101b9e9e5835ae148ac",
-      "version": "26.723.12215"
+      "version": "26.727.11326"
     },
     {
       "kind": "plugin",
       "name": "presentations",
       "plugin": "presentations",
       "skill_md_sha256": "03793087176e412e99d09292e9b23d74f956d64f8f3d19765ff9e51fc84c3405",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.723.12215/skills/presentations",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.727.11326/skills/presentations",
       "tree_sha256": "eb1f00e98a557ccda65aabfca5b425c805e45197ebb960d41d0c00dce3875e09",
-      "version": "26.723.12215"
+      "version": "26.727.11326"
     },
     {
       "kind": "plugin",
       "name": "excel-live-control",
       "plugin": "spreadsheets",
       "skill_md_sha256": "994e33cf1d3352d3fb4ab9e3f24076b63ecd0a92dae450f2b4a27cd9a7f00e88",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.723.12215/skills/excel-live-control",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.727.11326/skills/excel-live-control",
       "tree_sha256": "0eab55c3711236447174880480ff8def5c78b790eb4a04fabba044014dd5c674",
-      "version": "26.723.12215"
+      "version": "26.727.11326"
     },
     {
       "kind": "plugin",
       "name": "spreadsheets",
       "plugin": "spreadsheets",
       "skill_md_sha256": "5b08bb7f858140ca7f2e94f248e0b0ca26b9c4330914dee1cd32d4ec210136de",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.723.12215/skills/spreadsheets",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.727.11326/skills/spreadsheets",
       "tree_sha256": "285430239554b2bbffd067c69eb9c5fa82b59d1a5ccd0527ba5f578a43b91eec",
-      "version": "26.723.12215"
+      "version": "26.727.11326"
     },
     {
       "kind": "plugin",
       "name": "template-creator",
       "plugin": "template-creator",
       "skill_md_sha256": "e1f3a2caa0e95e68dc178b18e61e4a8683dc4d96c4d13972adea4b27dd72360b",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/template-creator/26.723.12215/skills/template-creator",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/template-creator/26.727.11326/skills/template-creator",
       "tree_sha256": "779dc370aa7c686053bbaa527a023c94b96178b3b33b9d5ec0f840ce92ba82d7",
-      "version": "26.723.12215"
+      "version": "26.727.11326"
     },
     {
       "kind": "plugin",
