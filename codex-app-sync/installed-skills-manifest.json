@@ -8057,7 +8057,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-07-29T14:05:56+00:00",
+  "generated_at": "2026-08-01T18:48:16+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -9270,117 +9270,117 @@
       "name": "attack-path-analysis",
       "plugin": "codex-security",
       "skill_md_sha256": "29a4747a24da3285a95828c264ed4e2730969cc3e09bf25cf9ce426d005638ed",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.14/skills/attack-path-analysis",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.15/skills/attack-path-analysis",
       "tree_sha256": "5293595a56b9d9b2f501f847c4afd1468841077286ec6d96a9d2fa8e4ad17a8f",
-      "version": "0.1.14"
+      "version": "0.1.15"
     },
     {
       "kind": "plugin",
       "name": "deep-security-scan",
       "plugin": "codex-security",
       "skill_md_sha256": "dd60682fb1fae93e01272b992ddc52394b7d07c81ddd59432734184679fac345",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.14/skills/deep-security-scan",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.15/skills/deep-security-scan",
       "tree_sha256": "01f30304a52f1ae7b0ec3cea2aead4c9d86ec91a6b21c5f465051675a81526f3",
-      "version": "0.1.14"
+      "version": "0.1.15"
     },
     {
       "kind": "plugin",
       "name": "define-security-policy",
       "plugin": "codex-security",
       "skill_md_sha256": "286f549d7d5b017e13e38031494723b5870949e3f82ac85b6a9c32d4718433bf",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.14/skills/define-security-policy",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.15/skills/define-security-policy",
       "tree_sha256": "6e06410dc1c312597834b71cbcb8f71c0298aa489b0e32913f31d1bfe09ae981",
-      "version": "0.1.14"
+      "version": "0.1.15"
     },
     {
       "kind": "plugin",
       "name": "finding-discovery",
       "plugin": "codex-security",
       "skill_md_sha256": "cc162371f52fb29639dca3c61109b9fe7f224bffded051462ecf2d0f00f6bf73",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.14/skills/finding-discovery",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.15/skills/finding-discovery",
       "tree_sha256": "e4bc5c7856dd5defd5a92ccfc585b2d4d463210c823f10e2b9c41bfcdcaeefb9",
-      "version": "0.1.14"
+      "version": "0.1.15"
     },
     {
       "kind": "plugin",
       "name": "fix-finding",
       "plugin": "codex-security",
       "skill_md_sha256": "0e3ac8898a43b08c415c380fe59e8a052c17fb8264af945a66ce6b14121fd601",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.14/skills/fix-finding",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.15/skills/fix-finding",
       "tree_sha256": "202606769d5e86c291a2c5486b1ad50530c5f565984b34284e05d3ebbe365146",
-      "version": "0.1.14"
+      "version": "0.1.15"
     },
     {
       "kind": "plugin",
       "name": "propose-security-hardening",
       "plugin": "codex-security",
       "skill_md_sha256": "b9d2c81ecb99e6eb4ad6424dbd297a935feb66c2658692d48caf4d9840eaf306",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.14/skills/propose-security-hardening",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.15/skills/propose-security-hardening",
       "tree_sha256": "7f787b0b53476ec3a6453b80cfd967f4072c30c5c4a123ab6bbaed52c0672404",
-      "version": "0.1.14"
+      "version": "0.1.15"
     },
     {
       "kind": "plugin",
       "name": "security-diff-scan",
       "plugin": "codex-security",
       "skill_md_sha256": "c3644054e82854377d985a85a5fa52a5ea239cceab03e965e45921509ddd5312",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.14/skills/security-diff-scan",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.15/skills/security-diff-scan",
       "tree_sha256": "949f1b8fe19a673817091135560ec919a2553bc79045f5b928673df3168711a6",
-      "version": "0.1.14"
+      "version": "0.1.15"
     },
     {
       "kind": "plugin",
       "name": "security-scan",
       "plugin": "codex-security",
-      "skill_md_sha256": "602cdac65db571e35e9f5b56e2f4939b513716a29239132035dfb5260c697726",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.14/skills/security-scan",
-      "tree_sha256": "dd8279b1cc3a2295e660089a286da06e97431bae4061d370a9be2d6801f31470",
-      "version": "0.1.14"
+      "skill_md_sha256": "5fad781ed284b7d36e657e330b23d239f8f56f21d4e77e0de94f29683a1e8e1e",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.15/skills/security-scan",
+      "tree_sha256": "ada045ed7dc79fef7d88452bde23fdf856b2a2869d5353180382c7aa92add8b2",
+      "version": "0.1.15"
     },
     {
       "kind": "plugin",
       "name": "threat-model",
       "plugin": "codex-security",
       "skill_md_sha256": "bda88345bac700bb02f43c40c319b47f7a12ef5937653a7012ea3c32c403b454",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.14/skills/threat-model",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.15/skills/threat-model",
       "tree_sha256": "6a9268d8203d37cb8038f86d951cd9673040cba830068f5d3e638816345c78f9",
-      "version": "0.1.14"
+      "version": "0.1.15"
     },
     {
       "kind": "plugin",
       "name": "track-findings",
       "plugin": "codex-security",
       "skill_md_sha256": "cb6e7625bc7c10fbc7b94d99918667c9e942bacb56d871e837a6939d20f4fd8c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.14/skills/track-findings",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.15/skills/track-findings",
       "tree_sha256": "fd218e96a54bb25791045b6a93fa49297f4d715d28053ccb21ab05ccac77dae6",
-      "version": "0.1.14"
+      "version": "0.1.15"
     },
     {
       "kind": "plugin",
       "name": "triage-finding",
       "plugin": "codex-security",
       "skill_md_sha256": "688fe550ff743d1f252ae4cdfdd2e5958fcc86cccb3f91b133276fec9bde4ab2",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.14/skills/triage-finding",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.15/skills/triage-finding",
       "tree_sha256": "247148813cf9e36a676405e8f0cd48b907c30abefab87a117f91ad8404e7a7a8",
-      "version": "0.1.14"
+      "version": "0.1.15"
     },
     {
       "kind": "plugin",
       "name": "validation",
       "plugin": "codex-security",
-      "skill_md_sha256": "6eeb36ae2cfe7efa6a92997a092a85e2fd95d6eda3bd148b8bc11980444b099d",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.14/skills/validation",
-      "tree_sha256": "08615e65dcbd22109464e3bf87c7e27a5dc1b5418e56b7abc5357ecae2170b00",
-      "version": "0.1.14"
+      "skill_md_sha256": "da6703caed6b581c7fc5b337dea99fcad87815d161e29b8e3863c6989b86e8d5",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.15/skills/validation",
+      "tree_sha256": "2ec521d9b896322d8c5864ea807c77b90fe5fb8922771d66001d037fdde20f36",
+      "version": "0.1.15"
     },
     {
       "kind": "plugin",
       "name": "vulnerability-writeup",
       "plugin": "codex-security",
       "skill_md_sha256": "6c6de67b4cada22da159329296550e6c58083942b842baf373bdf2c740558035",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.14/skills/vulnerability-writeup",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.15/skills/vulnerability-writeup",
       "tree_sha256": "ad36726e5d4a693b173f050c6d423a41bf9aa1b754c9fabb1667ecf625715f15",
-      "version": "0.1.14"
+      "version": "0.1.15"
     },
     {
       "kind": "plugin",
@@ -10449,180 +10449,180 @@
       "name": "artifact-template-analytics-dashboard",
       "plugin": "openai-templates",
       "skill_md_sha256": "cf5360fd8b197673bb237c52c603c97fa319c875c3dfa2cd8efff52d4422f513",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-analytics-dashboard",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-analytics-dashboard",
       "tree_sha256": "ba29e489e0afc0a28cbc7c6e8432268e6b06ff8c6356836387c44e156ba6ad8c",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-business-review",
       "plugin": "openai-templates",
       "skill_md_sha256": "27721fc1d67d1b41949caa75ac8f94f81952ff124406878af6524047929e60d2",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-business-review",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-business-review",
       "tree_sha256": "79dd9fb99d9d8492cd75ab70c7040d37599cdc41264e987a3e6627595e065e57",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-design-report",
       "plugin": "openai-templates",
       "skill_md_sha256": "563722f53854e606f8a9f87e37e72d7ef70a22d46d5836b8e4d6abfb1b79e9e0",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-design-report",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-design-report",
       "tree_sha256": "a55b82455251eb4dbfa0786ea8a7826a3f5e61cbfec3455619a96737c2e14877",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-experiment-analysis",
       "plugin": "openai-templates",
       "skill_md_sha256": "0b05effc47df0a14f8e0c3e3597e6722224747435546385d38a2cae279bd20b9",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-experiment-analysis",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-experiment-analysis",
       "tree_sha256": "66547bb40a7d5efe2e5e28c7c6a476344af6daccd93a2ab39e6d11b432035f11",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-financial-budget",
       "plugin": "openai-templates",
       "skill_md_sha256": "c0b6b7a62a15597aaf2b1ec679e21da48f533b756127f0aef957cdfe9f3da738",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-financial-budget",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-financial-budget",
       "tree_sha256": "846947d51de38caaa3b68f406f01abbd278ef6c7ad00e587d29692fa2b490ad5",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-investment-committee-memo",
       "plugin": "openai-templates",
       "skill_md_sha256": "68abd08cfe5e073e3c446a3f675f44c5bf98f57434dba679e8acd8a763379a8b",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-investment-committee-memo",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-investment-committee-memo",
       "tree_sha256": "898f6108407f3c3a9d0e50806fcd62fa7f8fe31770b717890df0ed99e4b89027",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-legal-memorandum",
       "plugin": "openai-templates",
       "skill_md_sha256": "51fb9d21baf6119c4ccb1903638a6bac0e859210de63460fffa7025d52e997e0",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-legal-memorandum",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-legal-memorandum",
       "tree_sha256": "feff683636d6817d0a77f72fec64e8b9245af5cd104482355250f78e6df25b8b",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-market-trends-report",
       "plugin": "openai-templates",
       "skill_md_sha256": "d58d019b89cb6f292ac3ab991d561489eef477ff53ce05fb024a0c936f5af26a",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-market-trends-report",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-market-trends-report",
       "tree_sha256": "10a85a9809ed684d4c6a5090df2854198c0287f40cbda5194df212bcac5a6ae5",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-minimal-letterhead",
       "plugin": "openai-templates",
       "skill_md_sha256": "880ef094d4d0c89a7bde5ce9bbe4086625c186651e9e6efc8ba8bdd7cc77f9d5",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-minimal-letterhead",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-minimal-letterhead",
       "tree_sha256": "7dac8745651b234f67a390e41f011acc373dd613c57356ac7d3b8da0d7757a78",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-operating-calendar",
       "plugin": "openai-templates",
       "skill_md_sha256": "33bb660791a0b9a21628a42c34934932220203b6aabd84e98cb1b45327d0384c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-operating-calendar",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-calendar",
       "tree_sha256": "89ebefa8c82fe9239d52ea8ace8dde42e8da86404a04aca47c23e0eee2b6e80f",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-operating-review",
       "plugin": "openai-templates",
       "skill_md_sha256": "6d63c5cd025ffe936e7bab5db3023672bbaec26af55c2bb8b057d38c202c9c32",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-operating-review",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-review",
       "tree_sha256": "e1e899f9b78127e44b92253716342c55e04357a63f843b319c0be36b42bdc1b1",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-project-kickoff",
       "plugin": "openai-templates",
       "skill_md_sha256": "aa893ebd89e7c8d1db4261d01cc2b1add35d78d00785871ccaaa5fc8db783ec9",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-project-kickoff",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-kickoff",
       "tree_sha256": "9b03cbf78bee31b6bbe541c635889a3b00d87d467136a5489d4c9b0573a3b6fc",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-project-tracker",
       "plugin": "openai-templates",
       "skill_md_sha256": "d97d5be20189b7f53dd269b6e1c5f694eaf53e5a72f6559fcb1578911b7cda82",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-project-tracker",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-tracker",
       "tree_sha256": "49e45ceb445de3e8abc3f352f5dcf02327260c6debb1f560d3d20261dfd9fa7b",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-sales-pipeline",
       "plugin": "openai-templates",
       "skill_md_sha256": "15cfeeedf440021f16ed3f3ad8c7c1ef6d48898b9447741e223d2fb41cfc9800",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-sales-pipeline",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-sales-pipeline",
       "tree_sha256": "c1179bcc37157994c0629167a999939e9781045769b69f14c64edc6eb0d33f5f",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-simple-dark-mode",
       "plugin": "openai-templates",
       "skill_md_sha256": "b7c8d0c05f75878b9bc21e56a57c41ec1aa29700aca0a24822be0f9f1bd53207",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-simple-dark-mode",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-dark-mode",
       "tree_sha256": "dcce88d7803550c8d2a5101401bbbef0f7e1be29b3207e042c33a2d4c49d7982",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-simple-light-mode",
       "plugin": "openai-templates",
       "skill_md_sha256": "7c68430c6cf57b55b457d4735dbd1a46b889bef135a32222902dd0848b6e1752",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-simple-light-mode",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-light-mode",
       "tree_sha256": "0d85519df96de7e56075620435594bb1c7a62076c9682c1b0034c2aa93d3e0d0",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-strategy-memorandum",
       "plugin": "openai-templates",
       "skill_md_sha256": "51d7882ac94e8e57b323394825728c33925af878806e37277217c2dc12a912e5",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-strategy-memorandum",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-strategy-memorandum",
       "tree_sha256": "bcb44f03270a74db17836e9a4172dc144e4d7d990e98a229c0e6a4ebd227c684",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-system-design",
       "plugin": "openai-templates",
       "skill_md_sha256": "87f7b7ed1b0d8410f5e5971cd7f7db9a4165e2f37069e97e52dbfb469b75a57c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-system-design",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-system-design",
       "tree_sha256": "55b57d3b5a4ae4595794833fe0ffff56c0f56c57fd02d02dd29e96d6b76cf88c",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-team-alignment",
       "plugin": "openai-templates",
       "skill_md_sha256": "26d7cafdcd1899a937b325c5d02ac57c162d45002153be33a934d35f81eb6110",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-team-alignment",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-team-alignment",
       "tree_sha256": "f4792983f164157b1da7132d10c1d8ef9d3f5a7da352fc8c2cc79f6b899da6d8",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
       "name": "artifact-template-three-statement-forecast",
       "plugin": "openai-templates",
       "skill_md_sha256": "74f4a5cccec0107b861548b157e04c51d9b58ec13a990c86394b4c529b8ecf41",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-three-statement-forecast",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-three-statement-forecast",
       "tree_sha256": "b3d4e4dde296d56a2a38c389f7d9ddce629cc2eeb13220464e5efcda02f06741",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "kind": "plugin",
