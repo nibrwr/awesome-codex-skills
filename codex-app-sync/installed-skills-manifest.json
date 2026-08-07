@@ -8057,7 +8057,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-08-06T14:09:48+00:00",
+  "generated_at": "2026-08-07T14:03:22+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8955,54 +8955,54 @@
       "name": "adobe-batch-edit-photos",
       "plugin": "app-69312da8e4dc81919370cb86fd172b6c",
       "skill_md_sha256": "062112a424340bef585f0c3aed9a484721ff4b200044883dd0bdb1dd7599642c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/6.0.0/skills/adobe-batch-edit-photos",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/7.0.0/skills/adobe-batch-edit-photos",
       "tree_sha256": "b32305ba119dcf9460b8981f83983a66a59b1e8762771a9d8b92a726d6c401ee",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "adobe-create-mockups",
       "plugin": "app-69312da8e4dc81919370cb86fd172b6c",
       "skill_md_sha256": "65a8fd58c8495210296eb1da51d0846d1ad9a7cf80a286ea4220874c0f4e56f2",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/6.0.0/skills/adobe-create-mockups",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/7.0.0/skills/adobe-create-mockups",
       "tree_sha256": "1ce10ed51de17ae229618d5bc79518a783bb36740543da2d89a42a698409298a",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "adobe-create-social-variations",
       "plugin": "app-69312da8e4dc81919370cb86fd172b6c",
       "skill_md_sha256": "f2404147b9a05f7d759d8a7c0c51af06f9841ad55025395a887d27429be6d63d",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/6.0.0/skills/adobe-create-social-variations",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/7.0.0/skills/adobe-create-social-variations",
       "tree_sha256": "cac34cc787bbc7afcf597f9a7dfb59189326582b6b1d7c588ef310d891c4c0fb",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "adobe-design-from-template",
       "plugin": "app-69312da8e4dc81919370cb86fd172b6c",
       "skill_md_sha256": "11d9eaed34c526b350185c298d8dd3c764d3cebeb111905f59230d3b3c291207",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/6.0.0/skills/adobe-design-from-template",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/7.0.0/skills/adobe-design-from-template",
       "tree_sha256": "fab2285c8820a6db6598e78411bae1f2fc35833832291749bd4075290ff339ae",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "adobe-edit-quick-cut",
       "plugin": "app-69312da8e4dc81919370cb86fd172b6c",
       "skill_md_sha256": "5515014c80995b846dfe511058f507beeedb428078fda1bd60d47531f51b5500",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/6.0.0/skills/adobe-edit-quick-cut",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/7.0.0/skills/adobe-edit-quick-cut",
       "tree_sha256": "d85b97fb45a8e1e528fd42f8455f63686ce8af47a04ed8a6d7ea9382c8b1b98b",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "adobe-retouch-portraits",
       "plugin": "app-69312da8e4dc81919370cb86fd172b6c",
       "skill_md_sha256": "c35b690c539285cb72204431d2f86f0e753ff6f862398e1437edebd8ca8cdeaf",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/6.0.0/skills/adobe-retouch-portraits",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/7.0.0/skills/adobe-retouch-portraits",
       "tree_sha256": "12150508533bb4226ed6af62eb6116ca9ca168217fc00f48b5a163fbd6aa2c95",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
