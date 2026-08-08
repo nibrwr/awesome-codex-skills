@@ -8075,7 +8075,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-08-07T14:03:26+00:00",
+  "generated_at": "2026-08-08T14:03:13+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8136,18 +8136,18 @@
       "name": "control-in-app-browser",
       "plugin": "browser",
       "skill_md_sha256": "bdec2bfc891a6bd3f0a62d9d872ece4c6c3678f75bef7a5a2916cb1a53cc6910",
-      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.730.61639/skills/control-in-app-browser",
+      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.803.41515/skills/control-in-app-browser",
       "tree_sha256": "cca4ca1d0479f9268f8ca21aa7c251eefe99de31c29426b183d88493de9bff99",
-      "version": "26.730.61639"
+      "version": "26.803.41515"
     },
     {
       "kind": "plugin",
       "name": "computer-use",
       "plugin": "computer-use",
       "skill_md_sha256": "e0ec667e63fba01381eb889ddbfd44a05b8556b1e502428e8ff0a474750a08d6",
-      "source": "~/.codex/plugins/cache/openai-bundled/computer-use/1.0.1000621/skills/computer-use",
+      "source": "~/.codex/plugins/cache/openai-bundled/computer-use/1.0.1000633/skills/computer-use",
       "tree_sha256": "229ae53211f70a9b58429973c386e9a845777c3a19c5238a5e9c42dc400565fa",
-      "version": "1.0.1000621"
+      "version": "1.0.1000633"
     },
     {
       "kind": "plugin",
@@ -8172,9 +8172,9 @@
       "name": "visualize",
       "plugin": "visualize",
       "skill_md_sha256": "fde7f7104eb9d009251725c174c662afa3aef6cf49a55588b4f5781ab5f9a915",
-      "source": "~/.codex/plugins/cache/openai-bundled/visualize/1.0.19/skills/visualize",
+      "source": "~/.codex/plugins/cache/openai-bundled/visualize/1.0.20/skills/visualize",
       "tree_sha256": "7b7c006b730083ec4f46f1841c446a6b65571a45c8e41be23be80f4bc3e99655",
-      "version": "1.0.19"
+      "version": "1.0.20"
     },
     {
       "kind": "plugin",
@@ -8829,54 +8829,54 @@
       "name": "adobe-batch-edit-photos",
       "plugin": "app-69312da8e4dc81919370cb86fd172b6c",
       "skill_md_sha256": "062112a424340bef585f0c3aed9a484721ff4b200044883dd0bdb1dd7599642c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/6.0.0/skills/adobe-batch-edit-photos",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/7.0.0/skills/adobe-batch-edit-photos",
       "tree_sha256": "b32305ba119dcf9460b8981f83983a66a59b1e8762771a9d8b92a726d6c401ee",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "adobe-create-mockups",
       "plugin": "app-69312da8e4dc81919370cb86fd172b6c",
       "skill_md_sha256": "65a8fd58c8495210296eb1da51d0846d1ad9a7cf80a286ea4220874c0f4e56f2",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/6.0.0/skills/adobe-create-mockups",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/7.0.0/skills/adobe-create-mockups",
       "tree_sha256": "1ce10ed51de17ae229618d5bc79518a783bb36740543da2d89a42a698409298a",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "adobe-create-social-variations",
       "plugin": "app-69312da8e4dc81919370cb86fd172b6c",
       "skill_md_sha256": "f2404147b9a05f7d759d8a7c0c51af06f9841ad55025395a887d27429be6d63d",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/6.0.0/skills/adobe-create-social-variations",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/7.0.0/skills/adobe-create-social-variations",
       "tree_sha256": "cac34cc787bbc7afcf597f9a7dfb59189326582b6b1d7c588ef310d891c4c0fb",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "adobe-design-from-template",
       "plugin": "app-69312da8e4dc81919370cb86fd172b6c",
       "skill_md_sha256": "11d9eaed34c526b350185c298d8dd3c764d3cebeb111905f59230d3b3c291207",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/6.0.0/skills/adobe-design-from-template",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/7.0.0/skills/adobe-design-from-template",
       "tree_sha256": "fab2285c8820a6db6598e78411bae1f2fc35833832291749bd4075290ff339ae",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "adobe-edit-quick-cut",
       "plugin": "app-69312da8e4dc81919370cb86fd172b6c",
       "skill_md_sha256": "5515014c80995b846dfe511058f507beeedb428078fda1bd60d47531f51b5500",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/6.0.0/skills/adobe-edit-quick-cut",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/7.0.0/skills/adobe-edit-quick-cut",
       "tree_sha256": "d85b97fb45a8e1e528fd42f8455f63686ce8af47a04ed8a6d7ea9382c8b1b98b",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "adobe-retouch-portraits",
       "plugin": "app-69312da8e4dc81919370cb86fd172b6c",
       "skill_md_sha256": "c35b690c539285cb72204431d2f86f0e753ff6f862398e1437edebd8ca8cdeaf",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/6.0.0/skills/adobe-retouch-portraits",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/7.0.0/skills/adobe-retouch-portraits",
       "tree_sha256": "12150508533bb4226ed6af62eb6116ca9ca168217fc00f48b5a163fbd6aa2c95",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
@@ -9197,118 +9197,118 @@
       "kind": "plugin",
       "name": "attack-path-analysis",
       "plugin": "codex-security",
-      "skill_md_sha256": "8db177a560b4b8abdb84b35168ba9a5f0af3c0a8ad7f20cef6456a3797d4f65b",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.17/skills/attack-path-analysis",
-      "tree_sha256": "3782ee85d017c012708102a8f21c0601bae6e231aa9b24a0b0ba73fd60d380c5",
-      "version": "0.1.17"
+      "skill_md_sha256": "c7499785278fcfb7905b3082175bcf267fad7c9ab1e91ed4af9757a92e618fe5",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.18/skills/attack-path-analysis",
+      "tree_sha256": "f82596aa6fd9db58daa9f5465a8e6cb8838b3a83aa4c2fb56fbe39fd7897739e",
+      "version": "0.1.18"
     },
     {
       "kind": "plugin",
       "name": "deep-security-scan",
       "plugin": "codex-security",
-      "skill_md_sha256": "61ee9a32d1c19db0541b40d9ac7f71ed210dba0945f4d466efbff0cf5ecb8056",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.17/skills/deep-security-scan",
-      "tree_sha256": "bcc37ba6154e39b8eec4cf2c9b96efd8d48579965fe0c1d4f06af81c3bb741ba",
-      "version": "0.1.17"
+      "skill_md_sha256": "1b41ed54fdbdfada9f78dffb0d0ebaa865656b6a1c7985db6aa344182203bcc0",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.18/skills/deep-security-scan",
+      "tree_sha256": "cacde24f2b69bd7db9b25122ded2408245e539683b13ef19b0af4fb7f7e54b57",
+      "version": "0.1.18"
     },
     {
       "kind": "plugin",
       "name": "define-security-policy",
       "plugin": "codex-security",
       "skill_md_sha256": "286f549d7d5b017e13e38031494723b5870949e3f82ac85b6a9c32d4718433bf",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.17/skills/define-security-policy",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.18/skills/define-security-policy",
       "tree_sha256": "6e06410dc1c312597834b71cbcb8f71c0298aa489b0e32913f31d1bfe09ae981",
-      "version": "0.1.17"
+      "version": "0.1.18"
     },
     {
       "kind": "plugin",
       "name": "finding-discovery",
       "plugin": "codex-security",
-      "skill_md_sha256": "45d1234449c9937dafe1e0ee596028fea019513a0f1f76092d1d83cc173b2b3b",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.17/skills/finding-discovery",
-      "tree_sha256": "3a4ede517fcc107a6bf4284d5909ef574eee9f55a3ae15660b18b58d770c37e4",
-      "version": "0.1.17"
+      "skill_md_sha256": "9fcda60646e402d655fd1aa2221352ec4a621bd1ce11d86918f4c1e9bca61ffd",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.18/skills/finding-discovery",
+      "tree_sha256": "d5cc898e98c0a3922842924fd3ade79382aa5214c7ed2c0cdecb1b4bae201112",
+      "version": "0.1.18"
     },
     {
       "kind": "plugin",
       "name": "fix-finding",
       "plugin": "codex-security",
       "skill_md_sha256": "0e3ac8898a43b08c415c380fe59e8a052c17fb8264af945a66ce6b14121fd601",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.17/skills/fix-finding",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.18/skills/fix-finding",
       "tree_sha256": "202606769d5e86c291a2c5486b1ad50530c5f565984b34284e05d3ebbe365146",
-      "version": "0.1.17"
+      "version": "0.1.18"
     },
     {
       "kind": "plugin",
       "name": "propose-security-hardening",
       "plugin": "codex-security",
       "skill_md_sha256": "b9d2c81ecb99e6eb4ad6424dbd297a935feb66c2658692d48caf4d9840eaf306",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.17/skills/propose-security-hardening",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.18/skills/propose-security-hardening",
       "tree_sha256": "7f787b0b53476ec3a6453b80cfd967f4072c30c5c4a123ab6bbaed52c0672404",
-      "version": "0.1.17"
+      "version": "0.1.18"
     },
     {
       "kind": "plugin",
       "name": "security-diff-scan",
       "plugin": "codex-security",
-      "skill_md_sha256": "3e9e3d4f19cdd1b912e6e0bc08e679ecd93baec6e1d053074e6bb66ed9cbd8e8",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.17/skills/security-diff-scan",
-      "tree_sha256": "97fbe460b0d41f0a6639f2f6afd93c22bbd2b8e99a0de3cc0d0ce5f8ff319a98",
-      "version": "0.1.17"
+      "skill_md_sha256": "898d03b9796497749812fc1056c44e91ebcdf22a0cb454e54c8f261c953059a5",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.18/skills/security-diff-scan",
+      "tree_sha256": "1655b844cd3a2eb2aa9d0a06910c68578b8d81197227dc73b0c0f26bd8b1336a",
+      "version": "0.1.18"
     },
     {
       "kind": "plugin",
       "name": "security-scan",
       "plugin": "codex-security",
-      "skill_md_sha256": "e993e432d58b8fd1dd6948906f99c94aa31d761ab88be2f49ff6eca6eb2671b0",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.17/skills/security-scan",
-      "tree_sha256": "7394372715b65c8379e4fa1581062ce7ba96a907682cd6e1b20638bf3296295e",
-      "version": "0.1.17"
+      "skill_md_sha256": "5dcd941f3dc0362edf14675256e987cfe7e71f47ec8982616133101b744bc98d",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.18/skills/security-scan",
+      "tree_sha256": "e9bae7139f94bd9c9085680feb099ad8345ae3530583b8a63ede7a6ad9a9f519",
+      "version": "0.1.18"
     },
     {
       "kind": "plugin",
       "name": "threat-model",
       "plugin": "codex-security",
       "skill_md_sha256": "0fe044993d1a08c4aefbc9d431f6f18115f62b3dbc2e818258af01ec8924a246",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.17/skills/threat-model",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.18/skills/threat-model",
       "tree_sha256": "2a6e43937c7e233d73b5136e9c8e956d6e1bdd2474ea3079129f5871589b66c3",
-      "version": "0.1.17"
+      "version": "0.1.18"
     },
     {
       "kind": "plugin",
       "name": "track-findings",
       "plugin": "codex-security",
       "skill_md_sha256": "cb6e7625bc7c10fbc7b94d99918667c9e942bacb56d871e837a6939d20f4fd8c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.17/skills/track-findings",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.18/skills/track-findings",
       "tree_sha256": "fd218e96a54bb25791045b6a93fa49297f4d715d28053ccb21ab05ccac77dae6",
-      "version": "0.1.17"
+      "version": "0.1.18"
     },
     {
       "kind": "plugin",
       "name": "triage-finding",
       "plugin": "codex-security",
       "skill_md_sha256": "4c3499bad13a290bcf9678e996807ca6e613557d427d9efa87f104421e33008f",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.17/skills/triage-finding",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.18/skills/triage-finding",
       "tree_sha256": "b7d71d0f1c6adb21e4cc7df38b30293f6c3095154a620528d493690cf92c0c0b",
-      "version": "0.1.17"
+      "version": "0.1.18"
     },
     {
       "kind": "plugin",
       "name": "validation",
       "plugin": "codex-security",
-      "skill_md_sha256": "44622b2746c0078ad3b1323cd8a0aefe9436c9647971711719bd7edc50c79b34",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.17/skills/validation",
-      "tree_sha256": "45315657171133928ba04e4da632370c6303d191afa60a738566789f2b30474a",
-      "version": "0.1.17"
+      "skill_md_sha256": "f92138ea9ad6a76a533b95212694f76f399666efb30568567f7e0d0dfdd28783",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.18/skills/validation",
+      "tree_sha256": "a8143a25968bd2e02878b249ea504bb0c5bcdaa437b486f1b194e43a968c2f70",
+      "version": "0.1.18"
     },
     {
       "kind": "plugin",
       "name": "vulnerability-writeup",
       "plugin": "codex-security",
       "skill_md_sha256": "46ccff479884f6e2c9a38d9f84d168161959667357db53673134ffe71df6b219",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.17/skills/vulnerability-writeup",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.18/skills/vulnerability-writeup",
       "tree_sha256": "2c56676330841f80a988d25c48616b03f17f8030ca684e36dcd169f21ccd39ec",
-      "version": "0.1.17"
+      "version": "0.1.18"
     },
     {
       "kind": "plugin",
@@ -10853,181 +10853,163 @@
       "kind": "plugin",
       "name": "analyze-account-signals",
       "plugin": "sales",
-      "skill_md_sha256": "47b9998f0c467d10f3852741b6ac2cd495790d68354318a67ae00b566d647912",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/analyze-account-signals",
-      "tree_sha256": "2674bf73bcffe0fa9e4fc0a3738f73d3b05a288666c1aa40a4ca5b2f66ce1302",
-      "version": "1.0.8"
-    },
-    {
-      "kind": "plugin",
-      "name": "answers-ask-user-input",
-      "plugin": "sales",
-      "skill_md_sha256": "520b201f5ef23875b1ed1170a90c3ab9e02b5ca36ddf6d1ea3a2e0bf38c41400",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/answers-ask-user-input",
-      "tree_sha256": "6513da607e4facf957ad7877ffedd72bf41f2e6a4d5ccb551f21f0bb74b41576",
-      "version": "1.0.8"
-    },
-    {
-      "kind": "plugin",
-      "name": "apollo",
-      "plugin": "sales",
-      "skill_md_sha256": "11fc2423543596fa1203b1d27fb45f08075cf2c473ed9a3bc66b2f87eb665263",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/apollo",
-      "tree_sha256": "a7650bf5501ce4d422a440811ecfae33c3ed70a151c2db41851b956157930f72",
-      "version": "1.0.8"
+      "skill_md_sha256": "00bfb6abce06ec3b8db3a26e89af14c66cb6dbd3aa6857f4f8efcc22b2fa351e",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/analyze-account-signals",
+      "tree_sha256": "44f2965f366b5333a0267b5333dc9a90343dccc2224e75fa95089bbc6a5dd6f1",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
       "name": "build-business-case",
       "plugin": "sales",
-      "skill_md_sha256": "f50445d05863e237a5e07f8276ec54468681d14cd3af82bb1d8e0a0f59ffd32f",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/build-business-case",
-      "tree_sha256": "84582413f377adc097edcd0a596651806b0f2df7e1468d61ddb1edd88cf67c2b",
-      "version": "1.0.8"
+      "skill_md_sha256": "fb801fe8f2784588f21aac0454ebd6bb7df222c1f63364dd71bd11912cd09913",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/build-business-case",
+      "tree_sha256": "b6f400507bf4fb0a32f85c9110d28445632e8bf0f2220430eb4919265d18aa5a",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
       "name": "build-competitive-brief",
       "plugin": "sales",
-      "skill_md_sha256": "a053187e4f51216c15a4ebdd562b55cb5985af4a35beabcb89e152b6ec132195",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/build-competitive-brief",
-      "tree_sha256": "44fa919ac280eb9df1a3f9fde2d2b4b1e5c4e72b55ff38d7ad2eb139499074ab",
-      "version": "1.0.8"
+      "skill_md_sha256": "acb019f84f5af6c3563db82d823c9e1d5b2dbf381d3c6e3d1f5cf08240e8c8c9",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/build-competitive-brief",
+      "tree_sha256": "7bd2e5db8d0ce47fdc262b58a355bd6f6bfe02dba6992c0a6d5dda916b84c9f1",
+      "version": "1.0.11-alpha.6"
+    },
+    {
+      "kind": "plugin",
+      "name": "demo-exec-and-seller-dash",
+      "plugin": "sales",
+      "skill_md_sha256": "4c535b1127bd78ce12aa99ca63dcdb8659e68e3f5983b4662148505035335a75",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/demo-exec-and-seller-dash",
+      "tree_sha256": "b2cbc95d8a3d97e707128f49637ed386ab9f44f38e8e6feba23e893eefb63bc1",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
       "name": "enrich-company-and-contact-data",
       "plugin": "sales",
-      "skill_md_sha256": "072fb8571e9e8b03e2d4812aac93c68dd490d1a5996f5c529062bdc50e8a6a3c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/enrich-company-and-contact-data",
-      "tree_sha256": "9cf55242ade6790e9ef720bd6c4c54fbf9d9e9c1210d8d1668f5b4df6e0575dc",
-      "version": "1.0.8"
+      "skill_md_sha256": "7fad74c7fd88ab9a75bcae43422391f4da24aa2563ea819b4f607f3778fd44e5",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/enrich-company-and-contact-data",
+      "tree_sha256": "2a8143c542bcb330b4b0a893912aa5d84603bc6e9e9c38f8aaf8b4ae846c1327",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
       "name": "find-customer-quotes",
       "plugin": "sales",
-      "skill_md_sha256": "237307a11621dd2aea507e4790f07a50d73be146cccfdce3b5a321b73f38c6b3",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/find-customer-quotes",
-      "tree_sha256": "e132a41be1b9ac53225327e0ffa3380286e480c7631d0b87025c9d8ddbeda089",
-      "version": "1.0.8"
+      "skill_md_sha256": "a4637324f2817a04a94183c7d6e8871666f318455cad75bbe5e6af72be2211b5",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/find-customer-quotes",
+      "tree_sha256": "91a034d3fadb81571235aabcb0ce7b5d18165c796ee676201065596fdd407289",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
       "name": "find-key-internal-sources",
       "plugin": "sales",
-      "skill_md_sha256": "b63612463f882a63c49454c3da192d35bcc3bb0171496a564059b8c821f54c50",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/find-key-internal-sources",
-      "tree_sha256": "96967460d139201f4c60276e3e4084c7c810854309e8ea8e34bbca6b885530f5",
-      "version": "1.0.8"
+      "skill_md_sha256": "e0a35568732d31ad8412dc29040eee8cfd2bdd579cee64db95f99f77d15f8f9b",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/find-key-internal-sources",
+      "tree_sha256": "c8c172b0748ce5fe251ff1db48cabe299fc6dc0858626a74bc5d4ae052db828d",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
       "name": "follow-up-after-call",
       "plugin": "sales",
-      "skill_md_sha256": "986d21b8fd8876aa35807eaff74b027341c6f288d75592d350a00bf184032824",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/follow-up-after-call",
-      "tree_sha256": "66fadc1ca2f413c78cf26edd9c2e71904d8cedd52c42ae55fe01eff072c5b184",
-      "version": "1.0.8"
+      "skill_md_sha256": "a8eb5632ad029c169e446a5c03cbf108f3fe7031cc9c3e067a9a1d6dace63bec",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/follow-up-after-call",
+      "tree_sha256": "35f0758dbb5d7225ab4d48bf6fe239132e67deb9b5e9614126476a7f877f9c14",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
       "name": "get-rep-call-feedback",
       "plugin": "sales",
-      "skill_md_sha256": "6722491c123ed970f60733ab4f76ffe03017d2c710f5c358499a48d9db9f9df3",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/get-rep-call-feedback",
-      "tree_sha256": "e84835009d4f5d5504064f21039a500db3dcc73be914a58de55186aa1bdd1179",
-      "version": "1.0.8"
-    },
-    {
-      "kind": "plugin",
-      "name": "hubspot",
-      "plugin": "sales",
-      "skill_md_sha256": "2a9571967ab27e1653d819cb89e496b96905437ed286d5a5ad7d7c41062c8f82",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/hubspot",
-      "tree_sha256": "10713a6c3d0153e5182193c10a0b1b495ea4466d87a5e74fa20ae7b2eef3c2eb",
-      "version": "1.0.8"
+      "skill_md_sha256": "12eba9f71f2bb66ba7bd35fabbe1767150b21ba746a495b0b94d168e9353cd0f",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/get-rep-call-feedback",
+      "tree_sha256": "9eb478883db8be4868e371da9b203e908b29c213d37830ea10de261134b7d248",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
       "name": "index",
       "plugin": "sales",
-      "skill_md_sha256": "682e48bdffddd02cca24f412a36de668dfc661e908c78e32430d71a1b1b6e573",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/index",
-      "tree_sha256": "84857506d5c8b48a7e24d96838b2ccd174dee96310b036d56a48fee68d632d0f",
-      "version": "1.0.8"
+      "skill_md_sha256": "046646dd9327b29dd1cc898199f3ed33e745e9f97dbe28332059b1a90c803962",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/index",
+      "tree_sha256": "4c449a93f7f79f8404678a8735405e7ded816775adab9e1ea14ab89dcdda83e6",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
       "name": "plan-deal-strategy",
       "plugin": "sales",
-      "skill_md_sha256": "74ed63a46e76320fde0732ea7e63f8ce076812592bffc5ca0348cdcc6999bcb6",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/plan-deal-strategy",
-      "tree_sha256": "8c693535a37b3d8ef5157d6ee97d652a5f4ffcf3a3fb4f41d7223199742b515b",
-      "version": "1.0.8"
+      "skill_md_sha256": "966187619e58aa95bcc2f40e3f7135779f9cb62a97b55631b7825acfd40e0b57",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/plan-deal-strategy",
+      "tree_sha256": "ab2f37aee9ed80373f402319153ee0c01aa254c7282f0d463971e7c1095afd0e",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
       "name": "prepare-for-meeting",
       "plugin": "sales",
-      "skill_md_sha256": "6089e76a257cb779825be89c09e11deb499a2d9c3691c59e064e02bd9eb446ef",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/prepare-for-meeting",
-      "tree_sha256": "665caa611e5001d3e687ad6a92aaf859ae2db8cd91aee33907879773f27351a7",
-      "version": "1.0.8"
-    },
-    {
-      "kind": "plugin",
-      "name": "prioritize-accounts",
-      "plugin": "sales",
-      "skill_md_sha256": "d5005c70d1a12eee07c764d1072602251a043b53d39c5a7715479d1390113c4c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/prioritize-accounts",
-      "tree_sha256": "b859ed4afa1da8d373527f3339ddb550800dd3618a838191d99c8f3d5126c322",
-      "version": "1.0.8"
+      "skill_md_sha256": "f26fcd50f4207b1b9fcc20a1c24e930d821253e54f6db44c86ea55f981e3ce75",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/prepare-for-meeting",
+      "tree_sha256": "ac331dbfcdd7953c3dc4cc7367a372b37da2402602f61e80fec3f300ebc71df4",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
       "name": "review-forecast",
       "plugin": "sales",
-      "skill_md_sha256": "b066f82a9a94f1beacabb6c0b75650c63bc1db2f5cea24986441b07d161bc548",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/review-forecast",
-      "tree_sha256": "8cd7ae40fbb6a4c654a75e8de5cbd337423ae4b6452a99f1886f0d941ace76b7",
-      "version": "1.0.8"
+      "skill_md_sha256": "d42de7385c5a8873a7c91532be550bbe6238a2e65085830fa1de4408acb508fd",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/review-forecast",
+      "tree_sha256": "4949fe85a2cbe05017ff77accf1064b5078a88ecfd33d3be559429b1e5a7389a",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
       "name": "review-rep-call-trends",
       "plugin": "sales",
-      "skill_md_sha256": "93dbaf5c3f2125897ffdd738f97be6e5e778ec44c03bee7319830c63ced643eb",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/review-rep-call-trends",
-      "tree_sha256": "a241a9607f3e843e7db36343078a5ddef5c7d9ad65516b0228cb182e149ac48b",
-      "version": "1.0.8"
+      "skill_md_sha256": "5ca6bf7881004a892bd02e1359e31e85f5636f421595a7c901d99f01a0182fe2",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/review-rep-call-trends",
+      "tree_sha256": "518f49d65472a6e615c7298a4854f9e584f1e27e746f6af45f10de5bec730108",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
       "name": "sales-company-research",
       "plugin": "sales",
-      "skill_md_sha256": "c2127a18a4f1c5d36f6bc72fe2ac30878286f809878ad0240ec8dc39f3578c74",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/sales-company-research",
-      "tree_sha256": "ed085b5184b8e6691074b2da68e79c4310a6a1030e5afd2fab942f105d34a92b",
-      "version": "1.0.8"
+      "skill_md_sha256": "f00a88b8db4a6f08c282b6e3271ba41bd2558b42b4e5c7a8dbea344d1af9ee55",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/sales-company-research",
+      "tree_sha256": "2cb3aa1ceea1bdbe8eca9a5dcc54e931c407a042430a1e21d09380afc0d10161",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
-      "name": "salesforce",
+      "name": "sales-leadership-dashboard",
       "plugin": "sales",
-      "skill_md_sha256": "0640253e4a68d06f09522a7d275213d3c78b849439139d223d2f7b32a3e64a63",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/salesforce",
-      "tree_sha256": "0a424465f75fa6228d35949646eddaaad1479c41f250ab14993259edea9767a3",
-      "version": "1.0.8"
+      "skill_md_sha256": "3c042ad7bb85c87ec13a422818b11f8984bed1622a5710d3debf802bb30634f8",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/sales-leadership-dashboard",
+      "tree_sha256": "f3ef1524740d238a94955223407b2fd66e0b5ee4071ada3912d05060042ee50c",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
-      "name": "zoominfo",
+      "name": "sales-presentations",
       "plugin": "sales",
-      "skill_md_sha256": "b5fce52852fb593dfbd1e74e85cc940e58569d22a77a2365f13bd7e875b32dcf",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.8/skills/zoominfo",
-      "tree_sha256": "3b57926bfc52d5133d247fc9d8e1ece45ae2f1cb52a498a0bd9395f509396ce4",
-      "version": "1.0.8"
+      "skill_md_sha256": "23a5f2fa66b6eca4e69f515570512565d511f6240f3596f943a8fb86ce4c33c8",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/sales-presentations",
+      "tree_sha256": "a546292dbe826f1a039bf802cee10152cb60ee885cbf610cb25a059ec54b57d9",
+      "version": "1.0.11-alpha.6"
+    },
+    {
+      "kind": "plugin",
+      "name": "seller-account-dashboard",
+      "plugin": "sales",
+      "skill_md_sha256": "7745acb82f32dc2aef1f4fe7f4e3deb375ec1d6742e44eb7079dac88343296eb",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.6/skills/seller-account-dashboard",
+      "tree_sha256": "3f80556c2e9d5e2e264f9464aeaaf1142c0c3968407e7302adb421b9be928fc2",
+      "version": "1.0.11-alpha.6"
     },
     {
       "kind": "plugin",
