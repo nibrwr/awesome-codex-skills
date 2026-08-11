@@ -8057,7 +8057,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-08-10T14:42:54+00:00",
+  "generated_at": "2026-08-11T14:02:20+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -9240,6 +9240,78 @@
     },
     {
       "kind": "plugin",
+      "name": "canva-brand-check",
+      "plugin": "canva",
+      "skill_md_sha256": "b292189744392db22b9e72481056a0db94781bd64892480abe2ce50c76efbb73",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-brand-check",
+      "tree_sha256": "a136e84dfd3397cd3b471cee7bbb9f5f109e692f6fd84df4c1d72d1f8d5ec953",
+      "version": "13.0.1"
+    },
+    {
+      "kind": "plugin",
+      "name": "canva-branded-presentation",
+      "plugin": "canva",
+      "skill_md_sha256": "cb941d4892cfeda9034f77cccaf1e1d8c45546bd3a41c5c85e72e37055150ca1",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-branded-presentation",
+      "tree_sha256": "271b1576c8e844e7d6f2900fc28408401c99642eba1d3cfc982e018833fc20f1",
+      "version": "13.0.1"
+    },
+    {
+      "kind": "plugin",
+      "name": "canva-bulk-create",
+      "plugin": "canva",
+      "skill_md_sha256": "65deda62b60ce9e748c7a90b3e41e91dadc38f6deee3ba4aca799fd7502eb8b4",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-bulk-create",
+      "tree_sha256": "c24f5c2823b085babd0729f8867f598ac3340769eb5b141421f2ea29e574b1ed",
+      "version": "13.0.1"
+    },
+    {
+      "kind": "plugin",
+      "name": "canva-design-feedback",
+      "plugin": "canva",
+      "skill_md_sha256": "e18303be61308ad6dc8e05c4735b7254873f42ab9c6bc6c37b9cec339119be7b",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-design-feedback",
+      "tree_sha256": "504b616c4108c7daf65cc75bb7fa92175bf59d056af1b761b39a71c621802efb",
+      "version": "13.0.1"
+    },
+    {
+      "kind": "plugin",
+      "name": "canva-edit-design",
+      "plugin": "canva",
+      "skill_md_sha256": "842eeec8f89bfcfb3490ca92092f4ef441577ff7f9b7bae979aad99cc92ceaa8",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-edit-design",
+      "tree_sha256": "071a3686f34972070340015c9761fcfa860df293f2776ef0dec7d18c0a35c75b",
+      "version": "13.0.1"
+    },
+    {
+      "kind": "plugin",
+      "name": "canva-implement-feedback",
+      "plugin": "canva",
+      "skill_md_sha256": "cb0d8a7434e7abd7a129ef74aa526ea7f5c0c7ea89db17e3a0ebf27d6108aa36",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-implement-feedback",
+      "tree_sha256": "21137ceddfe410a8d3bf9b944689ec88948c0a974fafbd2d2dc803a9a2211190",
+      "version": "13.0.1"
+    },
+    {
+      "kind": "plugin",
+      "name": "canva-resize-for-social-media",
+      "plugin": "canva",
+      "skill_md_sha256": "bb36807630daf3ba7c2a27e83de64b329e03ce68457da874c36c5022ceff7094",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-resize-for-social-media",
+      "tree_sha256": "45b66dbb4fb3080f716dcafb178e89c9596ad5e70a95a903ac872cdcf0fa54a1",
+      "version": "13.0.1"
+    },
+    {
+      "kind": "plugin",
+      "name": "canva-translate-design",
+      "plugin": "canva",
+      "skill_md_sha256": "c10b609033f5727c53d3c05dddd61c4e3d0de9a314b78420b2109dc6629192eb",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-translate-design",
+      "tree_sha256": "bc7d71a5f722577e23f17a418f623759468c48772e748475081dac8c5a1347db",
+      "version": "13.0.1"
+    },
+    {
+      "kind": "plugin",
       "name": "agents-sdk",
       "plugin": "cloudflare",
       "skill_md_sha256": "007d6ccf85808a6c779f5b058b1be970d77785000071cb27a55a5f580fbc845b",
@@ -9696,6 +9768,42 @@
       "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.17/skills/figma-use-slides",
       "tree_sha256": "7ea8625eb92997b7a9f99eb7666fd25dbcda31a84039fcb617e8bce1f31b8621",
       "version": "2.0.17"
+    },
+    {
+      "kind": "plugin",
+      "name": "gh-address-comments",
+      "plugin": "github",
+      "skill_md_sha256": "c1ebc337357402f7faabafe712e0c463981a65f736453efe52abd305bcb74769",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.8-2841cf9749ae/skills/gh-address-comments",
+      "tree_sha256": "e43fcf5ced7188693ac624c55d144621be0d2dd56776031eaa382ca03c359f17",
+      "version": "0.1.8-2841cf9749ae"
+    },
+    {
+      "kind": "plugin",
+      "name": "gh-fix-ci",
+      "plugin": "github",
+      "skill_md_sha256": "7621a3560d788fb221d25f9753233fe0c393c5cfe63167c88b11f027c277b1f8",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.8-2841cf9749ae/skills/gh-fix-ci",
+      "tree_sha256": "f374d7888cccf4cba172ceee0ac11a2c341c02cdc858516a41fd84b9ad1bd791",
+      "version": "0.1.8-2841cf9749ae"
+    },
+    {
+      "kind": "plugin",
+      "name": "github",
+      "plugin": "github",
+      "skill_md_sha256": "81dbdd90934fe86a79ddc4790fd211e5fca866302a74090ad153395f56f2bd42",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.8-2841cf9749ae/skills/github",
+      "tree_sha256": "b570687738e1e655a49e803ffaab56c0bcf859f82414571f3df2c3fcc7749f6f",
+      "version": "0.1.8-2841cf9749ae"
+    },
+    {
+      "kind": "plugin",
+      "name": "yeet",
+      "plugin": "github",
+      "skill_md_sha256": "e93c6ea769ba673d30749a981cd8ad75b687f454e3c8e2e45e7cfcbd412df12c",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.8-2841cf9749ae/skills/yeet",
+      "tree_sha256": "fe8bd8a12dc45bd34b770094917d498cfe479be0270fdc4024a9900bf9a567db",
+      "version": "0.1.8-2841cf9749ae"
     },
     {
       "kind": "plugin",
