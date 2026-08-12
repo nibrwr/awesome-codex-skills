@@ -8057,7 +8057,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-08-11T14:02:20+00:00",
+  "generated_at": "2026-08-12T14:03:05+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8118,9 +8118,9 @@
       "name": "control-in-app-browser",
       "plugin": "browser",
       "skill_md_sha256": "bdec2bfc891a6bd3f0a62d9d872ece4c6c3678f75bef7a5a2916cb1a53cc6910",
-      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.803.41515/skills/control-in-app-browser",
+      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.803.61601/skills/control-in-app-browser",
       "tree_sha256": "cca4ca1d0479f9268f8ca21aa7c251eefe99de31c29426b183d88493de9bff99",
-      "version": "26.803.41515"
+      "version": "26.803.61601"
     },
     {
       "kind": "plugin",
