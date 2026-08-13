@@ -8057,7 +8057,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-08-12T14:03:05+00:00",
+  "generated_at": "2026-08-13T14:05:02+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8065,7 +8065,7 @@
       "plugin": "plugins",
       "skill_md_sha256": "048811e4e434bedddcd753226be9407eeef55e00f9c69d2567fed838c84d6495",
       "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/documents/skills/documents",
-      "tree_sha256": "56f821137bcb0bd2d1abd9f9ae057a01e187109ad073d8c7df472bf294fb035f",
+      "tree_sha256": "07fb8605ea2ed2ad68ff60ae8e9387e7972fbfd6579d0c3bc62f7f1c8d159e03",
       "version": "documents"
     },
     {
@@ -8081,9 +8081,9 @@
       "kind": "plugin",
       "name": "presentations",
       "plugin": "plugins",
-      "skill_md_sha256": "1587617300cdfee3fb8de62b0884fcf9aa460960a013e726f2c86790d3f24fe9",
+      "skill_md_sha256": "357bbfdc8f103a44233b86a7b5834dc06ba547ff5184b84dd7ec0115b553a847",
       "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/presentations/skills/presentations",
-      "tree_sha256": "f86fd67e8916d9c76ffe57e9b39d413ebda36c4cde41568fea8aa1e729767556",
+      "tree_sha256": "318cb14d177728df98d990223186a30fc7cfb928ec6c94a78e7fd4befe46d8fa",
       "version": "presentations"
     },
     {
@@ -8108,9 +8108,9 @@
       "kind": "plugin",
       "name": "template-creator",
       "plugin": "plugins",
-      "skill_md_sha256": "e1f3a2caa0e95e68dc178b18e61e4a8683dc4d96c4d13972adea4b27dd72360b",
+      "skill_md_sha256": "084f463f578c1197aef569820cdc1a1593d4ef8ddc5b107d63abc8aa3dba86a8",
       "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/template-creator/skills/template-creator",
-      "tree_sha256": "779dc370aa7c686053bbaa527a023c94b96178b3b33b9d5ec0f840ce92ba82d7",
+      "tree_sha256": "8e2c7b7cb1adb58b05bd0a4e0fcbca46a018d31421ddde609a0aa504f768f9bd",
       "version": "template-creator"
     },
     {
@@ -11250,54 +11250,54 @@
       "name": "documents",
       "plugin": "documents",
       "skill_md_sha256": "048811e4e434bedddcd753226be9407eeef55e00f9c69d2567fed838c84d6495",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.805.11740/skills/documents",
-      "tree_sha256": "56f821137bcb0bd2d1abd9f9ae057a01e187109ad073d8c7df472bf294fb035f",
-      "version": "26.805.11740"
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.812.11052/skills/documents",
+      "tree_sha256": "07fb8605ea2ed2ad68ff60ae8e9387e7972fbfd6579d0c3bc62f7f1c8d159e03",
+      "version": "26.812.11052"
     },
     {
       "kind": "plugin",
       "name": "pdf",
       "plugin": "pdf",
       "skill_md_sha256": "18f53502fb61b489d9c5e2db0861c2233459eaf62a7a295ba6a99a95b028691e",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/pdf/26.805.11740/skills/pdf",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/pdf/26.812.11052/skills/pdf",
       "tree_sha256": "a6c8989dd76881c5e74181ddffa5aba459cb34f7d477a05ac523a6828a8fb133",
-      "version": "26.805.11740"
+      "version": "26.812.11052"
     },
     {
       "kind": "plugin",
       "name": "presentations",
       "plugin": "presentations",
-      "skill_md_sha256": "1587617300cdfee3fb8de62b0884fcf9aa460960a013e726f2c86790d3f24fe9",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.805.11740/skills/presentations",
-      "tree_sha256": "f86fd67e8916d9c76ffe57e9b39d413ebda36c4cde41568fea8aa1e729767556",
-      "version": "26.805.11740"
+      "skill_md_sha256": "357bbfdc8f103a44233b86a7b5834dc06ba547ff5184b84dd7ec0115b553a847",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.812.11052/skills/presentations",
+      "tree_sha256": "318cb14d177728df98d990223186a30fc7cfb928ec6c94a78e7fd4befe46d8fa",
+      "version": "26.812.11052"
     },
     {
       "kind": "plugin",
       "name": "excel-live-control",
       "plugin": "spreadsheets",
       "skill_md_sha256": "994e33cf1d3352d3fb4ab9e3f24076b63ecd0a92dae450f2b4a27cd9a7f00e88",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.805.11740/skills/excel-live-control",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.812.11052/skills/excel-live-control",
       "tree_sha256": "0eab55c3711236447174880480ff8def5c78b790eb4a04fabba044014dd5c674",
-      "version": "26.805.11740"
+      "version": "26.812.11052"
     },
     {
       "kind": "plugin",
       "name": "spreadsheets",
       "plugin": "spreadsheets",
       "skill_md_sha256": "082c2b653a9a5776988dd0d549a9a397bc86be474e0ec11e45eec807e3dbb5e0",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.805.11740/skills/spreadsheets",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.812.11052/skills/spreadsheets",
       "tree_sha256": "c08e70b2ea590f4af4029c7b304e2be19dce22458f5b5adcda81b98fb55d287f",
-      "version": "26.805.11740"
+      "version": "26.812.11052"
     },
     {
       "kind": "plugin",
       "name": "template-creator",
       "plugin": "template-creator",
-      "skill_md_sha256": "e1f3a2caa0e95e68dc178b18e61e4a8683dc4d96c4d13972adea4b27dd72360b",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/template-creator/26.805.11740/skills/template-creator",
-      "tree_sha256": "779dc370aa7c686053bbaa527a023c94b96178b3b33b9d5ec0f840ce92ba82d7",
-      "version": "26.805.11740"
+      "skill_md_sha256": "084f463f578c1197aef569820cdc1a1593d4ef8ddc5b107d63abc8aa3dba86a8",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/template-creator/26.812.11052/skills/template-creator",
+      "tree_sha256": "8e2c7b7cb1adb58b05bd0a4e0fcbca46a018d31421ddde609a0aa504f768f9bd",
+      "version": "26.812.11052"
     },
     {
       "kind": "plugin",

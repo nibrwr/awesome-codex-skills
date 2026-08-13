@@ -7,6 +7,8 @@ description: Use when designing or implementing UI or app code for macOS, iOS, i
 
 Use this skill when the user wants design or UI implementation guidance that stays aligned across macOS, iOS, and iPadOS projects.
 
+Before final handoff for Apple app implementation or review work, also use `$apple-app-quality-test-loop` to run the required new-user, UX/UI, functionality, accessibility, and performance/resource quality loop.
+
 ## Goals
 
 - Preserve one product identity across Apple platforms.
@@ -16,6 +18,37 @@ Use this skill when the user wants design or UI implementation guidance that sta
 ## Default Stance
 
 Start from a shared design system, then adapt the interaction model per platform.
+
+## Cupertino Documentation Requirement
+
+When available, use the Cupertino MCP server or `cupertino` CLI for current Apple platform facts before relying on memory.
+
+Use Cupertino for:
+
+- Apple Developer Documentation API details, availability, symbols, frameworks, and inheritance.
+- Human Interface Guidelines checks.
+- Swift Evolution, Swift.org, and Swift Book language guidance.
+- Apple sample code lookup and package ecosystem research.
+
+Preferred CLI fallbacks when MCP tools are not visible in the session:
+
+```bash
+cupertino search "SwiftUI toolbar macOS"
+cupertino read "doc://..."
+cupertino list-frameworks
+cupertino list-documents --framework SwiftUI
+cupertino list-samples --framework SwiftUI
+cupertino package-search "swift argument parser"
+cupertino doctor
+```
+
+For Codex, Cupertino is configured as an MCP server using:
+
+```bash
+cupertino serve --no-reap --base-dir "$HOME/.cupertino"
+```
+
+If Cupertino is missing or its databases are unavailable, state that limitation and fall back to local code, installed SDK headers, and official Apple documentation when browsing is available.
 
 Keep these layers separate:
 
@@ -101,6 +134,10 @@ For implementation work, verify and report on:
 
 For review-only work, include a dedicated Accessibility Recommendations section with prioritized findings, file references when code is available, and concrete verification steps. If the surface cannot be tested with assistive technologies in the current environment, state that limitation and still review semantics, focus, keyboard access, contrast risk, and dynamic type/layout behavior from code.
 
+## Quality Test Loop Gate
+
+For iOS, iPadOS, macOS, or shared SwiftUI implementation and review work, run `$apple-app-quality-test-loop` before final handoff. Treat the loop as part of app development: start with fresh new-user testing, then verify UX/UI, every feature/control/process, accessibility, and device resource/performance behavior. If a target platform, simulator, device, or diagnostic tool cannot be used, state the exact limitation and complete the strongest available fallback review.
+
 ## Documentation Requirement
 
 Treat visualization artifacts as a standard project documentation deliverable for development work.
@@ -114,10 +151,6 @@ Unless the user says otherwise, produce or maintain visuals such as:
 - System interaction diagrams
 
 Use diagrams when they reduce ambiguity around architecture, user flow, platform divergence, or component relationships. Prefer concise visuals over long prose when a picture makes the decision easier to review.
-
-## Apple Documentation Verification
-
-When Human Interface Guidelines, API availability, Swift language details, or Apple sample-code patterns affect a design or implementation decision, use `$apple-developer-docs` to verify the relevant local Cupertino documentation before finalizing guidance or code.
 
 ## Platform Adaptation Rules
 
@@ -175,6 +208,7 @@ For substantial design or UI tasks, provide:
 - Visualization artifacts when they clarify structure, flow, or behavior
 - Platform guideline, accessibility, and efficiency concerns that affect the implementation
 - Accessibility traits, labels, focus behavior, scaling, contrast, motion, and assistive-technology behavior that changed or need validation
+- Quality test coverage from `$apple-app-quality-test-loop`, including untested areas and tool limitations
 - Any places where forcing parity would hurt usability
 
 If writing code, call out where the shared design system lives and where platform-specific behavior begins.
