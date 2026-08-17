@@ -8075,7 +8075,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-08-17T14:02:53+00:00",
+  "generated_at": "2026-08-17T14:02:52+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8136,45 +8136,45 @@
       "name": "control-in-app-browser",
       "plugin": "browser",
       "skill_md_sha256": "bdec2bfc891a6bd3f0a62d9d872ece4c6c3678f75bef7a5a2916cb1a53cc6910",
-      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.803.41515/skills/control-in-app-browser",
+      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.810.52044/skills/control-in-app-browser",
       "tree_sha256": "cca4ca1d0479f9268f8ca21aa7c251eefe99de31c29426b183d88493de9bff99",
-      "version": "26.803.41515"
+      "version": "26.810.52044"
     },
     {
       "kind": "plugin",
       "name": "computer-use",
       "plugin": "computer-use",
       "skill_md_sha256": "e0ec667e63fba01381eb889ddbfd44a05b8556b1e502428e8ff0a474750a08d6",
-      "source": "~/.codex/plugins/cache/openai-bundled/computer-use/1.0.1000633/skills/computer-use",
+      "source": "~/.codex/plugins/cache/openai-bundled/computer-use/1.0.1000717/skills/computer-use",
       "tree_sha256": "229ae53211f70a9b58429973c386e9a845777c3a19c5238a5e9c42dc400565fa",
-      "version": "1.0.1000633"
+      "version": "1.0.1000717"
     },
     {
       "kind": "plugin",
       "name": "sites-building",
       "plugin": "sites",
-      "skill_md_sha256": "4b4205ea86f86158e9067c7200b0c3a42dede1f2e877e016888bf2355bd2f184",
-      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.34/skills/sites-building",
-      "tree_sha256": "db45377e2167f4d4e20d48770f35e26ed75a2e144eb1597134a2032cf902a9d0",
-      "version": "0.1.34"
+      "skill_md_sha256": "b85e029d54b28755f956e42d17fcc85bc000177d624f30ce8ecb1170ef8c5583",
+      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.37/skills/sites-building",
+      "tree_sha256": "578e1699c2f32474fd0dcdfc6f9bae8f9f590efd2fbecb84424105ded7083ee2",
+      "version": "0.1.37"
     },
     {
       "kind": "plugin",
       "name": "sites-hosting",
       "plugin": "sites",
-      "skill_md_sha256": "e1cd0842e1426204dbfc856e7bd7f364ee671fe6df78c6458c9a4d5e49b496e3",
-      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.34/skills/sites-hosting",
-      "tree_sha256": "0f05d1247c68e7d9804290779d3bd20152cf94cdaec7ef4b2374d118d14615e7",
-      "version": "0.1.34"
+      "skill_md_sha256": "64da1778d04c58f258eb73fccfbcff277f514f2a1f9a91697ad0dc81d12a5517",
+      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.37/skills/sites-hosting",
+      "tree_sha256": "c53067affadde7ae860a5d89ff6d4c09b402c98123ff2fc5de63e5278c166561",
+      "version": "0.1.37"
     },
     {
       "kind": "plugin",
       "name": "visualize",
       "plugin": "visualize",
-      "skill_md_sha256": "fde7f7104eb9d009251725c174c662afa3aef6cf49a55588b4f5781ab5f9a915",
-      "source": "~/.codex/plugins/cache/openai-bundled/visualize/1.0.20/skills/visualize",
-      "tree_sha256": "7b7c006b730083ec4f46f1841c446a6b65571a45c8e41be23be80f4bc3e99655",
-      "version": "1.0.20"
+      "skill_md_sha256": "38e7c12ad7ae4b39d018ea9ed4efa8d39948bfbcd75e6a3c761bdc24e4ec2d25",
+      "source": "~/.codex/plugins/cache/openai-bundled/visualize/1.0.21/skills/visualize",
+      "tree_sha256": "1fd1d44db2d7fbcdd10a1d80c6f2068fa3a425c2e170858a3fce2dce1bd74ab8",
+      "version": "1.0.21"
     },
     {
       "kind": "plugin",
