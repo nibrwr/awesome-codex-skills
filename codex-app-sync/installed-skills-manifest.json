@@ -8075,15 +8075,15 @@
       "version": null
     }
   ],
-  "generated_at": "2026-08-18T14:03:59+00:00",
+  "generated_at": "2026-08-19T14:02:06+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
       "name": "documents",
       "plugin": "plugins",
-      "skill_md_sha256": "2048085eadeacd5a819f75484b06c947acac9b08e01e35d29be5047aa4225158",
+      "skill_md_sha256": "a7513cbcde6be04a84216961e8799cd1c27600f93b28fbb10a4db76b5216df66",
       "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/documents/skills/documents",
-      "tree_sha256": "df61a3cefba3f5bd20be9f368daee455ef356d40508b4ad2869554744e8e3cec",
+      "tree_sha256": "ee30ff08bb639eb9e362a6bffb8dfae889188b12526ec654845c8e5c163f371d",
       "version": "documents"
     },
     {
@@ -8099,9 +8099,9 @@
       "kind": "plugin",
       "name": "presentations",
       "plugin": "plugins",
-      "skill_md_sha256": "931f87a4cfc020756a36ca864280d1a2adf2f5616cc69a245ad4dbdf4672b602",
+      "skill_md_sha256": "15b9d138292acd8adb452db328a610a59856802551bd484cefe7d168ab8020b1",
       "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/presentations/skills/presentations",
-      "tree_sha256": "e713503e482d535566970eab049b7055011c9ee074378781cd91fa1389f16a7a",
+      "tree_sha256": "274fee97a7980d42409d2721ec632ba31b9ee5b740fae9d88ffb45e87fcb24c5",
       "version": "presentations"
     },
     {
@@ -8117,9 +8117,9 @@
       "kind": "plugin",
       "name": "spreadsheets",
       "plugin": "plugins",
-      "skill_md_sha256": "22d7d30e5a6621d8724c14f660772e842c29f478a647e08b4bfbb76f1c18b507",
+      "skill_md_sha256": "d77dbacdc4fa300bd23e1516a29242768f12930b7eab9bdabdad2824de3fe6ff",
       "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/spreadsheets/skills/spreadsheets",
-      "tree_sha256": "8fe7346324f3a39542effc58311456a27f40f5e3a19f9c0e1fa7a2eac8e5926b",
+      "tree_sha256": "f5d71c9c89f57dd1c6d60b302b0f2537d6ab6efcb54ef29c7d0bf386fc3ebfee",
       "version": "spreadsheets"
     },
     {
@@ -9117,72 +9117,72 @@
       "name": "canva-brand-check",
       "plugin": "canva",
       "skill_md_sha256": "b292189744392db22b9e72481056a0db94781bd64892480abe2ce50c76efbb73",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-brand-check",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-brand-check",
       "tree_sha256": "a136e84dfd3397cd3b471cee7bbb9f5f109e692f6fd84df4c1d72d1f8d5ec953",
-      "version": "13.0.1"
+      "version": "14.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-branded-presentation",
       "plugin": "canva",
       "skill_md_sha256": "cb941d4892cfeda9034f77cccaf1e1d8c45546bd3a41c5c85e72e37055150ca1",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-branded-presentation",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-branded-presentation",
       "tree_sha256": "271b1576c8e844e7d6f2900fc28408401c99642eba1d3cfc982e018833fc20f1",
-      "version": "13.0.1"
+      "version": "14.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-bulk-create",
       "plugin": "canva",
       "skill_md_sha256": "65deda62b60ce9e748c7a90b3e41e91dadc38f6deee3ba4aca799fd7502eb8b4",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-bulk-create",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-bulk-create",
       "tree_sha256": "c24f5c2823b085babd0729f8867f598ac3340769eb5b141421f2ea29e574b1ed",
-      "version": "13.0.1"
+      "version": "14.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-design-feedback",
       "plugin": "canva",
       "skill_md_sha256": "e18303be61308ad6dc8e05c4735b7254873f42ab9c6bc6c37b9cec339119be7b",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-design-feedback",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-design-feedback",
       "tree_sha256": "504b616c4108c7daf65cc75bb7fa92175bf59d056af1b761b39a71c621802efb",
-      "version": "13.0.1"
+      "version": "14.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-edit-design",
       "plugin": "canva",
       "skill_md_sha256": "842eeec8f89bfcfb3490ca92092f4ef441577ff7f9b7bae979aad99cc92ceaa8",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-edit-design",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-edit-design",
       "tree_sha256": "071a3686f34972070340015c9761fcfa860df293f2776ef0dec7d18c0a35c75b",
-      "version": "13.0.1"
+      "version": "14.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-implement-feedback",
       "plugin": "canva",
       "skill_md_sha256": "cb0d8a7434e7abd7a129ef74aa526ea7f5c0c7ea89db17e3a0ebf27d6108aa36",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-implement-feedback",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-implement-feedback",
       "tree_sha256": "21137ceddfe410a8d3bf9b944689ec88948c0a974fafbd2d2dc803a9a2211190",
-      "version": "13.0.1"
+      "version": "14.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-resize-for-social-media",
       "plugin": "canva",
       "skill_md_sha256": "bb36807630daf3ba7c2a27e83de64b329e03ce68457da874c36c5022ceff7094",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-resize-for-social-media",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-resize-for-social-media",
       "tree_sha256": "45b66dbb4fb3080f716dcafb178e89c9596ad5e70a95a903ac872cdcf0fa54a1",
-      "version": "13.0.1"
+      "version": "14.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-translate-design",
       "plugin": "canva",
       "skill_md_sha256": "c10b609033f5727c53d3c05dddd61c4e3d0de9a314b78420b2109dc6629192eb",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/13.0.1/skills/canva-translate-design",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-translate-design",
       "tree_sha256": "bc7d71a5f722577e23f17a418f623759468c48772e748475081dac8c5a1347db",
-      "version": "13.0.1"
+      "version": "14.0.0"
     },
     {
       "kind": "plugin",
@@ -11015,217 +11015,217 @@
       "kind": "plugin",
       "name": "analyze-account-signals",
       "plugin": "sales",
-      "skill_md_sha256": "00bfb6abce06ec3b8db3a26e89af14c66cb6dbd3aa6857f4f8efcc22b2fa351e",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/analyze-account-signals",
-      "tree_sha256": "44f2965f366b5333a0267b5333dc9a90343dccc2224e75fa95089bbc6a5dd6f1",
-      "version": "1.0.11-alpha.7"
+      "skill_md_sha256": "0aedda25d7117cede992c51301c03a8b05d74c313ccce538453149d389dfde65",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/analyze-account-signals",
+      "tree_sha256": "2d4aa1b0e793943c4219a46653f63a33db48a10563c463ee9008e340888b6fc7",
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "build-business-case",
       "plugin": "sales",
       "skill_md_sha256": "fb801fe8f2784588f21aac0454ebd6bb7df222c1f63364dd71bd11912cd09913",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/build-business-case",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/build-business-case",
       "tree_sha256": "b6f400507bf4fb0a32f85c9110d28445632e8bf0f2220430eb4919265d18aa5a",
-      "version": "1.0.11-alpha.7"
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "build-competitive-brief",
       "plugin": "sales",
       "skill_md_sha256": "acb019f84f5af6c3563db82d823c9e1d5b2dbf381d3c6e3d1f5cf08240e8c8c9",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/build-competitive-brief",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/build-competitive-brief",
       "tree_sha256": "7bd2e5db8d0ce47fdc262b58a355bd6f6bfe02dba6992c0a6d5dda916b84c9f1",
-      "version": "1.0.11-alpha.7"
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "demo-exec-and-seller-dash",
       "plugin": "sales",
-      "skill_md_sha256": "9c7abdb3ee597303293329e0787848a5f315ac91bd4f6c32d2737448d5a4cc84",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/demo-exec-and-seller-dash",
-      "tree_sha256": "ed9e721b87c8ad9852811d63b400ed07b5ec49b21f936e238956dff8350e3026",
-      "version": "1.0.11-alpha.7"
+      "skill_md_sha256": "0f0bfa860380c4c4fb19d935813e6c18cc7ac3b08187f769bd14ab93ce602cc5",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/demo-exec-and-seller-dash",
+      "tree_sha256": "1ca4863026886121acb0c2d7eb999906b1412bc2e7c5ce3223fa2201c238a4dd",
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "enrich-company-and-contact-data",
       "plugin": "sales",
-      "skill_md_sha256": "7fad74c7fd88ab9a75bcae43422391f4da24aa2563ea819b4f607f3778fd44e5",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/enrich-company-and-contact-data",
-      "tree_sha256": "2a8143c542bcb330b4b0a893912aa5d84603bc6e9e9c38f8aaf8b4ae846c1327",
-      "version": "1.0.11-alpha.7"
+      "skill_md_sha256": "bb64962b47c8c9572b8de32350053bac34bd4adcd835d0112da6955ab6b5ff1c",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/enrich-company-and-contact-data",
+      "tree_sha256": "d1192cfb32958aa48b048392e6d4b616d6df2063a9a01709eea836426cfe2fdd",
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "find-customer-quotes",
       "plugin": "sales",
-      "skill_md_sha256": "a4637324f2817a04a94183c7d6e8871666f318455cad75bbe5e6af72be2211b5",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/find-customer-quotes",
-      "tree_sha256": "91a034d3fadb81571235aabcb0ce7b5d18165c796ee676201065596fdd407289",
-      "version": "1.0.11-alpha.7"
+      "skill_md_sha256": "a544077cabb28559411e0e1b1aadfa189a8b9c50b62aa9e3ab1049558dac2475",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/find-customer-quotes",
+      "tree_sha256": "1115d91f5390b8a1c8dcbbf7bfe8bb92c96be56c8ccafc2d89ce53ec65d83f48",
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "find-key-internal-sources",
       "plugin": "sales",
       "skill_md_sha256": "e0a35568732d31ad8412dc29040eee8cfd2bdd579cee64db95f99f77d15f8f9b",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/find-key-internal-sources",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/find-key-internal-sources",
       "tree_sha256": "c8c172b0748ce5fe251ff1db48cabe299fc6dc0858626a74bc5d4ae052db828d",
-      "version": "1.0.11-alpha.7"
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "follow-up-after-call",
       "plugin": "sales",
       "skill_md_sha256": "a8eb5632ad029c169e446a5c03cbf108f3fe7031cc9c3e067a9a1d6dace63bec",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/follow-up-after-call",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/follow-up-after-call",
       "tree_sha256": "35f0758dbb5d7225ab4d48bf6fe239132e67deb9b5e9614126476a7f877f9c14",
-      "version": "1.0.11-alpha.7"
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "get-rep-call-feedback",
       "plugin": "sales",
       "skill_md_sha256": "12eba9f71f2bb66ba7bd35fabbe1767150b21ba746a495b0b94d168e9353cd0f",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/get-rep-call-feedback",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/get-rep-call-feedback",
       "tree_sha256": "9eb478883db8be4868e371da9b203e908b29c213d37830ea10de261134b7d248",
-      "version": "1.0.11-alpha.7"
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "index",
       "plugin": "sales",
-      "skill_md_sha256": "046646dd9327b29dd1cc898199f3ed33e745e9f97dbe28332059b1a90c803962",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/index",
-      "tree_sha256": "4c449a93f7f79f8404678a8735405e7ded816775adab9e1ea14ab89dcdda83e6",
-      "version": "1.0.11-alpha.7"
+      "skill_md_sha256": "882064098e874579744e98ba5a306c080711fe9042e01aefdfda257c1ae233d1",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/index",
+      "tree_sha256": "e22f880e5e7e178748fcbd2d23add1959d9d68d6ee7721be6e516b02151c78e3",
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "plan-deal-strategy",
       "plugin": "sales",
-      "skill_md_sha256": "966187619e58aa95bcc2f40e3f7135779f9cb62a97b55631b7825acfd40e0b57",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/plan-deal-strategy",
-      "tree_sha256": "ab2f37aee9ed80373f402319153ee0c01aa254c7282f0d463971e7c1095afd0e",
-      "version": "1.0.11-alpha.7"
+      "skill_md_sha256": "fdca13a29c05cbb52bfc1a25c9101922a93987bdbdb666cf37be61944c94a805",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/plan-deal-strategy",
+      "tree_sha256": "c19a22ac9850336ed4b5dd5518f4eb3e5b3960c92061116d62ffca4d5575b931",
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "prepare-for-meeting",
       "plugin": "sales",
-      "skill_md_sha256": "f26fcd50f4207b1b9fcc20a1c24e930d821253e54f6db44c86ea55f981e3ce75",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/prepare-for-meeting",
-      "tree_sha256": "ac331dbfcdd7953c3dc4cc7367a372b37da2402602f61e80fec3f300ebc71df4",
-      "version": "1.0.11-alpha.7"
+      "skill_md_sha256": "8e081fb6f92e935adf0f54bd5cde44b03f298f93efb1f9d6a81dce5ccfb1ce77",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/prepare-for-meeting",
+      "tree_sha256": "1e6f49f159446770a7cb2d65216d5a6a0a90a3efc40d01b8703095c9656cb864",
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "review-forecast",
       "plugin": "sales",
       "skill_md_sha256": "d42de7385c5a8873a7c91532be550bbe6238a2e65085830fa1de4408acb508fd",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/review-forecast",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/review-forecast",
       "tree_sha256": "4949fe85a2cbe05017ff77accf1064b5078a88ecfd33d3be559429b1e5a7389a",
-      "version": "1.0.11-alpha.7"
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "review-rep-call-trends",
       "plugin": "sales",
       "skill_md_sha256": "5ca6bf7881004a892bd02e1359e31e85f5636f421595a7c901d99f01a0182fe2",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/review-rep-call-trends",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/review-rep-call-trends",
       "tree_sha256": "518f49d65472a6e615c7298a4854f9e584f1e27e746f6af45f10de5bec730108",
-      "version": "1.0.11-alpha.7"
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "sales-company-research",
       "plugin": "sales",
       "skill_md_sha256": "f00a88b8db4a6f08c282b6e3271ba41bd2558b42b4e5c7a8dbea344d1af9ee55",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/sales-company-research",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/sales-company-research",
       "tree_sha256": "2cb3aa1ceea1bdbe8eca9a5dcc54e931c407a042430a1e21d09380afc0d10161",
-      "version": "1.0.11-alpha.7"
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "sales-leadership-dashboard",
       "plugin": "sales",
-      "skill_md_sha256": "aa1b72806a97955c1a6558ed68ae1cb5b08f3c6eadb4fc990fc72a275377d919",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/sales-leadership-dashboard",
-      "tree_sha256": "2e60b926e6197f3bf1dc213ebb72fe83d91e1be44f5bbe7e19c4a2f293ec92a8",
-      "version": "1.0.11-alpha.7"
+      "skill_md_sha256": "5308dbe9893fc386872148baff65641a83e27702bc32756995b695c925a48448",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/sales-leadership-dashboard",
+      "tree_sha256": "78649f99e359b1311a3818de476ad8348ab0c55f14d985e8f3275e29cb8c4113",
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "sales-presentations",
       "plugin": "sales",
-      "skill_md_sha256": "23a5f2fa66b6eca4e69f515570512565d511f6240f3596f943a8fb86ce4c33c8",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/sales-presentations",
-      "tree_sha256": "a546292dbe826f1a039bf802cee10152cb60ee885cbf610cb25a059ec54b57d9",
-      "version": "1.0.11-alpha.7"
+      "skill_md_sha256": "3d371bc6004537329c1c1230af8aa891676d72bbd039989358da75e40cc34539",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/sales-presentations",
+      "tree_sha256": "d342221fd856066f3a6f6f2ee4fd88f9de7bfd14c496e3172e663c805c80c3af",
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "seller-account-dashboard",
       "plugin": "sales",
-      "skill_md_sha256": "f3cae94d4ee96700bca51ea5f17e0bb05ba423423f981be9ca2eba61b9e14ebc",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.0.11-alpha.7/skills/seller-account-dashboard",
-      "tree_sha256": "a90f6a93a3b88760b5336579de44655b577be36ebee59f9ebb0f6704126ff21d",
-      "version": "1.0.11-alpha.7"
+      "skill_md_sha256": "1d60a57b53ffd76ba8c5c370e8142112b377cd29c3a1156f6b3bfe558bfefdf1",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/seller-account-dashboard",
+      "tree_sha256": "d2252f88d77cb57423d5eeef3af8b57b1fd43c41507b49c69f9f3f7be269e63d",
+      "version": "1.1.0"
     },
     {
       "kind": "plugin",
       "name": "documents",
       "plugin": "documents",
-      "skill_md_sha256": "2048085eadeacd5a819f75484b06c947acac9b08e01e35d29be5047aa4225158",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.813.12317/skills/documents",
-      "tree_sha256": "df61a3cefba3f5bd20be9f368daee455ef356d40508b4ad2869554744e8e3cec",
-      "version": "26.813.12317"
+      "skill_md_sha256": "a7513cbcde6be04a84216961e8799cd1c27600f93b28fbb10a4db76b5216df66",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.818.11542/skills/documents",
+      "tree_sha256": "ee30ff08bb639eb9e362a6bffb8dfae889188b12526ec654845c8e5c163f371d",
+      "version": "26.818.11542"
     },
     {
       "kind": "plugin",
       "name": "pdf",
       "plugin": "pdf",
       "skill_md_sha256": "b1d67f4bad4e40adb0d068ba4632990eec128ad62bc5290aff4ce9f41b82fcc2",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/pdf/26.813.12317/skills/pdf",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/pdf/26.818.11542/skills/pdf",
       "tree_sha256": "02af5e417f8383cd18dc09e17b2880acb03fb28db32766f03f7420045b93d196",
-      "version": "26.813.12317"
+      "version": "26.818.11542"
     },
     {
       "kind": "plugin",
       "name": "presentations",
       "plugin": "presentations",
-      "skill_md_sha256": "931f87a4cfc020756a36ca864280d1a2adf2f5616cc69a245ad4dbdf4672b602",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.813.12317/skills/presentations",
-      "tree_sha256": "e713503e482d535566970eab049b7055011c9ee074378781cd91fa1389f16a7a",
-      "version": "26.813.12317"
+      "skill_md_sha256": "15b9d138292acd8adb452db328a610a59856802551bd484cefe7d168ab8020b1",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.818.11542/skills/presentations",
+      "tree_sha256": "274fee97a7980d42409d2721ec632ba31b9ee5b740fae9d88ffb45e87fcb24c5",
+      "version": "26.818.11542"
     },
     {
       "kind": "plugin",
       "name": "excel-live-control",
       "plugin": "spreadsheets",
       "skill_md_sha256": "994e33cf1d3352d3fb4ab9e3f24076b63ecd0a92dae450f2b4a27cd9a7f00e88",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.813.12317/skills/excel-live-control",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.818.11542/skills/excel-live-control",
       "tree_sha256": "0eab55c3711236447174880480ff8def5c78b790eb4a04fabba044014dd5c674",
-      "version": "26.813.12317"
+      "version": "26.818.11542"
     },
     {
       "kind": "plugin",
       "name": "spreadsheets",
       "plugin": "spreadsheets",
-      "skill_md_sha256": "22d7d30e5a6621d8724c14f660772e842c29f478a647e08b4bfbb76f1c18b507",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.813.12317/skills/spreadsheets",
-      "tree_sha256": "8fe7346324f3a39542effc58311456a27f40f5e3a19f9c0e1fa7a2eac8e5926b",
-      "version": "26.813.12317"
+      "skill_md_sha256": "d77dbacdc4fa300bd23e1516a29242768f12930b7eab9bdabdad2824de3fe6ff",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.818.11542/skills/spreadsheets",
+      "tree_sha256": "f5d71c9c89f57dd1c6d60b302b0f2537d6ab6efcb54ef29c7d0bf386fc3ebfee",
+      "version": "26.818.11542"
     },
     {
       "kind": "plugin",
       "name": "template-creator",
       "plugin": "template-creator",
       "skill_md_sha256": "f1d14fd2847a2e879611a8b8f872f5dc4676a0607958d015274d2dc61e812deb",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/template-creator/26.813.12317/skills/template-creator",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/template-creator/26.818.11542/skills/template-creator",
       "tree_sha256": "a8367d458df37ad63f316098b09907172ccb0dadd41ba2b5261e5dca61ebca74",
-      "version": "26.813.12317"
+      "version": "26.818.11542"
     },
     {
       "kind": "plugin",
