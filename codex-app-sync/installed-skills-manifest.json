@@ -8075,15 +8075,15 @@
       "version": null
     }
   ],
-  "generated_at": "2026-08-19T14:02:06+00:00",
+  "generated_at": "2026-08-20T14:04:19+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
       "name": "documents",
       "plugin": "plugins",
-      "skill_md_sha256": "a7513cbcde6be04a84216961e8799cd1c27600f93b28fbb10a4db76b5216df66",
+      "skill_md_sha256": "fcbffaa012ca8a5514b3a47be8e1e4486e1e2afd4d4ae44d8577bc2e2628fec8",
       "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/documents/skills/documents",
-      "tree_sha256": "ee30ff08bb639eb9e362a6bffb8dfae889188b12526ec654845c8e5c163f371d",
+      "tree_sha256": "e59050ec794f9ed07206f108971c84322d85c334ea1006a1e1b95ad897afe432",
       "version": "documents"
     },
     {
@@ -8099,9 +8099,9 @@
       "kind": "plugin",
       "name": "presentations",
       "plugin": "plugins",
-      "skill_md_sha256": "15b9d138292acd8adb452db328a610a59856802551bd484cefe7d168ab8020b1",
+      "skill_md_sha256": "69f05a0372f138badfe65273b775719c346cfcb99d16553814a1d4c5d8a9c0d9",
       "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/presentations/skills/presentations",
-      "tree_sha256": "274fee97a7980d42409d2721ec632ba31b9ee5b740fae9d88ffb45e87fcb24c5",
+      "tree_sha256": "9a4a245222899d035922ed096158bbc5b3e3d8e24b33f03f61a748a2c057e76c",
       "version": "presentations"
     },
     {
@@ -8117,9 +8117,9 @@
       "kind": "plugin",
       "name": "spreadsheets",
       "plugin": "plugins",
-      "skill_md_sha256": "d77dbacdc4fa300bd23e1516a29242768f12930b7eab9bdabdad2824de3fe6ff",
+      "skill_md_sha256": "13780d271a174246bc56f20b10a1f7b21bb4a84e83cf86eb84f58dee1e54d6eb",
       "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/spreadsheets/skills/spreadsheets",
-      "tree_sha256": "f5d71c9c89f57dd1c6d60b302b0f2537d6ab6efcb54ef29c7d0bf386fc3ebfee",
+      "tree_sha256": "c407029f7eb57571369939a2cf2daf1453150531afd04c28ed0dfb85171b1903",
       "version": "spreadsheets"
     },
     {
@@ -9270,117 +9270,117 @@
       "name": "attack-path-analysis",
       "plugin": "codex-security",
       "skill_md_sha256": "553153597813c5553e7b92939ee6d664e2ffd1d4dad8f5f04c6b62eeda4932ec",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.20/skills/attack-path-analysis",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.21/skills/attack-path-analysis",
       "tree_sha256": "2c42f30403043d72dd1895d945ca95ad7a6addc4e539391f467ea82e6cd5d5fa",
-      "version": "0.1.20"
+      "version": "0.1.21"
     },
     {
       "kind": "plugin",
       "name": "deep-security-scan",
       "plugin": "codex-security",
       "skill_md_sha256": "9694530e3f1bb2c8170e6dc875251820d12e9ef7f3d5fadfaa72ac736f1ab9d4",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.20/skills/deep-security-scan",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.21/skills/deep-security-scan",
       "tree_sha256": "5a6cd146b359c910cd1cb9d63a892eba324385f28eb6559b79b30451eda183c0",
-      "version": "0.1.20"
+      "version": "0.1.21"
     },
     {
       "kind": "plugin",
       "name": "define-security-policy",
       "plugin": "codex-security",
       "skill_md_sha256": "286f549d7d5b017e13e38031494723b5870949e3f82ac85b6a9c32d4718433bf",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.20/skills/define-security-policy",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.21/skills/define-security-policy",
       "tree_sha256": "6e06410dc1c312597834b71cbcb8f71c0298aa489b0e32913f31d1bfe09ae981",
-      "version": "0.1.20"
+      "version": "0.1.21"
     },
     {
       "kind": "plugin",
       "name": "finding-discovery",
       "plugin": "codex-security",
       "skill_md_sha256": "938b73329188aa124770fcdf7cf7916e2941c8fdbf20acd9df96bc1a80185fe7",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.20/skills/finding-discovery",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.21/skills/finding-discovery",
       "tree_sha256": "88b98b314d8614a7ded3310759d2b63231200fa80baa1dfb88193a2637f61561",
-      "version": "0.1.20"
+      "version": "0.1.21"
     },
     {
       "kind": "plugin",
       "name": "fix-finding",
       "plugin": "codex-security",
       "skill_md_sha256": "05aaf8462d3baa222518f95641b778f69fe2c6b6220b3fcfe488275b7b2576d3",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.20/skills/fix-finding",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.21/skills/fix-finding",
       "tree_sha256": "3268ebfa279c7fca56542729ff65ec77347349da9072438f60428c29a4de9c87",
-      "version": "0.1.20"
+      "version": "0.1.21"
     },
     {
       "kind": "plugin",
       "name": "propose-security-hardening",
       "plugin": "codex-security",
       "skill_md_sha256": "b9d2c81ecb99e6eb4ad6424dbd297a935feb66c2658692d48caf4d9840eaf306",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.20/skills/propose-security-hardening",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.21/skills/propose-security-hardening",
       "tree_sha256": "7f787b0b53476ec3a6453b80cfd967f4072c30c5c4a123ab6bbaed52c0672404",
-      "version": "0.1.20"
+      "version": "0.1.21"
     },
     {
       "kind": "plugin",
       "name": "security-diff-scan",
       "plugin": "codex-security",
       "skill_md_sha256": "b5005fc7a759d3d0f72f772fee7862b990e16e55f2e6f67740dbfc4173bb3216",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.20/skills/security-diff-scan",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.21/skills/security-diff-scan",
       "tree_sha256": "84e2b7a95d003f2157318ec0d5e347d1173450496c3e2f5ec1858c2e272032de",
-      "version": "0.1.20"
+      "version": "0.1.21"
     },
     {
       "kind": "plugin",
       "name": "security-scan",
       "plugin": "codex-security",
       "skill_md_sha256": "1debb76dd727ee6f7c975e9bf830c12382caa2ebd0000d4af70446c1dd3b777b",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.20/skills/security-scan",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.21/skills/security-scan",
       "tree_sha256": "71efe1c2b2cb8c75532f2d5ea660dbc4f38308ca74a83d814154d4bcd6d67257",
-      "version": "0.1.20"
+      "version": "0.1.21"
     },
     {
       "kind": "plugin",
       "name": "threat-model",
       "plugin": "codex-security",
       "skill_md_sha256": "426d5bd7a9dabea0a03291fe27cd98cde2f2e31519be2b78a1f2ccf0079f9cb8",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.20/skills/threat-model",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.21/skills/threat-model",
       "tree_sha256": "1bd2842baa25ad59ee5ca0eb7b6a3a112ce443c60735d232ec7a80ef48ff9d1a",
-      "version": "0.1.20"
+      "version": "0.1.21"
     },
     {
       "kind": "plugin",
       "name": "track-findings",
       "plugin": "codex-security",
       "skill_md_sha256": "cb6e7625bc7c10fbc7b94d99918667c9e942bacb56d871e837a6939d20f4fd8c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.20/skills/track-findings",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.21/skills/track-findings",
       "tree_sha256": "fd218e96a54bb25791045b6a93fa49297f4d715d28053ccb21ab05ccac77dae6",
-      "version": "0.1.20"
+      "version": "0.1.21"
     },
     {
       "kind": "plugin",
       "name": "triage-finding",
       "plugin": "codex-security",
       "skill_md_sha256": "4c3499bad13a290bcf9678e996807ca6e613557d427d9efa87f104421e33008f",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.20/skills/triage-finding",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.21/skills/triage-finding",
       "tree_sha256": "b7d71d0f1c6adb21e4cc7df38b30293f6c3095154a620528d493690cf92c0c0b",
-      "version": "0.1.20"
+      "version": "0.1.21"
     },
     {
       "kind": "plugin",
       "name": "validation",
       "plugin": "codex-security",
       "skill_md_sha256": "84ecda6bc7a9379a3b8bf97a40a77c64f3cf8621d9e687c09652d35730bf2c8a",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.20/skills/validation",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.21/skills/validation",
       "tree_sha256": "b7a618b1bc69e955283c25c7873eebe1e41fc8d57b956c1dd3a6431c6aac0c76",
-      "version": "0.1.20"
+      "version": "0.1.21"
     },
     {
       "kind": "plugin",
       "name": "vulnerability-writeup",
       "plugin": "codex-security",
       "skill_md_sha256": "46ccff479884f6e2c9a38d9f84d168161959667357db53673134ffe71df6b219",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.20/skills/vulnerability-writeup",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.21/skills/vulnerability-writeup",
       "tree_sha256": "2c56676330841f80a988d25c48616b03f17f8030ca684e36dcd169f21ccd39ec",
-      "version": "0.1.20"
+      "version": "0.1.21"
     },
     {
       "kind": "plugin",
@@ -9647,37 +9647,37 @@
       "kind": "plugin",
       "name": "gh-address-comments",
       "plugin": "github",
-      "skill_md_sha256": "c1ebc337357402f7faabafe712e0c463981a65f736453efe52abd305bcb74769",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.8-2841cf9749ae/skills/gh-address-comments",
-      "tree_sha256": "e43fcf5ced7188693ac624c55d144621be0d2dd56776031eaa382ca03c359f17",
-      "version": "0.1.8-2841cf9749ae"
+      "skill_md_sha256": "f01ea4dea76d78db2de7cde217548324b67ad49860514907aeac1f05907493c1",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.9-5f7cd798dc99/skills/gh-address-comments",
+      "tree_sha256": "ca1a690bfe939984178883d424bf7258f8bbab7e3cb1029758cce5e0c4249898",
+      "version": "0.1.9-5f7cd798dc99"
     },
     {
       "kind": "plugin",
       "name": "gh-fix-ci",
       "plugin": "github",
-      "skill_md_sha256": "7621a3560d788fb221d25f9753233fe0c393c5cfe63167c88b11f027c277b1f8",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.8-2841cf9749ae/skills/gh-fix-ci",
-      "tree_sha256": "f374d7888cccf4cba172ceee0ac11a2c341c02cdc858516a41fd84b9ad1bd791",
-      "version": "0.1.8-2841cf9749ae"
+      "skill_md_sha256": "22a2c1714630df1e533e55943cefe590c72d384a6e87cab320556d76bc507ecb",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.9-5f7cd798dc99/skills/gh-fix-ci",
+      "tree_sha256": "2ce80c63221361a6a7881b5f8464f3c55354ebcb0ffa8439d66b0d4f25a9e65f",
+      "version": "0.1.9-5f7cd798dc99"
     },
     {
       "kind": "plugin",
       "name": "github",
       "plugin": "github",
-      "skill_md_sha256": "81dbdd90934fe86a79ddc4790fd211e5fca866302a74090ad153395f56f2bd42",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.8-2841cf9749ae/skills/github",
-      "tree_sha256": "b570687738e1e655a49e803ffaab56c0bcf859f82414571f3df2c3fcc7749f6f",
-      "version": "0.1.8-2841cf9749ae"
+      "skill_md_sha256": "1d2850eab84403d70cf8546f17625e86837dfb5827694eeed0c15ae916536236",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.9-5f7cd798dc99/skills/github",
+      "tree_sha256": "2ad649629ca5956e2853a8c048304bc32965d6deec54b27e0cc1dc3738e1a041",
+      "version": "0.1.9-5f7cd798dc99"
     },
     {
       "kind": "plugin",
       "name": "yeet",
       "plugin": "github",
-      "skill_md_sha256": "e93c6ea769ba673d30749a981cd8ad75b687f454e3c8e2e45e7cfcbd412df12c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.8-2841cf9749ae/skills/yeet",
-      "tree_sha256": "fe8bd8a12dc45bd34b770094917d498cfe479be0270fdc4024a9900bf9a567db",
-      "version": "0.1.8-2841cf9749ae"
+      "skill_md_sha256": "266543aa39df3b9b0ff893968e74f4960a97bd0faf89ea6185a03f5cfe6feaa1",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.9-5f7cd798dc99/skills/yeet",
+      "tree_sha256": "0f68b2fd939c6e9769c7e375880fb4dfe20b6b53f7d1f43455ab09805011a0f2",
+      "version": "0.1.9-5f7cd798dc99"
     },
     {
       "kind": "plugin",
@@ -11177,55 +11177,55 @@
       "kind": "plugin",
       "name": "documents",
       "plugin": "documents",
-      "skill_md_sha256": "a7513cbcde6be04a84216961e8799cd1c27600f93b28fbb10a4db76b5216df66",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.818.11542/skills/documents",
-      "tree_sha256": "ee30ff08bb639eb9e362a6bffb8dfae889188b12526ec654845c8e5c163f371d",
-      "version": "26.818.11542"
+      "skill_md_sha256": "fcbffaa012ca8a5514b3a47be8e1e4486e1e2afd4d4ae44d8577bc2e2628fec8",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.819.11345/skills/documents",
+      "tree_sha256": "e59050ec794f9ed07206f108971c84322d85c334ea1006a1e1b95ad897afe432",
+      "version": "26.819.11345"
     },
     {
       "kind": "plugin",
       "name": "pdf",
       "plugin": "pdf",
       "skill_md_sha256": "b1d67f4bad4e40adb0d068ba4632990eec128ad62bc5290aff4ce9f41b82fcc2",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/pdf/26.818.11542/skills/pdf",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/pdf/26.819.11345/skills/pdf",
       "tree_sha256": "02af5e417f8383cd18dc09e17b2880acb03fb28db32766f03f7420045b93d196",
-      "version": "26.818.11542"
+      "version": "26.819.11345"
     },
     {
       "kind": "plugin",
       "name": "presentations",
       "plugin": "presentations",
-      "skill_md_sha256": "15b9d138292acd8adb452db328a610a59856802551bd484cefe7d168ab8020b1",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.818.11542/skills/presentations",
-      "tree_sha256": "274fee97a7980d42409d2721ec632ba31b9ee5b740fae9d88ffb45e87fcb24c5",
-      "version": "26.818.11542"
+      "skill_md_sha256": "69f05a0372f138badfe65273b775719c346cfcb99d16553814a1d4c5d8a9c0d9",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.819.11345/skills/presentations",
+      "tree_sha256": "9a4a245222899d035922ed096158bbc5b3e3d8e24b33f03f61a748a2c057e76c",
+      "version": "26.819.11345"
     },
     {
       "kind": "plugin",
       "name": "excel-live-control",
       "plugin": "spreadsheets",
       "skill_md_sha256": "994e33cf1d3352d3fb4ab9e3f24076b63ecd0a92dae450f2b4a27cd9a7f00e88",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.818.11542/skills/excel-live-control",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.819.11345/skills/excel-live-control",
       "tree_sha256": "0eab55c3711236447174880480ff8def5c78b790eb4a04fabba044014dd5c674",
-      "version": "26.818.11542"
+      "version": "26.819.11345"
     },
     {
       "kind": "plugin",
       "name": "spreadsheets",
       "plugin": "spreadsheets",
-      "skill_md_sha256": "d77dbacdc4fa300bd23e1516a29242768f12930b7eab9bdabdad2824de3fe6ff",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.818.11542/skills/spreadsheets",
-      "tree_sha256": "f5d71c9c89f57dd1c6d60b302b0f2537d6ab6efcb54ef29c7d0bf386fc3ebfee",
-      "version": "26.818.11542"
+      "skill_md_sha256": "13780d271a174246bc56f20b10a1f7b21bb4a84e83cf86eb84f58dee1e54d6eb",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.819.11345/skills/spreadsheets",
+      "tree_sha256": "c407029f7eb57571369939a2cf2daf1453150531afd04c28ed0dfb85171b1903",
+      "version": "26.819.11345"
     },
     {
       "kind": "plugin",
       "name": "template-creator",
       "plugin": "template-creator",
       "skill_md_sha256": "f1d14fd2847a2e879611a8b8f872f5dc4676a0607958d015274d2dc61e812deb",
-      "source": "~/.codex/plugins/cache/openai-primary-runtime/template-creator/26.818.11542/skills/template-creator",
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/template-creator/26.819.11345/skills/template-creator",
       "tree_sha256": "a8367d458df37ad63f316098b09907172ccb0dadd41ba2b5261e5dca61ebca74",
-      "version": "26.818.11542"
+      "version": "26.819.11345"
     },
     {
       "kind": "plugin",
