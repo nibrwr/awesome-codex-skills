@@ -8075,7 +8075,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-08-20T14:04:19+00:00",
+  "generated_at": "2026-08-21T14:03:08+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8136,45 +8136,45 @@
       "name": "control-in-app-browser",
       "plugin": "browser",
       "skill_md_sha256": "bdec2bfc891a6bd3f0a62d9d872ece4c6c3678f75bef7a5a2916cb1a53cc6910",
-      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.810.52044/skills/control-in-app-browser",
+      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.818.22352/skills/control-in-app-browser",
       "tree_sha256": "cca4ca1d0479f9268f8ca21aa7c251eefe99de31c29426b183d88493de9bff99",
-      "version": "26.810.52044"
+      "version": "26.818.22352"
     },
     {
       "kind": "plugin",
       "name": "computer-use",
       "plugin": "computer-use",
-      "skill_md_sha256": "e0ec667e63fba01381eb889ddbfd44a05b8556b1e502428e8ff0a474750a08d6",
-      "source": "~/.codex/plugins/cache/openai-bundled/computer-use/1.0.1000717/skills/computer-use",
-      "tree_sha256": "229ae53211f70a9b58429973c386e9a845777c3a19c5238a5e9c42dc400565fa",
-      "version": "1.0.1000717"
+      "skill_md_sha256": "35cd2e306cb231217e3e925f2c21614d03951e8c5e237efc579d9d9dfe076e27",
+      "source": "~/.codex/plugins/cache/openai-bundled/computer-use/1.0.1000816/skills/computer-use",
+      "tree_sha256": "3133491761f0e2e02da0a085ec414c8cdb24de5a4acd8e1b84508a68d306de25",
+      "version": "1.0.1000816"
     },
     {
       "kind": "plugin",
       "name": "sites-building",
       "plugin": "sites",
-      "skill_md_sha256": "b85e029d54b28755f956e42d17fcc85bc000177d624f30ce8ecb1170ef8c5583",
-      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.37/skills/sites-building",
-      "tree_sha256": "578e1699c2f32474fd0dcdfc6f9bae8f9f590efd2fbecb84424105ded7083ee2",
-      "version": "0.1.37"
+      "skill_md_sha256": "d9a0911e568de8b1dd5adfde4ea49da89de625b9f2f6a59781499f13b5b21c22",
+      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.40/skills/sites-building",
+      "tree_sha256": "dde619c754f1c6c7f476d87854b62e9a9e1c6bd45dae28a0a047b584922abe77",
+      "version": "0.1.40"
     },
     {
       "kind": "plugin",
       "name": "sites-hosting",
       "plugin": "sites",
-      "skill_md_sha256": "64da1778d04c58f258eb73fccfbcff277f514f2a1f9a91697ad0dc81d12a5517",
-      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.37/skills/sites-hosting",
-      "tree_sha256": "c53067affadde7ae860a5d89ff6d4c09b402c98123ff2fc5de63e5278c166561",
-      "version": "0.1.37"
+      "skill_md_sha256": "a0a389cc91c8a9cd07dc68bfcdbd060cfdb4a73c6945eaa82aa60c390d079180",
+      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.40/skills/sites-hosting",
+      "tree_sha256": "6686d595f5094735fa2ebbea912cdf7f2bd703f4621e3ecbba2caca30e31a36e",
+      "version": "0.1.40"
     },
     {
       "kind": "plugin",
       "name": "visualize",
       "plugin": "visualize",
-      "skill_md_sha256": "38e7c12ad7ae4b39d018ea9ed4efa8d39948bfbcd75e6a3c761bdc24e4ec2d25",
-      "source": "~/.codex/plugins/cache/openai-bundled/visualize/1.0.21/skills/visualize",
-      "tree_sha256": "1fd1d44db2d7fbcdd10a1d80c6f2068fa3a425c2e170858a3fce2dce1bd74ab8",
-      "version": "1.0.21"
+      "skill_md_sha256": "e64cdd5dca2d5ef66b0972ce4fbe941e14acd75f3c2550c150dacc5936c7470c",
+      "source": "~/.codex/plugins/cache/openai-bundled/visualize/1.0.22/skills/visualize",
+      "tree_sha256": "6e6b7cfe242a770f9316d2eaabaf5e6b1cdb39c9176102210114dc5b3e973a23",
+      "version": "1.0.22"
     },
     {
       "kind": "plugin",
@@ -9539,145 +9539,145 @@
       "kind": "plugin",
       "name": "figma-code-connect",
       "plugin": "figma",
-      "skill_md_sha256": "5b41c740677940f53446c55ffeff04ba2c7c09173be03a89164eb49ead4f4eb9",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.18/skills/figma-code-connect",
-      "tree_sha256": "492c5864804754e553a8554546a0ddbc0f5281e99ad535b255ace7a0909a426d",
-      "version": "2.0.18"
+      "skill_md_sha256": "87af3996edb167d6aa3c044cb1bbb6a0d8e2d631c731bb896b1e1e8669640415",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-code-connect",
+      "tree_sha256": "93b4d885fef8050cb87439956a812945b186188a811b046da0584a9db765f26f",
+      "version": "2.0.19"
     },
     {
       "kind": "plugin",
       "name": "figma-create-new-file",
       "plugin": "figma",
       "skill_md_sha256": "82e0a018692d3d009b5d2c83ecce9203a4ce7dfbdb98b7b13a4f7e5b11832bc2",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.18/skills/figma-create-new-file",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-create-new-file",
       "tree_sha256": "638a1ac15cd1c4da5ec596c7045f82b947d1632d4432878786dce613c00a7e68",
-      "version": "2.0.18"
+      "version": "2.0.19"
     },
     {
       "kind": "plugin",
       "name": "figma-design-to-code",
       "plugin": "figma",
-      "skill_md_sha256": "10d0c15a4562531c7ece1370c3bc4425ae54070348272d48e82e7bcce8ad2b81",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.18/skills/figma-design-to-code",
-      "tree_sha256": "40a2feff5ea326984a60e53b287a6b4f5db827f04b5aaaae0e7faccfd4780b7e",
-      "version": "2.0.18"
+      "skill_md_sha256": "936bbe68b4731d4a8748db15f85247efde232c8ae0902857c2c79a9ed40649ea",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-design-to-code",
+      "tree_sha256": "a0f14b431b0c661698d40fd09a9d3ecfcc3780ed3a7b6c8ad56558d5c5485873",
+      "version": "2.0.19"
     },
     {
       "kind": "plugin",
       "name": "figma-generate-design",
       "plugin": "figma",
       "skill_md_sha256": "7d07e4f4f8fec7012cd82ab7b9e0e062595cf7dbc42fd5e3c7d2be19490d965c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.18/skills/figma-generate-design",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-generate-design",
       "tree_sha256": "ab2ac74dcdba16f7485c642daeb7d0d24c3642d7d05a17c8d128d4fd959c5240",
-      "version": "2.0.18"
+      "version": "2.0.19"
     },
     {
       "kind": "plugin",
       "name": "figma-generate-diagram",
       "plugin": "figma",
       "skill_md_sha256": "7297638dbf2130d1b37bfd85df65d290a4dd0b11a11b54abafcf7d07565922b5",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.18/skills/figma-generate-diagram",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-generate-diagram",
       "tree_sha256": "097795be1c8af95bcad8d20be037a893c00781afa7068c36b8dd4c409830ae84",
-      "version": "2.0.18"
+      "version": "2.0.19"
     },
     {
       "kind": "plugin",
       "name": "figma-generate-library",
       "plugin": "figma",
       "skill_md_sha256": "4c61bfb0a9cc069ce1d05a89a16f71af01c13fbf7f6853db4884447739db5c69",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.18/skills/figma-generate-library",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-generate-library",
       "tree_sha256": "5fb0a25c37bfaa0b1cdece873add15e7ec340dc5da48ca1f2bc378ecd3c4b41b",
-      "version": "2.0.18"
+      "version": "2.0.19"
     },
     {
       "kind": "plugin",
       "name": "figma-implement-motion",
       "plugin": "figma",
-      "skill_md_sha256": "dc2ea4e0f90311defb98008d98b7b3a9902325f1c7b603097fbb39ec1133962d",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.18/skills/figma-implement-motion",
-      "tree_sha256": "d26b79aa3b787794bcbb867e8c44bce2daa26d65f6af34599691cac67b7320d1",
-      "version": "2.0.18"
+      "skill_md_sha256": "2e26e67284d47c6a74aedf9dca7543f4c8817dafc59a11abb156d4f7feedb2c2",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-implement-motion",
+      "tree_sha256": "90d68c6f474534f56dcc592bb5d1e8889150b930100b708cf7cdfc6e5776c6c5",
+      "version": "2.0.19"
     },
     {
       "kind": "plugin",
       "name": "figma-swiftui",
       "plugin": "figma",
-      "skill_md_sha256": "73004a23c21ca4a5a687a48811ebd2443971634796ad0820b41c46c01b529c81",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.18/skills/figma-swiftui",
-      "tree_sha256": "9f377cf4308cc22299689006a3b74eedad7aaef42841530fb4e798e4db98196e",
-      "version": "2.0.18"
+      "skill_md_sha256": "868c4defe2c0854f5a3e27594d3fa0f20347c86a9b15d103483b7488bfa8affe",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-swiftui",
+      "tree_sha256": "0a6c9be47193e36c022611a2ba1496492e49beeaf29b818c17d14a6899110445",
+      "version": "2.0.19"
     },
     {
       "kind": "plugin",
       "name": "figma-use",
       "plugin": "figma",
       "skill_md_sha256": "60517ea3a4df724de5b7008220b2075c69d57eaaaccc067e18612626a54a5529",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.18/skills/figma-use",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-use",
       "tree_sha256": "3783f3c430fbca37c1639306d1fc7b0b6cd0028e70c3f4579ba002d378e66acf",
-      "version": "2.0.18"
+      "version": "2.0.19"
     },
     {
       "kind": "plugin",
       "name": "figma-use-figjam",
       "plugin": "figma",
       "skill_md_sha256": "16b15da304f777e6bdc79bf425da73fa1ce0ea41af726cab8ddd6f40180acd74",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.18/skills/figma-use-figjam",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-use-figjam",
       "tree_sha256": "c9cc4b57072381f6e6c78eae1af42d11ad215a0c1a4f535ba83da64471792305",
-      "version": "2.0.18"
+      "version": "2.0.19"
     },
     {
       "kind": "plugin",
       "name": "figma-use-motion",
       "plugin": "figma",
       "skill_md_sha256": "d74fa8c9435a5260f8a61e3a8fbf11c068f940ae3423e9be2efde8b5e785d78c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.18/skills/figma-use-motion",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-use-motion",
       "tree_sha256": "194492b6a05545e3d7a3dff96a887618a4806e3b40c58c0e7d7fbebabfd8a9a4",
-      "version": "2.0.18"
+      "version": "2.0.19"
     },
     {
       "kind": "plugin",
       "name": "figma-use-slides",
       "plugin": "figma",
       "skill_md_sha256": "0a69a65e686dcc223581afb409a4d31cf318716e2c65cc9c926839a8737e71a4",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.18/skills/figma-use-slides",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-use-slides",
       "tree_sha256": "7ea8625eb92997b7a9f99eb7666fd25dbcda31a84039fcb617e8bce1f31b8621",
-      "version": "2.0.18"
+      "version": "2.0.19"
     },
     {
       "kind": "plugin",
       "name": "gh-address-comments",
       "plugin": "github",
       "skill_md_sha256": "f01ea4dea76d78db2de7cde217548324b67ad49860514907aeac1f05907493c1",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.9-5f7cd798dc99/skills/gh-address-comments",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.10-5f7cd798dc99/skills/gh-address-comments",
       "tree_sha256": "ca1a690bfe939984178883d424bf7258f8bbab7e3cb1029758cce5e0c4249898",
-      "version": "0.1.9-5f7cd798dc99"
+      "version": "0.1.10-5f7cd798dc99"
     },
     {
       "kind": "plugin",
       "name": "gh-fix-ci",
       "plugin": "github",
       "skill_md_sha256": "22a2c1714630df1e533e55943cefe590c72d384a6e87cab320556d76bc507ecb",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.9-5f7cd798dc99/skills/gh-fix-ci",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.10-5f7cd798dc99/skills/gh-fix-ci",
       "tree_sha256": "2ce80c63221361a6a7881b5f8464f3c55354ebcb0ffa8439d66b0d4f25a9e65f",
-      "version": "0.1.9-5f7cd798dc99"
+      "version": "0.1.10-5f7cd798dc99"
     },
     {
       "kind": "plugin",
       "name": "github",
       "plugin": "github",
-      "skill_md_sha256": "1d2850eab84403d70cf8546f17625e86837dfb5827694eeed0c15ae916536236",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.9-5f7cd798dc99/skills/github",
-      "tree_sha256": "2ad649629ca5956e2853a8c048304bc32965d6deec54b27e0cc1dc3738e1a041",
-      "version": "0.1.9-5f7cd798dc99"
+      "skill_md_sha256": "e506d8b7aef0df45a0dd9ffa43ef1444914f5687fb7658fbc3b37cf64dfa1a88",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.10-5f7cd798dc99/skills/github",
+      "tree_sha256": "428bd2f7f7d1ee04c5157c6b22184d5900fa0a8f25c8f7d66fad790041337bd7",
+      "version": "0.1.10-5f7cd798dc99"
     },
     {
       "kind": "plugin",
       "name": "yeet",
       "plugin": "github",
       "skill_md_sha256": "266543aa39df3b9b0ff893968e74f4960a97bd0faf89ea6185a03f5cfe6feaa1",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.9-5f7cd798dc99/skills/yeet",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.10-5f7cd798dc99/skills/yeet",
       "tree_sha256": "0f68b2fd939c6e9769c7e375880fb4dfe20b6b53f7d1f43455ab09805011a0f2",
-      "version": "0.1.9-5f7cd798dc99"
+      "version": "0.1.10-5f7cd798dc99"
     },
     {
       "kind": "plugin",
