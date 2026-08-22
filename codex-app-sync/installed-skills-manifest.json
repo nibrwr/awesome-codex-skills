@@ -8075,7 +8075,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-08-21T14:03:08+00:00",
+  "generated_at": "2026-08-22T14:01:44+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -9540,108 +9540,108 @@
       "name": "figma-code-connect",
       "plugin": "figma",
       "skill_md_sha256": "87af3996edb167d6aa3c044cb1bbb6a0d8e2d631c731bb896b1e1e8669640415",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-code-connect",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.20/skills/figma-code-connect",
       "tree_sha256": "93b4d885fef8050cb87439956a812945b186188a811b046da0584a9db765f26f",
-      "version": "2.0.19"
+      "version": "2.0.20"
     },
     {
       "kind": "plugin",
       "name": "figma-create-new-file",
       "plugin": "figma",
       "skill_md_sha256": "82e0a018692d3d009b5d2c83ecce9203a4ce7dfbdb98b7b13a4f7e5b11832bc2",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-create-new-file",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.20/skills/figma-create-new-file",
       "tree_sha256": "638a1ac15cd1c4da5ec596c7045f82b947d1632d4432878786dce613c00a7e68",
-      "version": "2.0.19"
+      "version": "2.0.20"
     },
     {
       "kind": "plugin",
       "name": "figma-design-to-code",
       "plugin": "figma",
       "skill_md_sha256": "936bbe68b4731d4a8748db15f85247efde232c8ae0902857c2c79a9ed40649ea",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-design-to-code",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.20/skills/figma-design-to-code",
       "tree_sha256": "a0f14b431b0c661698d40fd09a9d3ecfcc3780ed3a7b6c8ad56558d5c5485873",
-      "version": "2.0.19"
+      "version": "2.0.20"
     },
     {
       "kind": "plugin",
       "name": "figma-generate-design",
       "plugin": "figma",
-      "skill_md_sha256": "7d07e4f4f8fec7012cd82ab7b9e0e062595cf7dbc42fd5e3c7d2be19490d965c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-generate-design",
-      "tree_sha256": "ab2ac74dcdba16f7485c642daeb7d0d24c3642d7d05a17c8d128d4fd959c5240",
-      "version": "2.0.19"
+      "skill_md_sha256": "4585464c09bed50215151e468ab8476848adcf56da017811ddcbfff199ee0b56",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.20/skills/figma-generate-design",
+      "tree_sha256": "b4e19e9de556cb03d3719bc3fa36626055b6ba3f4529a879cffb4fa4e213a890",
+      "version": "2.0.20"
     },
     {
       "kind": "plugin",
       "name": "figma-generate-diagram",
       "plugin": "figma",
       "skill_md_sha256": "7297638dbf2130d1b37bfd85df65d290a4dd0b11a11b54abafcf7d07565922b5",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-generate-diagram",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.20/skills/figma-generate-diagram",
       "tree_sha256": "097795be1c8af95bcad8d20be037a893c00781afa7068c36b8dd4c409830ae84",
-      "version": "2.0.19"
+      "version": "2.0.20"
     },
     {
       "kind": "plugin",
       "name": "figma-generate-library",
       "plugin": "figma",
-      "skill_md_sha256": "4c61bfb0a9cc069ce1d05a89a16f71af01c13fbf7f6853db4884447739db5c69",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-generate-library",
-      "tree_sha256": "5fb0a25c37bfaa0b1cdece873add15e7ec340dc5da48ca1f2bc378ecd3c4b41b",
-      "version": "2.0.19"
+      "skill_md_sha256": "3c995d483bbf4761392ba0c2e00df2b1b1c632cc05c6e7df57a2e89c311f53b7",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.20/skills/figma-generate-library",
+      "tree_sha256": "81c0f09fdf220a5b1ee555a867568ababdf8467a9f66a5403c6301d24c6c73b2",
+      "version": "2.0.20"
     },
     {
       "kind": "plugin",
       "name": "figma-implement-motion",
       "plugin": "figma",
       "skill_md_sha256": "2e26e67284d47c6a74aedf9dca7543f4c8817dafc59a11abb156d4f7feedb2c2",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-implement-motion",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.20/skills/figma-implement-motion",
       "tree_sha256": "90d68c6f474534f56dcc592bb5d1e8889150b930100b708cf7cdfc6e5776c6c5",
-      "version": "2.0.19"
+      "version": "2.0.20"
     },
     {
       "kind": "plugin",
       "name": "figma-swiftui",
       "plugin": "figma",
       "skill_md_sha256": "868c4defe2c0854f5a3e27594d3fa0f20347c86a9b15d103483b7488bfa8affe",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-swiftui",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.20/skills/figma-swiftui",
       "tree_sha256": "0a6c9be47193e36c022611a2ba1496492e49beeaf29b818c17d14a6899110445",
-      "version": "2.0.19"
+      "version": "2.0.20"
     },
     {
       "kind": "plugin",
       "name": "figma-use",
       "plugin": "figma",
-      "skill_md_sha256": "60517ea3a4df724de5b7008220b2075c69d57eaaaccc067e18612626a54a5529",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-use",
-      "tree_sha256": "3783f3c430fbca37c1639306d1fc7b0b6cd0028e70c3f4579ba002d378e66acf",
-      "version": "2.0.19"
+      "skill_md_sha256": "7de62bb574c7acf3241643e0aafcea13e48ff06a12ef5203447eda3584e6ff4f",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.20/skills/figma-use",
+      "tree_sha256": "614ca5991677fe964c621dd64be8714fd949ce342f03ab61b9e1631c3f117e79",
+      "version": "2.0.20"
     },
     {
       "kind": "plugin",
       "name": "figma-use-figjam",
       "plugin": "figma",
       "skill_md_sha256": "16b15da304f777e6bdc79bf425da73fa1ce0ea41af726cab8ddd6f40180acd74",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-use-figjam",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.20/skills/figma-use-figjam",
       "tree_sha256": "c9cc4b57072381f6e6c78eae1af42d11ad215a0c1a4f535ba83da64471792305",
-      "version": "2.0.19"
+      "version": "2.0.20"
     },
     {
       "kind": "plugin",
       "name": "figma-use-motion",
       "plugin": "figma",
       "skill_md_sha256": "d74fa8c9435a5260f8a61e3a8fbf11c068f940ae3423e9be2efde8b5e785d78c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-use-motion",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.20/skills/figma-use-motion",
       "tree_sha256": "194492b6a05545e3d7a3dff96a887618a4806e3b40c58c0e7d7fbebabfd8a9a4",
-      "version": "2.0.19"
+      "version": "2.0.20"
     },
     {
       "kind": "plugin",
       "name": "figma-use-slides",
       "plugin": "figma",
       "skill_md_sha256": "0a69a65e686dcc223581afb409a4d31cf318716e2c65cc9c926839a8737e71a4",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.19/skills/figma-use-slides",
-      "tree_sha256": "7ea8625eb92997b7a9f99eb7666fd25dbcda31a84039fcb617e8bce1f31b8621",
-      "version": "2.0.19"
+      "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.20/skills/figma-use-slides",
+      "tree_sha256": "893d67fb578f60bbabc7c4aba531a7a68cede79f7e544699a66cadc0e650aacd",
+      "version": "2.0.20"
     },
     {
       "kind": "plugin",
@@ -11016,162 +11016,162 @@
       "name": "analyze-account-signals",
       "plugin": "sales",
       "skill_md_sha256": "0aedda25d7117cede992c51301c03a8b05d74c313ccce538453149d389dfde65",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/analyze-account-signals",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/analyze-account-signals",
       "tree_sha256": "2d4aa1b0e793943c4219a46653f63a33db48a10563c463ee9008e340888b6fc7",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "build-business-case",
       "plugin": "sales",
       "skill_md_sha256": "fb801fe8f2784588f21aac0454ebd6bb7df222c1f63364dd71bd11912cd09913",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/build-business-case",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/build-business-case",
       "tree_sha256": "b6f400507bf4fb0a32f85c9110d28445632e8bf0f2220430eb4919265d18aa5a",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "build-competitive-brief",
       "plugin": "sales",
       "skill_md_sha256": "acb019f84f5af6c3563db82d823c9e1d5b2dbf381d3c6e3d1f5cf08240e8c8c9",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/build-competitive-brief",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/build-competitive-brief",
       "tree_sha256": "7bd2e5db8d0ce47fdc262b58a355bd6f6bfe02dba6992c0a6d5dda916b84c9f1",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "demo-exec-and-seller-dash",
       "plugin": "sales",
       "skill_md_sha256": "0f0bfa860380c4c4fb19d935813e6c18cc7ac3b08187f769bd14ab93ce602cc5",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/demo-exec-and-seller-dash",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/demo-exec-and-seller-dash",
       "tree_sha256": "1ca4863026886121acb0c2d7eb999906b1412bc2e7c5ce3223fa2201c238a4dd",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "enrich-company-and-contact-data",
       "plugin": "sales",
       "skill_md_sha256": "bb64962b47c8c9572b8de32350053bac34bd4adcd835d0112da6955ab6b5ff1c",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/enrich-company-and-contact-data",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/enrich-company-and-contact-data",
       "tree_sha256": "d1192cfb32958aa48b048392e6d4b616d6df2063a9a01709eea836426cfe2fdd",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "find-customer-quotes",
       "plugin": "sales",
       "skill_md_sha256": "a544077cabb28559411e0e1b1aadfa189a8b9c50b62aa9e3ab1049558dac2475",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/find-customer-quotes",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/find-customer-quotes",
       "tree_sha256": "1115d91f5390b8a1c8dcbbf7bfe8bb92c96be56c8ccafc2d89ce53ec65d83f48",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "find-key-internal-sources",
       "plugin": "sales",
       "skill_md_sha256": "e0a35568732d31ad8412dc29040eee8cfd2bdd579cee64db95f99f77d15f8f9b",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/find-key-internal-sources",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/find-key-internal-sources",
       "tree_sha256": "c8c172b0748ce5fe251ff1db48cabe299fc6dc0858626a74bc5d4ae052db828d",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "follow-up-after-call",
       "plugin": "sales",
       "skill_md_sha256": "a8eb5632ad029c169e446a5c03cbf108f3fe7031cc9c3e067a9a1d6dace63bec",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/follow-up-after-call",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/follow-up-after-call",
       "tree_sha256": "35f0758dbb5d7225ab4d48bf6fe239132e67deb9b5e9614126476a7f877f9c14",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "get-rep-call-feedback",
       "plugin": "sales",
       "skill_md_sha256": "12eba9f71f2bb66ba7bd35fabbe1767150b21ba746a495b0b94d168e9353cd0f",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/get-rep-call-feedback",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/get-rep-call-feedback",
       "tree_sha256": "9eb478883db8be4868e371da9b203e908b29c213d37830ea10de261134b7d248",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "index",
       "plugin": "sales",
       "skill_md_sha256": "882064098e874579744e98ba5a306c080711fe9042e01aefdfda257c1ae233d1",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/index",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/index",
       "tree_sha256": "e22f880e5e7e178748fcbd2d23add1959d9d68d6ee7721be6e516b02151c78e3",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "plan-deal-strategy",
       "plugin": "sales",
       "skill_md_sha256": "fdca13a29c05cbb52bfc1a25c9101922a93987bdbdb666cf37be61944c94a805",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/plan-deal-strategy",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/plan-deal-strategy",
       "tree_sha256": "c19a22ac9850336ed4b5dd5518f4eb3e5b3960c92061116d62ffca4d5575b931",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "prepare-for-meeting",
       "plugin": "sales",
       "skill_md_sha256": "8e081fb6f92e935adf0f54bd5cde44b03f298f93efb1f9d6a81dce5ccfb1ce77",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/prepare-for-meeting",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/prepare-for-meeting",
       "tree_sha256": "1e6f49f159446770a7cb2d65216d5a6a0a90a3efc40d01b8703095c9656cb864",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "review-forecast",
       "plugin": "sales",
       "skill_md_sha256": "d42de7385c5a8873a7c91532be550bbe6238a2e65085830fa1de4408acb508fd",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/review-forecast",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/review-forecast",
       "tree_sha256": "4949fe85a2cbe05017ff77accf1064b5078a88ecfd33d3be559429b1e5a7389a",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "review-rep-call-trends",
       "plugin": "sales",
       "skill_md_sha256": "5ca6bf7881004a892bd02e1359e31e85f5636f421595a7c901d99f01a0182fe2",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/review-rep-call-trends",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/review-rep-call-trends",
       "tree_sha256": "518f49d65472a6e615c7298a4854f9e584f1e27e746f6af45f10de5bec730108",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "sales-company-research",
       "plugin": "sales",
       "skill_md_sha256": "f00a88b8db4a6f08c282b6e3271ba41bd2558b42b4e5c7a8dbea344d1af9ee55",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/sales-company-research",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/sales-company-research",
       "tree_sha256": "2cb3aa1ceea1bdbe8eca9a5dcc54e931c407a042430a1e21d09380afc0d10161",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "sales-leadership-dashboard",
       "plugin": "sales",
       "skill_md_sha256": "5308dbe9893fc386872148baff65641a83e27702bc32756995b695c925a48448",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/sales-leadership-dashboard",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/sales-leadership-dashboard",
       "tree_sha256": "78649f99e359b1311a3818de476ad8348ab0c55f14d985e8f3275e29cb8c4113",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "sales-presentations",
       "plugin": "sales",
       "skill_md_sha256": "3d371bc6004537329c1c1230af8aa891676d72bbd039989358da75e40cc34539",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/sales-presentations",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/sales-presentations",
       "tree_sha256": "d342221fd856066f3a6f6f2ee4fd88f9de7bfd14c496e3172e663c805c80c3af",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
       "name": "seller-account-dashboard",
       "plugin": "sales",
       "skill_md_sha256": "1d60a57b53ffd76ba8c5c370e8142112b377cd29c3a1156f6b3bfe558bfefdf1",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.0/skills/seller-account-dashboard",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/sales/1.1.1/skills/seller-account-dashboard",
       "tree_sha256": "d2252f88d77cb57423d5eeef3af8b57b1fd43c41507b49c69f9f3f7be269e63d",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "kind": "plugin",
