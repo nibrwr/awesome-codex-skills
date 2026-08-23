@@ -8075,7 +8075,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-08-22T14:01:44+00:00",
+  "generated_at": "2026-08-23T14:01:50+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -9642,42 +9642,6 @@
       "source": "~/.codex/plugins/cache/openai-curated-remote/figma/2.0.20/skills/figma-use-slides",
       "tree_sha256": "893d67fb578f60bbabc7c4aba531a7a68cede79f7e544699a66cadc0e650aacd",
       "version": "2.0.20"
-    },
-    {
-      "kind": "plugin",
-      "name": "gh-address-comments",
-      "plugin": "github",
-      "skill_md_sha256": "f01ea4dea76d78db2de7cde217548324b67ad49860514907aeac1f05907493c1",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.10-5f7cd798dc99/skills/gh-address-comments",
-      "tree_sha256": "ca1a690bfe939984178883d424bf7258f8bbab7e3cb1029758cce5e0c4249898",
-      "version": "0.1.10-5f7cd798dc99"
-    },
-    {
-      "kind": "plugin",
-      "name": "gh-fix-ci",
-      "plugin": "github",
-      "skill_md_sha256": "22a2c1714630df1e533e55943cefe590c72d384a6e87cab320556d76bc507ecb",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.10-5f7cd798dc99/skills/gh-fix-ci",
-      "tree_sha256": "2ce80c63221361a6a7881b5f8464f3c55354ebcb0ffa8439d66b0d4f25a9e65f",
-      "version": "0.1.10-5f7cd798dc99"
-    },
-    {
-      "kind": "plugin",
-      "name": "github",
-      "plugin": "github",
-      "skill_md_sha256": "e506d8b7aef0df45a0dd9ffa43ef1444914f5687fb7658fbc3b37cf64dfa1a88",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.10-5f7cd798dc99/skills/github",
-      "tree_sha256": "428bd2f7f7d1ee04c5157c6b22184d5900fa0a8f25c8f7d66fad790041337bd7",
-      "version": "0.1.10-5f7cd798dc99"
-    },
-    {
-      "kind": "plugin",
-      "name": "yeet",
-      "plugin": "github",
-      "skill_md_sha256": "266543aa39df3b9b0ff893968e74f4960a97bd0faf89ea6185a03f5cfe6feaa1",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/github/0.1.10-5f7cd798dc99/skills/yeet",
-      "tree_sha256": "0f68b2fd939c6e9769c7e375880fb4dfe20b6b53f7d1f43455ab09805011a0f2",
-      "version": "0.1.10-5f7cd798dc99"
     },
     {
       "kind": "plugin",
