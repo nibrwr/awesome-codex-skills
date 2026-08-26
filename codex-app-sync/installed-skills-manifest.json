@@ -8075,7 +8075,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-08-25T14:03:18+00:00",
+  "generated_at": "2026-08-26T14:02:20+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8136,18 +8136,18 @@
       "name": "control-in-app-browser",
       "plugin": "browser",
       "skill_md_sha256": "bdec2bfc891a6bd3f0a62d9d872ece4c6c3678f75bef7a5a2916cb1a53cc6910",
-      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.818.41509/skills/control-in-app-browser",
+      "source": "~/.codex/plugins/cache/openai-bundled/browser/26.818.61809/skills/control-in-app-browser",
       "tree_sha256": "cca4ca1d0479f9268f8ca21aa7c251eefe99de31c29426b183d88493de9bff99",
-      "version": "26.818.41509"
+      "version": "26.818.61809"
     },
     {
       "kind": "plugin",
       "name": "computer-use",
       "plugin": "computer-use",
       "skill_md_sha256": "35cd2e306cb231217e3e925f2c21614d03951e8c5e237efc579d9d9dfe076e27",
-      "source": "~/.codex/plugins/cache/openai-bundled/computer-use/1.0.1000816/skills/computer-use",
+      "source": "~/.codex/plugins/cache/openai-bundled/computer-use/1.0.1000854/skills/computer-use",
       "tree_sha256": "3133491761f0e2e02da0a085ec414c8cdb24de5a4acd8e1b84508a68d306de25",
-      "version": "1.0.1000816"
+      "version": "1.0.1000854"
     },
     {
       "kind": "plugin",
