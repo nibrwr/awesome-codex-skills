@@ -1,0 +1,8 @@
+interface:
+  display_name: "App Store Assets"
+  short_description: "Build validated iOS and iPadOS store screenshots"
+  brand_color: "#0A84FF"
+  default_prompt: "Use $app-store-assets to create a validated App Store screenshot package for this iOS or iPadOS app."
+
+policy:
+  allow_implicit_invocation: true

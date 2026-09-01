@@ -79,10 +79,11 @@ For every new screen or component:
    - `Stores/`
    - `Services/`
    - `Support/` or `UI/`
-3. Copy `AppDesign.swift` and `AppComponents.swift` into the project.
-4. Copy `MacAppShell.swift` or `IOSAppShell.swift` only when useful for the app's initial root layout.
-5. Build the first screen using tokens/components, then verify compile errors before expanding.
-6. Include an explicit accessibility review in the final handoff.
+3. For every iOS or iPadOS app intended for App Store distribution, use the `app-store-assets` skill and scaffold its root-level `AppStore/` package. Keep it outside application target membership.
+4. Copy `AppDesign.swift` and `AppComponents.swift` into the project.
+5. Copy `MacAppShell.swift` or `IOSAppShell.swift` only when useful for the app's initial root layout.
+6. Build the first screen using tokens/components, then verify compile errors before expanding.
+7. Include an explicit accessibility review in the final handoff.
 
 ## OS Availability
 
@@ -102,4 +103,5 @@ Before final handoff, verify:
 - No opaque custom sidebar/window painting unless deliberate.
 - Empty/loading/error/success states exist for async workflows.
 - Keyboard, pointer, touch, and assistive-technology behavior are covered for the platform.
+- iOS and iPadOS projects intended for distribution contain the structured `AppStore/` asset package, including an iPad set when the app runs on iPad.
 - The app builds, or the exact blocker is reported.

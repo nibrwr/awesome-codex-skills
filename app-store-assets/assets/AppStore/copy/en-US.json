@@ -1,0 +1,21 @@
+{
+  "locale": "en-US",
+  "brand": "{APP_NAME}",
+  "shots": {
+    "01-core-value": {
+      "eyebrow": "THE MAIN BENEFIT",
+      "headline": "Replace with the app’s core value",
+      "subtitle": "Use one short supporting line that makes the benefit concrete."
+    },
+    "02-primary-workflow": {
+      "eyebrow": "HOW IT WORKS",
+      "headline": "Replace with the primary workflow",
+      "subtitle": "Show the most important action in real app UI."
+    },
+    "03-key-differentiator": {
+      "eyebrow": "WHY THIS APP",
+      "headline": "Replace with the strongest differentiator",
+      "subtitle": "Make the final opening message specific and verifiable."
+    }
+  }
+}

@@ -40,6 +40,8 @@ After those passes, run verification commands that fit the project and report fi
 - For Photos apps, distinguish developer-operated networking from Apple system services such as PhotoKit iCloud retrieval, Maps rendering, reverse geocoding, and WidgetKit.
 - Ensure local caches containing user media are stored in the intended container and excluded from backup when using fallback storage.
 - Validate that App Privacy answers and in-app privacy copy match actual behavior.
+- For iOS or iPadOS App Review preparation, use the `app-store-assets` skill and require its structured screenshot package. Confirm that Apple’s current dimensions were rechecked, `frames` was used only as the bezel stage, final canvases are opaque and exact-size, marketing claims match the submitted build, and every enabled platform and locale has validated deliverables.
+- If the app runs on iPad, treat a missing iPad screenshot set as an App Review readiness failure.
 
 ## Verification
 
@@ -49,7 +51,10 @@ Use the project's existing tools and schemes. Typical commands:
 git diff --check
 xcodebuild -project <App>.xcodeproj -scheme "<Scheme>" -destination 'platform=iOS Simulator,name=<Device>' build
 xcodebuild -project <App>.xcodeproj -scheme "<Scheme>" -destination 'platform=iOS Simulator,name=<Device>' test
+AppStore/scripts/build.sh
 ```
+
+Run the App Store asset command when the project contains that package and the review scope includes product-page assets. Do not regenerate approved public screenshots during an unrelated code-only review.
 
 For widgets, also inspect timeline provider payload size, placeholder behavior, stale-cache behavior, and tap deep links.
 
