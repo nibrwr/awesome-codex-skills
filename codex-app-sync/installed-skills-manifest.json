@@ -8093,7 +8093,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-09-02T14:02:49+00:00",
+  "generated_at": "2026-09-03T14:00:59+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -9588,6 +9588,15 @@
       "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.2.35-13ceeea1f599/skills/visualize-data",
       "tree_sha256": "6ff122618ede45d906f14cd0879eb2ec2101c6df0bf1a67d6250a41424792ad9",
       "version": "0.2.35-13ceeea1f599"
+    },
+    {
+      "kind": "plugin",
+      "name": "deep-research",
+      "plugin": "deep-research-work",
+      "skill_md_sha256": "c7b924a736d715bf90941c5e75460b3387ec90b1fdb3a7c79d3e9bfb10427dc6",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/deep-research-work/0.1.14/skills/deep-research",
+      "tree_sha256": "7c909e7a046d85ed8e62571a06ba4d7044af27a2d855c7b896eb0a8fb8f5c590",
+      "version": "0.1.14"
     },
     {
       "kind": "plugin",
