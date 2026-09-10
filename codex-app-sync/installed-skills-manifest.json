@@ -8093,7 +8093,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-09-09T12:02:20+00:00",
+  "generated_at": "2026-09-10T12:01:34+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -9270,135 +9270,135 @@
       "name": "assess-patch-risk",
       "plugin": "codex-security",
       "skill_md_sha256": "7fbbd0eb220408c0a0b27aaac8b43a165c7be3c49b48404f850546727133c97e",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/assess-patch-risk",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/assess-patch-risk",
       "tree_sha256": "4919e36ee5f3acf21252fa0aae440b24335268c600edb6395a0745d9167d5d18",
-      "version": "0.1.23"
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "attack-path-analysis",
       "plugin": "codex-security",
       "skill_md_sha256": "63e820ce598dd62c897283eab91d60ba0e4d81ecae8dc6e516d709e2ba6b0eaa",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/attack-path-analysis",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/attack-path-analysis",
       "tree_sha256": "e5c91cd94ca953e5f2e89155e457c4c45438b790b93f1f940cc0e2a81b48fcfa",
-      "version": "0.1.23"
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "deep-security-scan",
       "plugin": "codex-security",
-      "skill_md_sha256": "9f6dd957c2893531401f0ea16dbb969c6636dbc66793436eeb549c6894a01ef6",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/deep-security-scan",
-      "tree_sha256": "5ba2b186221cbec1cdd5a3eb6f35a3bbaea9c45eb00d587d1ea66776a5357531",
-      "version": "0.1.23"
+      "skill_md_sha256": "ab2ea3070a27880e27d06eae7d86d1aab759cc544e8b7760a8ed2da8b3606268",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/deep-security-scan",
+      "tree_sha256": "4e3d304219956645d298ad7e82e66287561ad82edd9331fb68fe5de2b73af3bc",
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "define-security-policy",
       "plugin": "codex-security",
       "skill_md_sha256": "286f549d7d5b017e13e38031494723b5870949e3f82ac85b6a9c32d4718433bf",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/define-security-policy",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/define-security-policy",
       "tree_sha256": "6e06410dc1c312597834b71cbcb8f71c0298aa489b0e32913f31d1bfe09ae981",
-      "version": "0.1.23"
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "finding-discovery",
       "plugin": "codex-security",
       "skill_md_sha256": "938b73329188aa124770fcdf7cf7916e2941c8fdbf20acd9df96bc1a80185fe7",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/finding-discovery",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/finding-discovery",
       "tree_sha256": "88b98b314d8614a7ded3310759d2b63231200fa80baa1dfb88193a2637f61561",
-      "version": "0.1.23"
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "fix-finding",
       "plugin": "codex-security",
       "skill_md_sha256": "7eca2ea1175edf2338ef08c69baef335abc5a57d09bcf405840f7e35e851cef9",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/fix-finding",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/fix-finding",
       "tree_sha256": "24f791b74a8e4b8703ae525987e2db1a025ee4ca3998f4b226c7cea2ee24e195",
-      "version": "0.1.23"
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "propose-security-hardening",
       "plugin": "codex-security",
       "skill_md_sha256": "b9d2c81ecb99e6eb4ad6424dbd297a935feb66c2658692d48caf4d9840eaf306",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/propose-security-hardening",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/propose-security-hardening",
       "tree_sha256": "7f787b0b53476ec3a6453b80cfd967f4072c30c5c4a123ab6bbaed52c0672404",
-      "version": "0.1.23"
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "security-diff-scan",
       "plugin": "codex-security",
       "skill_md_sha256": "0a4c519ad713585876ea7eb0a8af4b59892c86746f4c69851db9ab347b7fad2f",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/security-diff-scan",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/security-diff-scan",
       "tree_sha256": "8e181c5b958d7570019fc5707490a45a1e8a94ce3f59e9b1bc8c040b048846ac",
-      "version": "0.1.23"
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "security-scan",
       "plugin": "codex-security",
       "skill_md_sha256": "5b8f5d7debeca14c6b37e8e7ba737671362b8eb4b7f49e693c99c6bd04bc8fa0",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/security-scan",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/security-scan",
       "tree_sha256": "1c2b23f9a00c5c317128e30b1e7a1248af6df8cfbc019d84dd90b9c6b1c4ed39",
-      "version": "0.1.23"
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "threat-model",
       "plugin": "codex-security",
       "skill_md_sha256": "9aa474aed20b89a350a1e9181c8fdf80c89b6ca05a300e5cc4727cd31ae3eadd",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/threat-model",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/threat-model",
       "tree_sha256": "022d9048c485ce60315283ac93370372bf773dbc4d338fdbb10ff1998e9f489d",
-      "version": "0.1.23"
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "track-findings",
       "plugin": "codex-security",
       "skill_md_sha256": "8e3726e86ef0df509f1a635961f268e1bf04a4622a83e21c1d079f546cc61dcb",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/track-findings",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/track-findings",
       "tree_sha256": "041ada268c13464d73d0ec5595c3c0d2fd1c119faaacd5d4989693364e1b785c",
-      "version": "0.1.23"
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "triage-finding",
       "plugin": "codex-security",
       "skill_md_sha256": "70b0e771f286443ea32bbf466ad378b36f9123b4aa171ab02c6680fdbdb704f9",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/triage-finding",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/triage-finding",
       "tree_sha256": "edb00527d291b5b55bb2c801667f3d415954a953f5d4f7fa36032c776b377eee",
-      "version": "0.1.23"
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "validation",
       "plugin": "codex-security",
       "skill_md_sha256": "9d9c2478c31d9eb8bcab6b3bbdc6d8aa1f58ceef75361148fef11e9311543f2e",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/validation",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/validation",
       "tree_sha256": "443ab3976a975582afcbfa7c5a379a1d56e7d5a4a42762548e26f8a50eeab697",
-      "version": "0.1.23"
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "verify-fix",
       "plugin": "codex-security",
-      "skill_md_sha256": "3b10a60ef709553c706a3b023c26889cfde3261df44663a53687ba32ca919d5d",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/verify-fix",
-      "tree_sha256": "7bc347d3b9fa57e2b2bb43a913b22d1ec91d2535f3a694a40c1fcd6d379d78da",
-      "version": "0.1.23"
+      "skill_md_sha256": "3d4530484c7e4c18b6afe7c6527247e96517dce1ebd1bda9d349cd367ecb0ae3",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/verify-fix",
+      "tree_sha256": "5c670ecca5e368e538f01a01e37b911fbee8b2141e86cb3ffa30db6b0ea668c0",
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
       "name": "vulnerability-writeup",
       "plugin": "codex-security",
       "skill_md_sha256": "78105d91972d8d8fce44e4c24311a2b1a4c7acb23bbc3d69e628410cbcc35416",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.23/skills/vulnerability-writeup",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/codex-security/0.1.24/skills/vulnerability-writeup",
       "tree_sha256": "973fa05c1c58aac8cbb343df311eb00d8a861f68a0c4cbad6fb9788fa43e5fb7",
-      "version": "0.1.23"
+      "version": "0.1.24"
     },
     {
       "kind": "plugin",
