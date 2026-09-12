@@ -8093,7 +8093,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-09-11T12:01:05+00:00",
+  "generated_at": "2026-09-12T12:01:33+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -9117,72 +9117,72 @@
       "name": "canva-brand-check",
       "plugin": "canva",
       "skill_md_sha256": "b292189744392db22b9e72481056a0db94781bd64892480abe2ce50c76efbb73",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-brand-check",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/15.0.0/skills/canva-brand-check",
       "tree_sha256": "a136e84dfd3397cd3b471cee7bbb9f5f109e692f6fd84df4c1d72d1f8d5ec953",
-      "version": "14.0.0"
+      "version": "15.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-branded-presentation",
       "plugin": "canva",
       "skill_md_sha256": "cb941d4892cfeda9034f77cccaf1e1d8c45546bd3a41c5c85e72e37055150ca1",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-branded-presentation",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/15.0.0/skills/canva-branded-presentation",
       "tree_sha256": "271b1576c8e844e7d6f2900fc28408401c99642eba1d3cfc982e018833fc20f1",
-      "version": "14.0.0"
+      "version": "15.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-bulk-create",
       "plugin": "canva",
       "skill_md_sha256": "65deda62b60ce9e748c7a90b3e41e91dadc38f6deee3ba4aca799fd7502eb8b4",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-bulk-create",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/15.0.0/skills/canva-bulk-create",
       "tree_sha256": "c24f5c2823b085babd0729f8867f598ac3340769eb5b141421f2ea29e574b1ed",
-      "version": "14.0.0"
+      "version": "15.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-design-feedback",
       "plugin": "canva",
       "skill_md_sha256": "e18303be61308ad6dc8e05c4735b7254873f42ab9c6bc6c37b9cec339119be7b",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-design-feedback",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/15.0.0/skills/canva-design-feedback",
       "tree_sha256": "504b616c4108c7daf65cc75bb7fa92175bf59d056af1b761b39a71c621802efb",
-      "version": "14.0.0"
+      "version": "15.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-edit-design",
       "plugin": "canva",
       "skill_md_sha256": "842eeec8f89bfcfb3490ca92092f4ef441577ff7f9b7bae979aad99cc92ceaa8",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-edit-design",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/15.0.0/skills/canva-edit-design",
       "tree_sha256": "071a3686f34972070340015c9761fcfa860df293f2776ef0dec7d18c0a35c75b",
-      "version": "14.0.0"
+      "version": "15.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-implement-feedback",
       "plugin": "canva",
       "skill_md_sha256": "cb0d8a7434e7abd7a129ef74aa526ea7f5c0c7ea89db17e3a0ebf27d6108aa36",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-implement-feedback",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/15.0.0/skills/canva-implement-feedback",
       "tree_sha256": "21137ceddfe410a8d3bf9b944689ec88948c0a974fafbd2d2dc803a9a2211190",
-      "version": "14.0.0"
+      "version": "15.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-resize-for-social-media",
       "plugin": "canva",
       "skill_md_sha256": "bb36807630daf3ba7c2a27e83de64b329e03ce68457da874c36c5022ceff7094",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-resize-for-social-media",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/15.0.0/skills/canva-resize-for-social-media",
       "tree_sha256": "45b66dbb4fb3080f716dcafb178e89c9596ad5e70a95a903ac872cdcf0fa54a1",
-      "version": "14.0.0"
+      "version": "15.0.0"
     },
     {
       "kind": "plugin",
       "name": "canva-translate-design",
       "plugin": "canva",
       "skill_md_sha256": "c10b609033f5727c53d3c05dddd61c4e3d0de9a314b78420b2109dc6629192eb",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/14.0.0/skills/canva-translate-design",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/canva/15.0.0/skills/canva-translate-design",
       "tree_sha256": "bc7d71a5f722577e23f17a418f623759468c48772e748475081dac8c5a1347db",
-      "version": "14.0.0"
+      "version": "15.0.0"
     },
     {
       "kind": "plugin",
@@ -10518,48 +10518,48 @@
     },
     {
       "kind": "plugin",
-      "name": "agents-sdk",
+      "name": "agents",
       "plugin": "openai-developers",
-      "skill_md_sha256": "61830dccd552307bc714b961acae80b1c9c9c30b5d2faaa9e6043b6fb0414760",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.2.3/skills/agents-sdk",
-      "tree_sha256": "b04c66807e6a5a29ccc7b3469840ac7f1b2adc8f89777da6202eb8c2134c8221",
-      "version": "1.2.3"
+      "skill_md_sha256": "1918f74c7509ef03916f0a5c6fd85a35c66faba65e26948e41cd2351cf61f334",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.3.0/skills/agents",
+      "tree_sha256": "8c06dd6daefdd19dc654ec28f992321c76d866e77463d8934eca684ba4dcb9f5",
+      "version": "1.3.0"
     },
     {
       "kind": "plugin",
       "name": "build-chatgpt-app",
       "plugin": "openai-developers",
       "skill_md_sha256": "b4ba5e0847e9b56b327da4e7546f5f0bf3325f54d6d21fc119b320bc2c898a53",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.2.3/skills/build-chatgpt-app",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.3.0/skills/build-chatgpt-app",
       "tree_sha256": "40ff286e846dde564afd50a375b3f17c7a265d8570c4ae81542d601bb2eae4b8",
-      "version": "1.2.3"
+      "version": "1.3.0"
     },
     {
       "kind": "plugin",
       "name": "chatgpt-app-submission",
       "plugin": "openai-developers",
-      "skill_md_sha256": "c9b43ca8fe60189e541afa30ea32a86f1bd7ab58a353faac777192a282b796cf",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.2.3/skills/chatgpt-app-submission",
-      "tree_sha256": "573b9bffbbb8d23e93ba19e2b98a37d21a2c91a9ee79cbdf307ccc33cb56f274",
-      "version": "1.2.3"
+      "skill_md_sha256": "72fa8712d01af60f67893161d4a5b0f6fc433ef426b1f8468ae3941b8c7f5e23",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.3.0/skills/chatgpt-app-submission",
+      "tree_sha256": "ce3bdfa4c2d0f1e9b1b6b6e9a7e510e33a8261746176453be26490aa846d78b7",
+      "version": "1.3.0"
     },
     {
       "kind": "plugin",
       "name": "openai-api-troubleshooting",
       "plugin": "openai-developers",
       "skill_md_sha256": "9fb4e152430c2f0475d1d14ce61b413267d322af9c032f2affb64698ca562662",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.2.3/skills/openai-api-troubleshooting",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.3.0/skills/openai-api-troubleshooting",
       "tree_sha256": "7f7807c8b7dc0bfb23681df05223edf261e715f9b690235e33ea2b71ec59195f",
-      "version": "1.2.3"
+      "version": "1.3.0"
     },
     {
       "kind": "plugin",
       "name": "openai-platform-api-key",
       "plugin": "openai-developers",
       "skill_md_sha256": "780670286fb0acf32660abafc1bc34d7a25ff7a74af59e02db8fb62bbdd21ac2",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.2.3/skills/openai-platform-api-key",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-developers/1.3.0/skills/openai-platform-api-key",
       "tree_sha256": "7ffba1f3d13eb2d111beec53afbedbbb16cc0370f22d25b018302996095ce8b9",
-      "version": "1.2.3"
+      "version": "1.3.0"
     },
     {
       "kind": "plugin",
