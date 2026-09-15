@@ -8093,7 +8093,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-09-14T12:02:46+00:00",
+  "generated_at": "2026-09-15T12:02:53+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8153,19 +8153,19 @@
       "kind": "plugin",
       "name": "sites-building",
       "plugin": "sites",
-      "skill_md_sha256": "7d69bd668238b0344c5470876ed324b78dfe6ed053487edf4f3233345479842f",
-      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.57/skills/sites-building",
-      "tree_sha256": "69bce1163cb3378fd2223742a23af2e87a5b26ab5b508c6ece7b0de3891138b8",
-      "version": "0.1.57"
+      "skill_md_sha256": "5651e54e471d30405f0890b65d163d093224f01607556b3e445e7c3d5bd3877b",
+      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.70/skills/sites-building",
+      "tree_sha256": "a071cc639ed46a6c7297c23a1cc582879f2db63a5d3a6cfdfa67bc70cd3c8a50",
+      "version": "0.1.70"
     },
     {
       "kind": "plugin",
       "name": "sites-hosting",
       "plugin": "sites",
-      "skill_md_sha256": "a94792641384391d45edb3a45e30cd7c3db58d88c63d94e0b2111ffc485aaf72",
-      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.57/skills/sites-hosting",
-      "tree_sha256": "fe13d8bd5b51258494ea748c17f600d7972b10595caa24770e43aece475cf94e",
-      "version": "0.1.57"
+      "skill_md_sha256": "0d8ce03a009e434d81215aa0d2f3081e3eb8ce2f71b91e67b712591e7cb8f334",
+      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.70/skills/sites-hosting",
+      "tree_sha256": "c24bfdc1ad83e2ff0c377a70ecca4ab7e1cbd86a95765decc792bd3d6f19c2a5",
+      "version": "0.1.70"
     },
     {
       "kind": "plugin",
@@ -9600,15 +9600,6 @@
     },
     {
       "kind": "plugin",
-      "name": "deep-research",
-      "plugin": "deep-research-work",
-      "skill_md_sha256": "fe92f226b47314a3963738a7b98d5afc5d51973c7b589c72277e3cc9e59d44eb",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/deep-research-work/0.1.15/skills/deep-research",
-      "tree_sha256": "91831d581b9b1279c16deb3af9874dbf81b709241ee9d191c40ab206fb3efc0d",
-      "version": "0.1.15"
-    },
-    {
-      "kind": "plugin",
       "name": "figma-code-connect",
       "plugin": "figma",
       "skill_md_sha256": "87af3996edb167d6aa3c044cb1bbb6a0d8e2d631c731bb896b1e1e8669640415",
@@ -9720,45 +9711,45 @@
       "name": "govtribe-capture-workflows",
       "plugin": "govtribe",
       "skill_md_sha256": "fbb323b6b08d5739da3f9f4f8ff8da5c1b0177f651ff16d47e8ffb2b1632232b",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/govtribe/6.0.0/skills/govtribe-capture-workflows",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/govtribe/7.0.0/skills/govtribe-capture-workflows",
       "tree_sha256": "434c3c83a528b35f0a523efa9ad28995824ab569f014633adf3e104c1a52d56a",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "govtribe-deep-dive",
       "plugin": "govtribe",
       "skill_md_sha256": "a05f023d25967a90aec74e0bc0ad148abdc1a2e3c4c040c4a527e4829311ca15",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/govtribe/6.0.0/skills/govtribe-deep-dive",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/govtribe/7.0.0/skills/govtribe-deep-dive",
       "tree_sha256": "9c2ed0923c49f7e5877608f4fd53ea03858f717a29b789327eb1a162a4a0cce8",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "govtribe-market-intelligence",
       "plugin": "govtribe",
       "skill_md_sha256": "500bfd0bb7e8259add6a0f5d01214c9b2e2ac1d0bfb0e8934e76ce6905ce5b7e",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/govtribe/6.0.0/skills/govtribe-market-intelligence",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/govtribe/7.0.0/skills/govtribe-market-intelligence",
       "tree_sha256": "7f67fbb24fda79791cb2e8537b434df1d7b802f9e19fab2d438731ab20c6d71e",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "govtribe-pricing-data",
       "plugin": "govtribe",
       "skill_md_sha256": "a41200da86ce55544f7ce5eebbbc23a42287627f9f4bf7de06e47c2347101d05",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/govtribe/6.0.0/skills/govtribe-pricing-data",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/govtribe/7.0.0/skills/govtribe-pricing-data",
       "tree_sha256": "ad3b7713cd8febb109325bf2e94db16cf561f1fcdc782b590af62671489ace7b",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
       "name": "govtribe-proposal-workflows",
       "plugin": "govtribe",
       "skill_md_sha256": "f706d84b4d6362f14bd208eb0f30812ff3a59e423010740a4b4767ff0bc3f38b",
-      "source": "~/.codex/plugins/cache/openai-curated-remote/govtribe/6.0.0/skills/govtribe-proposal-workflows",
+      "source": "~/.codex/plugins/cache/openai-curated-remote/govtribe/7.0.0/skills/govtribe-proposal-workflows",
       "tree_sha256": "6202441f75ad9a32512424d26f044a3fcc809a5c5b4c3ab4a1f58dca85e5d150",
-      "version": "6.0.0"
+      "version": "7.0.0"
     },
     {
       "kind": "plugin",
