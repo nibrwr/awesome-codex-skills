@@ -8093,7 +8093,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-09-15T12:02:53+00:00",
+  "generated_at": "2026-09-16T12:03:18+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
@@ -8148,24 +8148,6 @@
       "source": "~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/template-creator/skills/template-creator",
       "tree_sha256": "a8367d458df37ad63f316098b09907172ccb0dadd41ba2b5261e5dca61ebca74",
       "version": "template-creator"
-    },
-    {
-      "kind": "plugin",
-      "name": "sites-building",
-      "plugin": "sites",
-      "skill_md_sha256": "5651e54e471d30405f0890b65d163d093224f01607556b3e445e7c3d5bd3877b",
-      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.70/skills/sites-building",
-      "tree_sha256": "a071cc639ed46a6c7297c23a1cc582879f2db63a5d3a6cfdfa67bc70cd3c8a50",
-      "version": "0.1.70"
-    },
-    {
-      "kind": "plugin",
-      "name": "sites-hosting",
-      "plugin": "sites",
-      "skill_md_sha256": "0d8ce03a009e434d81215aa0d2f3081e3eb8ce2f71b91e67b712591e7cb8f334",
-      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.70/skills/sites-hosting",
-      "tree_sha256": "c24bfdc1ad83e2ff0c377a70ecca4ab7e1cbd86a95765decc792bd3d6f19c2a5",
-      "version": "0.1.70"
     },
     {
       "kind": "plugin",
