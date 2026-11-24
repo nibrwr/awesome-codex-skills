@@ -5,14 +5,15 @@ description: Frame screenshots and screen recordings with the `frames` CLI. Use 
 
 # Apple Frames CLI
 
-`frames` 1.4.1 is a single-file Python CLI that applies Apple device bezels to screenshots and videos, auto-detects devices from input dimensions, applies masks when needed, and can merge multiple framed results. Video support uses external `ffmpeg` 5.1+ and `ffprobe` 5.1+ with no extra Python media stack.
+`frames` 1.8.0 is a single-file Python CLI that applies Apple device bezels to screenshots and videos, auto-detects devices from input dimensions, applies masks when needed, and can merge multiple framed results. Video support uses external `ffmpeg` 5.1+ and `ffprobe` 5.1+ with no extra Python media stack.
 
 ## What Agents Should Know
 
 - `frames` is the default command. `frames screenshot.png` and `frames frame screenshot.png` are equivalent.
 - Use `--json` for automation with `frame`, `info`, `video`, `video-info`, and `doctor`. Global flags `--json`, `--assets`, `--verbose`, and `--no-color` work before or after subcommands. `list`, `list-colors`, `colors`, and `setup` retain human-readable output.
 - Device support comes from the installed asset bundle, not hardcoded names in this skill. Use `frames list` and `frames list-colors` as the source of truth when exact names matter.
-- Duo support requires Frames 1.4.1+ and the separate `Frames-Duo-Experimental` pack. Download [Frames-Duo-Experimental.zip](https://cdn.macstories.net/images/uploads/2026/09/09/frames-duo-experimental-1788997654596-a33ef863e7.zip), extract it, and select the enclosed folder with `--assets`. Normal setup still downloads AppleFrames401.zip; updating the CLI alone does not install Duo assets. Do not claim real-device verification from generated test screenshots.
+- The standard asset pack covers iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Duo. After updating the CLI, `frames setup` downloads it; if `frames doctor` says the pack predates these devices, run setup again. Duo capture sizes are verified in the Xcode 27.1 simulator, not on hardware; do not claim real-device verification.
+- Apple HomeView (pack 4.3.1): 1088 × 1088 screenshots (HomeView Capture app) and 1080 × 1080 QuickTime captures resolve to `HomeView` (Silver, Starlight, Rose Pink, Space Gray). `--device "HomeView Wall Mounted"` selects the wall-mounted model (Silver, Space Gray). The frames are unofficial, built from Apple Store product images.
 - On macOS, the default asset location is the Apple Frames shortcut folder in iCloud Drive. That avoids downloading a second copy when the user already has the shortcut assets installed.
 - Use `frames video ...` for `.mp4`, `.mov`, and `.m4v`; the default `frames ...` path is for images.
 - Use `frames video-info ...` to probe videos and resolve the matching frame metadata without rendering.
@@ -149,11 +150,11 @@ frames setup /path/to/Frames
 - For one video, `--output` may be an explicit output file path or a directory. For multiple individual videos, use an output directory. Conflicts that would overwrite another input or send distinct inputs to the same output are rejected before rendering; choose a separate output directory or distinct source filenames.
 - `--merge` creates one horizontal video. Without `--playback-offset`, videos play simultaneously and duration is the longest input.
 - `--playback-offset` requires `--merge`; videos play left to right, inactive future videos hold their first frame, and completed videos hold their final frame.
-- Merged videos are proportionally scaled by device `physicalHeight` and bottom-aligned by default. Use `--no-scale` only when native framed pixel sizes matter more than physical proportion.
+- Merged videos are proportionally scaled by device `physicalHeight`, measured against each device's visible body rather than its padded frame canvas, and bottom-aligned by default. Use `--no-scale` only when native framed pixel sizes matter more than physical proportion.
 - Single-video output preserves audio unless `--strip-audio` is passed. Sequential `--playback-offset` merges concatenate audio and generate silence for inputs without audio. Simultaneous merges omit mixed audio in this version.
 - `--background` accepts only `white`, `black`, `transparent`, or `#RRGGBB`. The default canvas is opaque white, including with `--codec prores`; `--alpha` or `--codec hevc-alpha` changes the default to transparent. `--background transparent` selects ProRes MOV unless `--codec hevc-alpha` is explicit.
 - `--codec h264` is the default. Plain `--codec hevc` selects opaque HEVC MP4. `--codec prores` selects alpha-capable ProRes 4444 MOV; use `--alpha` or `--background transparent` for a transparent canvas. Explicit `--codec hevc-alpha` selects macOS VideoToolbox HEVC-with-alpha MOV, even when combined with `--alpha`. Without explicit `hevc-alpha`, `--alpha` takes precedence over `--codec hevc` and selects ProRes.
-- Use HEVC-alpha for compact delivery to Apple-compatible software that supports HEVC-with-alpha. Use ProRes 4444 (`yuva444p10le`) for editing and compositing. Verify the intended receiving app; HEVC-alpha support is not universal.
+- Use HEVC-alpha for compact delivery to Apple-compatible software that supports HEVC-with-alpha. Use ProRes 4444 (`yuva444p12le`) for editing and compositing. Verify the intended receiving app; HEVC-alpha support is not universal.
 - `--preset compact|balanced|best` controls H.264/HEVC hardware bitrate and software CRF. For HEVC-alpha, these presets set target bitrates of 4M, 7M, and 10M respectively; `best` is the default. Targets are not guaranteed file sizes. ProRes MOV files can be much larger; all presets keep the same ProRes settings.
 - `--quality N` is an expert software H.264/HEVC CRF override; lower is higher quality. HEVC-alpha rejects `--quality`; use `--preset` instead.
 - HEVC-alpha requires macOS and an ffmpeg build with `hevc_videotoolbox`, its `alpha_quality` option, and BGRA input support. The CLI checks these before rendering and reports unsupported configurations without silently falling back to an opaque codec. If unavailable, update ffmpeg or explicitly choose ProRes with `--alpha` and remove `--codec hevc-alpha`. `doctor` checks general video tool readiness; it does not certify HEVC-alpha support.
@@ -171,7 +172,7 @@ frames setup /path/to/Frames
 - `frames --json -m ...` returns a merged result with `merged`, `count`, and `frames`.
 - `frames --json -b N ...` returns `batches`, `batch_size`, `total`, and `frames` when there are multiple groups. A single group returns `merged`, `count`, and `frames`.
 - When proportional merge scaling is applied, per-frame `scale_factor` values are included in the JSON output. Image batch factors describe each frame within its own batch.
-- `frames --json info ...` returns either one object or a list of objects, including `device`, `primary_match`, `colors`, `color_count`, `has_mask`, `resize_width`, `variants`, and `is_variant`.
+- `frames --json info ...` returns either one object or a list of objects, including `device`, `primary_match`, `colors`, `color_count`, `has_mask`, `resize_width`, `variants`, and `is_variant`. `variants` lists every frame the pack can render for that input, the selected one included; it is empty when there is no other choice.
 - `frames --json video-info ...` returns one video metadata object, or a list for multiple videos, including `dimensions`, `source_dimensions`, `rotation`, `duration`, `fps`, `codec`, `audio`, `device`, `primary_match`, `color`, `frame_size`, `output_dimensions`, `padded`, `resize_width`, and `mask_missing`.
 - `frames --json doctor` returns asset path/source/version, PNG count, config presence, issues, notes, and suggested next steps.
 - `frames --json video ...` returns one video object, or `{ "videos": [...] }` for multiple individual outputs, including `output_codec`, `rotation`, `source_dimensions`, `output_dimensions`, `padded`, `preset`, `output_size_bytes`, `output_size`, `source_size_bytes`, `source_size`, `savings_bytes`, `savings`, and `savings_percent`.
@@ -205,9 +206,9 @@ Asset resolution order:
 
 Setup behavior:
 
-- `frames setup` downloads the current asset archive from `https://cdn.macstories.net/AppleFrames401.zip`.
+- `frames setup` downloads the current asset archive from `https://cdn.macstories.net/images/uploads/2026/11/18/appleframes431-1795036082113-06f3c2ecbf.zip` (AppleFrames431.zip, 55,029,373 bytes, SHA-256 `97c0009a9c0de1bd635bae74f2906d3036eadfe4cededc4bef27ab9894a5ad08`), pack version 4.3.1. It is the same pack the Apple Frames shortcut uses and covers iPhone 18 Pro, 18 Pro Max, iPhone Duo and its Book and Laptop poses, MacBook Pro with PROLED XDR Display, iPad mini (A20 Pro), Apple Watch Ultra 4, and Apple HomeView. It has 319 PNGs. Device frames are cropped to the device so canvases carry no empty border. If `frames doctor` notes that the pack predates one of these devices or poses, re-run `frames setup` to update it.
 - `frames setup /path/to/Frames` points the CLI at an existing asset folder instead of downloading.
-- For Duo, `--assets /path/to/Frames-Duo-Experimental` selects the extracted pack for one command; `frames setup /path/to/Frames-Duo-Experimental` saves it as the default. `--assets` and `setup PATH` take a local folder, not a URL or ZIP file. The full pack contains 519 PNGs and retains asset format version 4. Verify the published ZIP has 95,246,128 bytes and SHA-256 `36f64bcddeb97ae0e00e9abb91d79564aeaac284a2b479f6f6f87a5798ec4b83` when validating this specific pack.
+- `--assets` and `setup PATH` take a local folder, not a URL or ZIP file. The separate `Frames-Duo-Experimental` pack from 1.4.1 is superseded; switch users to the standard pack with `frames setup`.
 - The asset folder must contain `NewFrames.json`, `version.txt`, and the frame/mask PNGs.
 - Setup checks `ffmpeg`/`ffprobe` for video framing and can install ffmpeg through Homebrew on macOS when run interactively.
 - `frames setup --subfolder` and `frames setup --no-subfolder` update the default save behavior in config.
@@ -216,44 +217,62 @@ Setup behavior:
 
 ## Current Supported Device Families
 
-With the experimental Duo pack and updated CLI, the exact image/video dimensions are:
+iPhone Duo screenshots are detected by exact width and height:
 
 | Input width × height | Frame |
 | --- | --- |
 | 1398 × 2034 | iPhone Duo Outer Portrait |
 | 2034 × 1398 | iPhone Duo Outer Landscape |
-| 1878 × 2670 | iPhone Duo Inner Portrait |
-| 2670 × 1878 | iPhone Duo Inner Landscape |
+| 2007 × 2853 | iPhone Duo Inner Portrait |
+| 2853 × 2007 | iPhone Duo Inner Landscape |
 
-All four have Night Sky (default) and Star White finishes. `--device "iPhone Duo Outer Open"` frames a 1398 × 2034 input in Apple's rear view, with the display on the right. This view is not selected automatically. The pack handles the inner artwork's larger opening through explicit resize dimensions; do not resize the input yourself or add a notch. The outer camera is already part of Apple's frame. JSON reports `experimental: true`. Generated demos establish geometry at published resolutions, not actual device capture behavior. Preserve this qualification until real Duo screenshots are checked.
+All four have Night Sky (default) and Star White finishes. The inner sizes are the Xcode 27.1 simulator's captures and frame at 1:1; mockups at Apple's announced 1878 × 2670 or 2670 × 1878 are scaled to the same frames. Do not resize the input yourself or add a camera cutout; the outer camera is part of Apple's frame. `--device "iPhone Duo Outer Open"` frames a 1398 × 2034 input in Apple's rear view, with the display on the right; it is never selected automatically, and `frames list` shows it under manual frames. Simulator inner-display recordings (2006 × 2852, rotation-tagged) are not detected automatically; pass `--device` with the matching inner orientation. Outer landscape artwork has the camera at the top left, so screenshots taken in the opposite landscape orientation show the frame's camera over content.
 
 ```bash
-frames --assets /path/to/Frames-Duo-Experimental --json info duo.png
-frames --assets /path/to/Frames-Duo-Experimental -c "Star White" duo.png
-frames --assets /path/to/Frames-Duo-Experimental -d "iPhone Duo Outer Portrait" outer-portrait.png
-frames --assets /path/to/Frames-Duo-Experimental -d "iPhone Duo Outer Open" outer-portrait.png
+frames --json info duo.png
+frames -c "Star White" duo.png
+frames -d "iPhone Duo Outer Open" outer-portrait.png
+frames --merge iphone-18-pro.png duo-outer.png
 ```
 
-The two explicit outer views use the same 1398 × 2034 input. The default is `iPhone Duo Outer Portrait`, showing only the outer display. `iPhone Duo Outer Open` includes the phone's back next to that display. Use the same `--device` choices with `video` and `video-info`. The flag selects one frame for the whole invocation; make separate calls to render both views. See the repository's `docs/iphone-duo-experimental.md` for the full setup, verification, and restore instructions.
+Two partially open poses frame inner-display screenshots on a folded phone. They need `frames` 1.7.2 and asset pack 4.2.2, and they are never selected automatically:
 
-The standard v4 asset bundle used by `frames` 1.4.1 includes these primary families:
+| `--device` | Input width × height | Full frame name |
+| --- | --- | --- |
+| `iPhone Duo Book Pose` | 2853 × 2007 or 2670 × 1878 | iPhone Duo Inner Partially Open Landscape |
+| `iPhone Duo Laptop Pose` | 2007 × 2853 or 1878 × 2670 | iPhone Duo Inner Partially Open Portrait |
 
-- iPhone: iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, iPhone Air, iPhone 16, iPhone 16 Plus, iPhone 12-13 Pro, iPhone 12-13 Pro Max, iPhone 12-13 mini, iPhone 8 / 2020 SE
-- iPad: iPad mini 2021, iPad 2021, iPad Air 2020, iPad Pro 2018-2021 11-inch, iPad Pro 2018-2021 12.9-inch, iPad Pro 2024 11-inch, iPad Pro 2024 13-inch
-- Mac: MacBook Neo, MacBook Pro 13, MacBook Air 2020, MacBook Air M5 13, MacBook Air M5 15, MacBook Pro M5 14, MacBook Pro M5 16, iMac M4, Studio Display, Studio Display XDR
-- Watch: Watch Series 7 41, Watch Series 7 45, Watch Series 11 42, Watch Series 11 46, Watch Ultra 2024, Watch Ultra 3
+Both have Night Sky (default) and Star White finishes, and use the saved default color of iPhone Duo Inner until they have their own. Any other input size fails with an error that names the accepted sizes. Framed images are 2564 × 2026 pixels (Book Pose) and 2064 × 1560 pixels (Laptop Pose); screenshots are never upscaled. From `frames` 1.7.3 the poses also frame recordings: `frames video -d "iPhone Duo Book Pose" recording.mov`. Video accepts any recording with the inner display's shape, such as the simulator's 2852 × 2006, reads rotation metadata for these two poses, rejects other shapes, and takes several times longer than flat frames. `frames` 1.7.2 rejects the poses for video as available for screenshots only. JSON output reports the full frame name as `device`. `frames list` shows the poses under manual frames when the pack has them; with an older pack, `--device "iPhone Duo Book Pose"` fails with an error that says to run `frames setup`.
+
+```bash
+frames -d "iPhone Duo Book Pose" inner-landscape.png
+frames -d "iPhone Duo Laptop Pose" -c "Star White" inner-portrait.png
+```
+
+To capture from the simulator: `xcrun simctl io booted screenshot --display=1` for the outer display and `--display=3` for the inner display. Fold state comes from Device Hub's Closed, Book, and Open buttons. See the repository's `docs/iphone-duo.md` for capture, video, merge, and rebuild details.
+
+The standard v4 asset bundle used by `frames` 1.8.0 includes these primary families:
+
+- iPhone: iPhone Duo (inner and outer displays), iPhone 18 Pro, iPhone 18 Pro Max, iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, iPhone Air, iPhone 16, iPhone 16 Plus, iPhone 12-13 Pro, iPhone 12-13 Pro Max, iPhone 12-13 mini, iPhone 8 / 2020 SE
+- iPad: iPad mini A20 Pro, iPad mini 2021, iPad 2021, iPad Air 2020, iPad Pro 2018-2021 11-inch, iPad Pro 2018-2021 12.9-inch, iPad Pro 2024 11-inch, iPad Pro 2024 13-inch
+- Mac: MacBook Pro PROLED 14, MacBook Pro PROLED 16, MacBook Neo, MacBook Pro 13, MacBook Air 2020, MacBook Air M5 13, MacBook Air M5 15, MacBook Pro M5 14, MacBook Pro M5 16, iMac M4, Studio Display, Studio Display XDR
+- Watch: Watch Series 7 41, Watch Series 7 45, Watch Series 11 42, Watch Series 11 46, Watch Ultra 2024, Watch Ultra 3, Watch Ultra 4
 
 Current default variant resolution favors the newest matching frame for shared screenshot sizes:
 
-- `iPhone 17 Portrait` resolves to `iPhone 17 Pro Portrait`
-- `iPhone 17 Landscape` resolves to `iPhone 17 Pro Landscape`
-- `iPhone 17 Pro Max` shares sizes with `iPhone 16 Pro Max`
+- `iPhone 17 Portrait` (1206 × 2622) and `iPhone 17 Landscape` resolve to `iPhone 18 Pro Portrait` and `iPhone 18 Pro Landscape`
+- `iPhone 17 Pro Max Portrait` (1320 × 2868) and `iPhone 17 Pro Max Landscape` resolve to `iPhone 18 Pro Max Portrait` and `iPhone 18 Pro Max Landscape`
+- iPhone 18 Pro colors are Burgundy (default), Glacier, Silver, and Black
+- With a pack that predates iPhone 18 Pro, the same sizes fall back to `iPhone 17 Pro` and `iPhone 17 Pro Max`; 16 Pro frames remain selectable with `--device`
 - `iPhone 16` shares sizes with `iPhone 15 Pro`
 - `iPhone 16 Plus` shares sizes with `iPhone 15 Pro Max`
 - `MacBook Pro M5` shares sizes with `MacBook Pro 2021`
+- Asset pack 4.2.1 also recognizes the verified 16-inch PROLED Default-setting CleanShot capture (3822 × 2478), its downsampled 2000 × 1297 copy, and 4128 × 2694 More Space. Each requires an exact width and height and resizes to the entire 3472 × 2266 opening.
+- `MacBook Pro PROLED 14` (3024 × 1986) and `MacBook Pro PROLED 16` (3472 × 2266) come in Silver (default) and Space Black. The 14-inch shares its width with `MacBook Pro M5 14` (3024 × 1964), so width 3024 is matched by height
 - `MacBook Air M5 13` shares sizes with `MacBook Air 2022`
 - `Studio Display` shares sizes with `Studio Display XDR`
 - `Watch Series 11` shares sizes with `Watch Series 10`
+- `Watch Ultra 3` (422 × 514) resolves to `Watch Ultra 4`; Ultra 3 stays selectable with `--device`. iPad mini A20 Pro is 1512 × 2316 and 2316 × 1512 and shares no size
 
 If an exact older variant is required, pass `--device` with the exact frame name instead of relying on auto-detection.
 

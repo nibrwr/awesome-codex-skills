@@ -3137,9 +3137,9 @@
       "kind": "user",
       "name": "frames-cli",
       "plugin": null,
-      "skill_md_sha256": "22cb28048c864df6ad2d4e060a2c8a7d1155cac643f9d25517bdd4bf39824c3a",
+      "skill_md_sha256": "b989855b57a3053c7c1adb6646d2274df9b1f03d88b8a664797edbda58a436d5",
       "source": "~/Development/frames-cli/skill",
-      "tree_sha256": "00eed32735d1805d5fba5671469452d87efcca1abbcf9223c9f85f69af412cc6",
+      "tree_sha256": "edd5bd565760aa6fabbc0fea0ac12927e7bb05574ef7ac89bdf5312291cd1ba1",
       "version": null
     },
     {
@@ -8084,7 +8084,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-11-24T23:38:08+00:00",
+  "generated_at": "2026-11-24T23:43:43+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
