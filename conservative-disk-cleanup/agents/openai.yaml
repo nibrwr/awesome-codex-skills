@@ -1,0 +1,4 @@
+interface:
+  display_name: "Conservative Disk Cleanup"
+  short_description: "Audit disk use and remove approved obsolete assets"
+  default_prompt: "Use $conservative-disk-cleanup to compare local project usage with disk use, including Codex caches, prepare a conservative cleanup list, and execute the paths I approve."

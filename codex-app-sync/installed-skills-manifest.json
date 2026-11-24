@@ -1875,6 +1875,15 @@
     },
     {
       "kind": "user",
+      "name": "conservative-disk-cleanup",
+      "plugin": null,
+      "skill_md_sha256": "1cff4f7d1d860413f6481f87fb715c76fd8d3397a86923f72edbfd4a3aaadb2a",
+      "source": "~/.codex/skills/conservative-disk-cleanup",
+      "tree_sha256": "77dfdf840b9f816da43ac8c3c3c9ed7bf974792a35064ecc41c2a5824a35bda9",
+      "version": null
+    },
+    {
+      "kind": "user",
       "name": "content-research-writer",
       "plugin": null,
       "skill_md_sha256": "27eb5c1a0a88a9c1c64f6fcd9c28782e6a6e70d5da43233c4e99ade946f74825",
@@ -8084,7 +8093,7 @@
       "version": null
     }
   ],
-  "generated_at": "2026-11-24T23:43:43+00:00",
+  "generated_at": "2026-11-24T23:46:34+00:00",
   "monitored_plugin_skills": [
     {
       "kind": "plugin",
