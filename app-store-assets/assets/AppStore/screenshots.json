@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "specification": {
+    "verifiedOn": "2026-08-31",
+    "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/screenshot-specifications/"
+  },
+  "platforms": {
+    "iPhone": true,
+    "iPad": true
+  },
+  "locales": [
+    "en-US"
+  ],
+  "theme": {
+    "backgroundTop": "#F7F9FC",
+    "backgroundBottom": "#E8EEF8",
+    "text": "#101318",
+    "mutedText": "#586174",
+    "accent": "#0A84FF"
+  },
+  "forbiddenOCRPatterns": [
+    "Lorem ipsum",
+    "Example User",
+    "UI Testing",
+    "UITEST",
+    "fixture data",
+    "placeholder"
+  ],
+  "sets": [
+    {
+      "id": "iphone-6.9",
+      "platform": "iPhone",
+      "width": 1320,
+      "height": 2868,
+      "device": "iPhone 17 Pro Max Portrait",
+      "frameColor": "Silver",
+      "layout": {
+        "headerFraction": 0.28,
+        "sideMarginFraction": 0.085,
+        "deviceMaxWidthFraction": 0.82,
+        "deviceMaxHeightFraction": 0.70
+      },
+      "shots": [
+        "01-core-value",
+        "02-primary-workflow",
+        "03-key-differentiator"
+      ]
+    },
+    {
+      "id": "ipad-13",
+      "platform": "iPad",
+      "width": 2064,
+      "height": 2752,
+      "device": "iPad Pro 2024 13 Portrait",
+      "frameColor": "",
+      "layout": {
+        "headerFraction": 0.25,
+        "sideMarginFraction": 0.075,
+        "deviceMaxWidthFraction": 0.84,
+        "deviceMaxHeightFraction": 0.72
+      },
+      "shots": [
+        "01-core-value",
+        "02-primary-workflow",
+        "03-key-differentiator"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple App Performance & UX Review"
+  short_description: "Evidence-driven Apple app performance and UX audit"
+  default_prompt: "Use $apple-app-performance-ux-review to audit this app for performance, code efficiency, accessibility, and current UI/UX patterns."
